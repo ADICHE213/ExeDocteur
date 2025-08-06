@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>ADICHE - Diagnostic Médical</title>
-    <link rel="manifest" href="/manifest.json">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Google Fonts (optionnel pour esthétique) -->
@@ -181,13 +180,13 @@
 
         <h3>Ajouter une entrée</h3>
 
-        <input list="symptomes" id="symptomeInput" type="text" placeholder="Tapez une entrée">
+        <input id="symptomeInput" type="text" placeholder="Tapez une entrée" oninput="montrerSuggestions()">
+<ul id="suggestions" style="list-style: none; padding: 0; margin-top: -8px;"></ul>
         <datalist id="symptomes">
             {% for s in symptomes %}
                 <option value="{{ s }}">
             {% endfor %}
         </datalist>
-        <button onclick="ajouterSymptome()">Ajouter</button>
 
         <h3>Entrées sélectionnées</h3>
         <ul id="listeSymptomes"></ul>
@@ -200,8 +199,13 @@
     </div>
 
     <script src="{{ url_for('static', filename='script.js') }}"></script>
+<script>
+    const symptomesDisponibles = {{ symptomes | tojson }};
+</script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
+
 
 
 
