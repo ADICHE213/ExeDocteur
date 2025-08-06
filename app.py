@@ -19,7 +19,7 @@ liste_symptomes = sorted(tous_les_symptomes)
 # ✅ Page principale
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', symptomes=liste_symptomes)
 
 # ✅ Route d’autocomplétion appelée par JS
 @app.route('/autocompletion')
@@ -55,6 +55,7 @@ def diagnostic():
 # ✅ Lancer le serveur
 if __name__ == '__main__':
     app.run()
+
 
 
 
