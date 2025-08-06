@@ -7,7 +7,10 @@ app = Flask(__name__)
 CORS(app)  # ✅ Permet aux navigateurs comme Firefox de faire des requêtes JS
 
 # Charger les données depuis data.json
-with open("data.json", "r", encoding="utf-8") as f:
+basedir = os.path.abspath(os.path.dirname(__file__))
+data_file = os.path.join(basedir, "data.json")
+
+with open(data_file, "r", encoding="utf-8") as f:
     diagnostic_data = json.load(f)
 
 # Extraire tous les symptômes pour l'autocomplétion
@@ -56,6 +59,7 @@ def diagnostic():
 # ✅ Lancer le serveur
 if __name__ == '__main__':
     app.run()
+
 
 
 
