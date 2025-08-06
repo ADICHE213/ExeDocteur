@@ -26,11 +26,6 @@ def index():
 def autocompletion():
     return jsonify(liste_symptomes)
 
-# ✅ Route pour servir manifest.json
-@app.route('/manifest.json')
-def manifest():
-    return send_from_directory('.', 'manifest.json')
-
 # ✅ Route pour les diagnostics
 @app.route('/diagnostic', methods=['POST'])
 def diagnostic():
@@ -60,6 +55,7 @@ def diagnostic():
 # ✅ Lancer le serveur
 if __name__ == '__main__':
     app.run(debug=True)
+
 
 
 
