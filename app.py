@@ -1,54 +1,64 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_from_directory
+from flask_cors import CORS
 import json
+import os
 
 app = Flask(__name__)
+CORS(app)  # ✅ Permet aux navigateurs comme Firefox de faire des requêtes JS
 
-# Charger le fichier data.json
+# Charger les données depuis data.json
 with open("data.json", "r", encoding="utf-8") as f:
     diagnostic_data = json.load(f)
 
-@app.route("/")
+# Extraire tous les symptômes pour l'autocomplétion
+tous_les_symptomes = set()
+for diag in diagnostic_data:
+    tous_les_symptomes.update(diag.get("symptomes", []))
+liste_symptomes = sorted(tous_les_symptomes)
+
+# ✅ Page principale
+@app.route('/')
 def index():
-    # Extraire tous les symptômes pour l'autocomplétion
-    symptomes = sorted({
-        s for infos in diagnostic_data.values()
-        for s in infos.get("symptomes", [])
-    })
-    return render_template("index.html", symptomes=symptomes)
+    return render_template('index.html')
 
-@app.route("/diagnostic", methods=["POST"])
+# ✅ Route d’autocomplétion appelée par JS
+@app.route('/autocompletion')
+def autocompletion():
+    return jsonify(liste_symptomes)
+
+# ✅ Route pour servir manifest.json
+@app.route('/manifest.json')
+def manifest():
+    return send_from_directory('.', 'manifest.json')
+
+# ✅ Route pour les diagnostics
+@app.route('/diagnostic', methods=['POST'])
 def diagnostic():
-    donnees = request.get_json()
-    symptomes_utilisateur = set(donnees.get("symptomes", []))
-    sexe = donnees.get("sexe")
-    age = donnees.get("age")
+    data = request.get_json()
+    symptomes_selectionnes = set(data.get('symptomes', []))
+    sexe = data.get('sexe', 'Tous')
+    age = data.get('age', '15-45')
 
-    # ✅ Si aucun symptôme n’est sélectionné, on ne retourne rien
-    if not symptomes_utilisateur:
+    if not symptomes_selectionnes:
         return jsonify([])
 
     resultats = []
+    for d in diagnostic_data:
+        d_symptomes = set(d.get("symptomes", []))
+        d_sexe = d.get("sexe", "Tous")
+        d_age = d.get("age", "Tous")
 
-    for diagnostic, infos in diagnostic_data.items():
-        symptomes_diagnostic = set(infos.get("symptomes", []))
-        frequence = infos.get("frequence", 0)
-        sexes = infos.get("sexe", ["Masculin", "Féminin"])
-        ages = infos.get("age", ["0-15", "15-45", ">45"])
+        if symptomes_selectionnes.issubset(d_symptomes):
+            if d_sexe in [sexe, "Tous"] and d_age in [age, "Tous"]:
+                resultats.append(d)
 
-        # ✅ Filtrer selon symptômes, sexe et âge
-        if (
-            symptomes_utilisateur.issubset(symptomes_diagnostic)
-            and sexe in sexes
-            and (age == "Tous" or age in ages)
-        ):
-            resultats.append((diagnostic, frequence))
-
-    # ✅ Trier par fréquence décroissante
-    resultats.sort(key=lambda x: x[1], reverse=True)
+    # Tri par fréquence décroissante
+    resultats = sorted(resultats, key=lambda x: x.get("frequence", 0), reverse=True)
 
     return jsonify(resultats)
 
-if __name__ == "__main__":
+# ✅ Lancer le serveur
+if __name__ == '__main__':
     app.run(debug=True)
 
 
