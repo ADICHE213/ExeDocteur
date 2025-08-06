@@ -40,11 +40,12 @@ def diagnostic():
     resultats = []
     for d in diagnostic_data:
         d_symptomes = set(d.get("symptomes", []))
-        d_sexe = d.get("sexe", "Tous")
-        d_age = d.get("age", "Tous")
+        d_sexe = d.get("sexe", ["Tous"])  # ✅ Liste attendue
+        d_age = d.get("age", ["Tous"])    # ✅ Liste attendue
 
+        # ✅ Comparaison corrigée
         if symptomes_selectionnes.issubset(d_symptomes):
-            if d_sexe in [sexe, "Tous"] and d_age in [age, "Tous"]:
+            if sexe in d_sexe and age in d_age:
                 resultats.append(d)
 
     # Tri par fréquence décroissante
@@ -55,6 +56,8 @@ def diagnostic():
 # ✅ Lancer le serveur
 if __name__ == '__main__':
     app.run()
+
+
 
 
 
