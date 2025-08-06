@@ -54,7 +54,9 @@ def diagnostic():
 
 # ✅ Lancer le serveur
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
+
+
 
 
 
