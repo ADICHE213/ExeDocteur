@@ -4,7 +4,7 @@ import json
 import os
 
 app = Flask(__name__)
-CORS(app)  # ✅ Permet aux navigateurs comme Firefox de faire des requêtes JS
+CORS(app, methods=["GET", "POST", "OPTIONS"], allow_headers=["Content-Type"])
 
 # Charger les données depuis data.json
 basedir = os.path.abspath(os.path.dirname(__file__))
@@ -30,7 +30,7 @@ def autocompletion():
     return jsonify(liste_symptomes)
 
 # ✅ Route pour les diagnostics
-@app.route('/diagnostic', methods=['POST'])
+@app.route('/diagnostic', methods=["POST", "OPTIONS"])
 def diagnostic():
     data = request.get_json()
     symptomes_selectionnes = set(data.get('symptomes', []))
@@ -59,6 +59,7 @@ def diagnostic():
 # ✅ Lancer le serveur
 if __name__ == '__main__':
     app.run()
+
 
 
 
