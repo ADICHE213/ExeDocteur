@@ -1611,7 +1611,7 @@
 },
 {
 "diagnostic": "Infarctus du myocarde",
-"symptomes": ["Douleur thoracique rétrosternale, constrictive", "Douleurs abdominales épigastrique", "Anxiété", "Syncope", "Nausées", "Pâleur", "Fièvre", "Dyspnée", "Pathologie >> Insuffisance mitrale", "Pathologie >> Insuffisance cardiaque", "CPK >> Valeur élevée", "Troponines >> Valeur élevée", "+ECG >> Sus-décalage du segment ST", "ECG >> Onde Q de nécrose", "Coronarographie >> Infarctus du myocarde", "+ECG >> Ondes T inversées", "+ECG >> Per-critique > lésion sous-épicardique", "ECG >> Fibrillation ventriculaire", "ECG >> Bloc de branche gauche"],
+"symptomes": ["Douleur thoracique rétrosternale, constrictive", "Douleurs abdominales épigastrique", "Anxiété", "Syncope", "Nausées", "Pâleur", "Fièvre", "Dyspnée", "Pathologie >> Insuffisance mitrale", "Pathologie >> Insuffisance cardiaque", "CPK >> Valeur élevée", "Troponines >> Valeur élevée", "ECG >> Sus-décalage du segment ST", "ECG >> Onde Q de nécrose", "Coronarographie >> Infarctus du myocarde", "ECG >> Ondes T inversées", "ECG >> Per-critique > lésion sous-épicardique", "ECG >> Fibrillation ventriculaire", "ECG >> Bloc de branche gauche"],
 "frequence": 80,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -3724,4 +3724,5 @@
 "age": ["0-15","15-45",">45"]
 }
 ]
+
 
