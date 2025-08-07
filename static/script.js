@@ -52,7 +52,7 @@ function envoyerDiagnostic() {
     const sexe = document.getElementById("sexe").value;
     const age = document.getElementById("age").value;
 
-    fetch("/diagnostic", {
+    fetch(window.location.origin + "/diagnostic", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -183,4 +183,5 @@ function similarite(a, b) {
     const intersection = new Set([...setA].filter(c => setB.has(c)));
     return intersection.size / Math.max(setA.size, setB.size);
 }
+
 
