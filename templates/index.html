@@ -17,6 +17,20 @@
             color: #333;
         }
 
+        .titre-principal {
+    background-color: #003366;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    font-size: 20px;         /* Moins grand que 28px */
+    font-weight: 600;        /* Moins gras que bold */
+    border-radius: 8px;
+    margin-bottom: 8px;
+    letter-spacing: 0.3px;
+}
+
+
+
         .container {
             max-width: 480px;
             margin: auto;
@@ -155,7 +169,7 @@
 
 <body>
     <div class="container">
-        <h1>Docteur ADICHE Tewfik</h1>
+        <div class="titre-principal">Docteur ADICHE Tewfik</div>
         <h2>Aide au diagnostic en médecine générale</h2>
         <label for="nomPatient"><strong>Nom du patient</strong></label>
 <input type="text" id="nomPatient" placeholder="Entrez le nom du patient">
@@ -205,6 +219,7 @@
 <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
+
 
 
 
