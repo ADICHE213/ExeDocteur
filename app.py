@@ -1,64 +1,70 @@
-from flask import Flask, render_template, request, jsonify, send_from_directory
-from flask_cors import CORS
-import json
+# app.py
 import os
+from flask import Flask, render_template, request, jsonify
+import json
 
+# Créez l'application Flask
 app = Flask(__name__)
-CORS(app)
 
-# Charger les données depuis data.json
-basedir = os.path.abspath(os.path.dirname(__file__))
-data_file = os.path.join(basedir, "data.json")
-
-with open(data_file, "r", encoding="utf-8") as f:
+# Charge le fichier data.json (liste)
+# Le chemin du fichier est relatif au dossier de l'application
+with open("data.json", "r", encoding="utf-8") as f:
     diagnostic_data = json.load(f)
 
-# Extraire tous les symptômes pour l'autocomplétion
-tous_les_symptomes = set()
-for diag in diagnostic_data:
-    tous_les_symptomes.update(diag.get("symptomes", []))
-liste_symptomes = sorted(tous_les_symptomes)
-
-# ✅ Page principale
-@app.route('/')
+# Page d'accueil
+@app.route("/")
 def index():
-    return render_template('index.html', symptomes=liste_symptomes)
+    # Extrait et trie les symptômes uniques pour le formulaire
+    symptomes = sorted({
+        s for item in diagnostic_data
+        for s in item.get("symptomes", [])
+    })
+    return render_template("index.html", symptomes=symptomes)
 
-# ✅ Route d’autocomplétion appelée par JS
-@app.route('/autocompletion')
-def autocompletion():
-    return jsonify(liste_symptomes)
-
-# ✅ Route pour les diagnostics
-@app.route('/diagnostic', methods=["POST", "OPTIONS"])
+# Endpoint pour le diagnostic
+@app.route("/diagnostic", methods=["POST"])
 def diagnostic():
-    data = request.get_json()
-    symptomes_selectionnes = set(data.get('symptomes', []))
-    sexe = data.get('sexe', 'Tous')
-    age = data.get('age', '15-45')
+    # Récupère les données JSON de la requête
+    donnees = request.get_json()
+    symptomes_utilisateur = set(donnees.get("symptomes", []))
+    sexe = donnees.get("sexe")
+    age = donnees.get("age")
 
-    if not symptomes_selectionnes:
+    # Si aucun symptôme n'est fourni, renvoie une liste vide
+    if not symptomes_utilisateur:
         return jsonify([])
 
     resultats = []
-    for d in diagnostic_data:
-        d_symptomes = set(d.get("symptomes", []))
-        d_sexe = d.get("sexe", ["Tous"])  # ✅ Liste attendue
-        d_age = d.get("age", ["Tous"])    # ✅ Liste attendue
 
-        # ✅ Comparaison corrigée
-        if symptomes_selectionnes.issubset(d_symptomes):
-            if sexe in d_sexe and age in d_age:
-                resultats.append(d)
+    # Parcours les données de diagnostic
+    for item in diagnostic_data:
+        nom_diagnostic = item.get("diagnostic")
+        symptomes_diagnostic = set(item.get("symptomes", []))
+        frequence = item.get("frequence", 0)
+        sexes = item.get("sexe", ["Masculin", "Féminin"])
+        ages = item.get("age", ["0-15", "15-45", ">45"])
 
-    # Tri par fréquence décroissante
-    resultats = sorted(resultats, key=lambda x: x.get("frequence", 0), reverse=True)
+        # Vérifie si les symptômes de l'utilisateur sont un sous-ensemble du diagnostic
+        # et si le sexe et l'âge correspondent
+        if (
+            symptomes_utilisateur.issubset(symptomes_diagnostic)
+            and sexe in sexes
+            and (age == "Tous" or age in ages)
+        ):
+            resultats.append((nom_diagnostic, frequence))
 
+    # Trie les résultats par fréquence décroissante
+    resultats.sort(key=lambda x: x[1], reverse=True)
     return jsonify(resultats)
 
-# ✅ Lancer le serveur
-if __name__ == '__main__':
-    app.run()
+# Code pour le démarrage local (non utilisé par Render, mais utile pour tester en local)
+if __name__ == "__main__":
+    # Récupère le port de l'environnement, sinon utilise 5000
+    port = int(os.environ.get("PORT", 5000))
+    # Le host '0.0.0.0' est nécessaire pour que l'application soit accessible
+    # depuis l'extérieur du conteneur Render
+    app.run(host='0.0.0.0', port=port, debug=False)
+
 
 
 
