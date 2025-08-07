@@ -4,18 +4,6 @@ function sansAccents(texte) {
     return texte.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
-// 🔧 Fonction pour normaliser les valeurs avant envoi
-function normaliserValeurs(sexe, age) {
-    if (sexe === "Homme") sexe = "Masculin";
-    if (sexe === "Femme") sexe = "Féminin";
-
-    if (age === "0 à 15 ans") age = "0-15";
-    if (age === "15 à 45 ans") age = "15-45";
-    if (age === "Plus de 45 ans") age = ">45";
-
-    return { sexe, age };
-}
-
 function afficherListeSymptomes() {
     const ul = document.getElementById("listeSymptomes");
     ul.innerHTML = "";
@@ -61,12 +49,8 @@ function envoyerDiagnostic() {
     }
 
     const nomPatient = document.getElementById("nomPatient").value.trim();
-    let sexe = document.getElementById("sexe").value;
-    let age = document.getElementById("age").value;
-
-    const valeurs = normaliserValeurs(sexe, age);
-    sexe = valeurs.sexe;
-    age = valeurs.age;
+    const sexe = document.getElementById("sexe").value;
+    const age = document.getElementById("age").value;
 
     fetch("/diagnostic", {
         method: "POST",
@@ -152,6 +136,7 @@ function montrerSuggestions() {
             liste.appendChild(li);
         });
     } else {
+        // 🔍 Proposer l’entrée la plus proche
         const suggestionProche = meilleureCorrespondance(input.value);
         if (suggestionProche && !symptomesSelectionnes.includes(suggestionProche)) {
             const li = document.createElement("li");
@@ -173,6 +158,7 @@ function montrerSuggestions() {
     }
 }
 
+// 🔤 Fonction de correspondance la plus proche
 function meilleureCorrespondance(texte) {
     const saisie = sansAccents(texte.trim().toLowerCase());
     let meilleurScore = 0;
@@ -190,9 +176,11 @@ function meilleureCorrespondance(texte) {
     return (meilleurScore >= 0.5) ? meilleurMot : null;
 }
 
+// 🔣 Fonction de similarité simple (Jaccard sur lettres)
 function similarite(a, b) {
     const setA = new Set(a);
     const setB = new Set(b);
     const intersection = new Set([...setA].filter(c => setB.has(c)));
     return intersection.size / Math.max(setA.size, setB.size);
 }
+
