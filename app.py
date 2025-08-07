@@ -4,7 +4,7 @@ import json
 import os
 
 app = Flask(__name__)
-CORS(app, methods=["GET", "POST", "OPTIONS"], allow_headers=["Content-Type"])
+CORS(app)
 
 # Charger les données depuis data.json
 basedir = os.path.abspath(os.path.dirname(__file__))
@@ -59,6 +59,7 @@ def diagnostic():
 # ✅ Lancer le serveur
 if __name__ == '__main__':
     app.run()
+
 
 
 
