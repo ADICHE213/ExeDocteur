@@ -5852,11 +5852,11 @@
 "entree": "IRM vestibulaire >> Neurinome de l'acoustique"
 },
 {
-"mots": ["Kaliémie", "Hyperkaliémie"],
+"mots": ["Kaliémie", "Hyperkaliémie", "K", "Potassium", "elve", "augmente", "augentation", "elevation"],
 "entree": "Kaliémie >> Hyperkaliémie"
 },
 {
-"mots": ["Kaliémie", "Hypokaliémie"],
+"mots": ["Kaliémie", "Hypokaliémie", "K", "Potassium", "diminution", "bas", "chute", "chutte", "diminue", "faible"],
 "entree": "Kaliémie >> Hypokaliémie"
 },
 {
@@ -6092,11 +6092,11 @@
 "entree": "Myoglobinurie >> Résultat positif"
 },
 {
-"mots": ["Natrémie", "Hypernatrémie"],
+"mots": ["Natrémie", "Hypernatrémie", "sodium", "Na", "elve", "augmente", "augentation", "elevation"],
 "entree": "Natrémie >> Hypernatrémie"
 },
 {
-"mots": ["Natrémie", "Hyponatrémie"],
+"mots": ["Natrémie", "Hyponatrémie", "sodium", "Na", "diminution", "bas", "chute", "chutte", "diminue", "faible"],
 "entree": "Natrémie >> Hyponatrémie"
 },
 {
@@ -7768,7 +7768,7 @@
 "entree": "Volume globulaire total >> Valeur élevée"
 },
 {
-"mots": ["VS", "Accélérée"],
+"mots": ["VS", "Accélérée", "elvee"],
 "entree": "VS >> Accélérée"
 },
 {
