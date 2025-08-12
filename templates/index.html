@@ -170,7 +170,7 @@
 <body>
     <div class="container">
         <div class="titre-principal">Docteur ADICHE Tewfik</div>
-        <h2>Aide au diagnostic en médecine générale</h2>
+        <h2>Aide au diagnostic en médecine générale</h1>
         <label for="nomPatient"><strong>Nom du patient</strong></label>
 <input type="text" id="nomPatient" placeholder="Entrez le nom du patient">
 
@@ -211,15 +211,9 @@
         <button onclick="envoyerDiagnostic()">Lancer le diagnostic</button>
         <div id="resultat"></div>
     </div>
-
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
-<script>
-    const symptomesDisponibles = {{ symptomes | tojson }};
-</script>
 <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
-
 
 
 
