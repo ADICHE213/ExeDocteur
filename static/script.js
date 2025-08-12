@@ -223,5 +223,15 @@ async function chargerSymptomes() {
   }
 }
 
+// 🔹 Réinitialiser les entrées quand on change le sexe ou la tranche d'âge
+document.getElementById("sexe").addEventListener("change", () => {
+  reinitialiserEntrees();
+});
+
+document.getElementById("age").addEventListener("change", () => {
+  reinitialiserEntrees();
+});
+
+
 // Événement pour lancer le chargement des données au démarrage de la page
 document.addEventListener('DOMContentLoaded', chargerSymptomes);
