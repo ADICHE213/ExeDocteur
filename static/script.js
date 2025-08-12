@@ -12,7 +12,8 @@ const motsIgnorer = new Set([
     "tous", "années", "année", "annee", "annes", "fois", "plusieurs", 
     "reprises", "atroce", "térrible", "terrible", "térribles", 
     "terribles", "soir", "sur", "un", "une", "avec", "dans",
-    "taux", "valeur", "degre", "degres", "°c", "°C", "forte", "fort"
+    "taux", "valeur", "degre", "degres", "°c", "°C", "forte", "fort", 
+    "sans", "arret"
 ]);
 
 // Fonction pour normaliser une chaîne de caractères (supprimer les accents)
@@ -235,3 +236,4 @@ document.getElementById("age").addEventListener("change", () => {
 
 // Événement pour lancer le chargement des données au démarrage de la page
 document.addEventListener('DOMContentLoaded', chargerSymptomes);
+
