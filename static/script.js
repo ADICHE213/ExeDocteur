@@ -11,7 +11,10 @@ const motsIgnorer = new Set([
     "heures", "semaine", "semaines", "tout", "toute", "toutes", 
     "tous", "années", "année", "annee", "annes", "fois", "plusieurs", 
     "reprises", "atroce", "térrible", "terrible", "térribles", 
-    "terribles", "soir", "sur", "un", "une", "avec", "dans"
+    "terribles", "soir", "sur", "un", "une", "avec", "dans",
+    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+    "=", "+", "-", "/", "*", "(", ")", "[", "]", "{", "}",
+    ",", ";", ":", "?", "!", "-", "_", "&", "#", "@", "%", "."
 ]);
 
 // Fonction pour normaliser une chaîne de caractères (supprimer les accents)
