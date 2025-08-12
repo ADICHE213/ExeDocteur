@@ -12,9 +12,7 @@ const motsIgnorer = new Set([
     "tous", "années", "année", "annee", "annes", "fois", "plusieurs", 
     "reprises", "atroce", "térrible", "terrible", "térribles", 
     "terribles", "soir", "sur", "un", "une", "avec", "dans",
-    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
-    "=", "+", "-", "/", "*", "(", ")", "[", "]", "{", "}",
-    ",", ";", ":", "?", "!", "-", "_", "&", "#", "@", "%", "."
+    "taux", "valeur"
 ]);
 
 // Fonction pour normaliser une chaîne de caractères (supprimer les accents)
@@ -158,23 +156,23 @@ function envoyerDiagnostic() {
 function montrerSuggestions() {
   if (!isDataLoaded) return;
   const input = document.getElementById("symptomeInput");
-  const liste = document.getElementById("suggestions");
-  const saisie = sansAccents(input.value.trim().toLowerCase());
 
+  // 🔹 Nettoyer la saisie en supprimant tous les caractères interdits
+  let saisie = sansAccents(input.value.trim().toLowerCase());
+  saisie = saisie.replace(/[0-9\/\*\_\-\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!\{\[\']\}\(\)]/g, ""); 
+
+  const liste = document.getElementById("suggestions");
   liste.innerHTML = "";
 
   if (!saisie || symptomesDisponiblesData.length === 0) return;
 
-  // Diviser la saisie en plusieurs mots
   let motsSaisie = saisie.split(' ').filter(mot => mot.length > 0 && !motsIgnorer.has(mot));
 
-  if (motsSaisie.length === 0) return; // Aucun mot valide après filtrage => pas de suggestions
+  if (motsSaisie.length === 0) return;
 
-  // Filtrer les entrées où TOUS les mots saisis sont présents par contenance dans les mots-clés de l'entrée
   const suggestions = symptomesDisponiblesData
     .filter(item => {
       const motsNormalisesDeSymptome = item.mots.map(m => sansAccents(m.toLowerCase()));
-      // Vérifier que chaque mot de la saisie est inclus dans AU MOINS UN mot-clé de l'entrée
       return motsSaisie.every(motSaisi => {
         return motsNormalisesDeSymptome.some(motCles => motCles.includes(motSaisi));
       });
@@ -193,21 +191,18 @@ function montrerSuggestions() {
       li.style.marginTop = "4px";
       li.style.background = "#e6ecf5";
       li.onclick = () => {
-      symptomesSelectionnes.push(s);
+        symptomesSelectionnes.push(s);
         input.value = "";
-      liste.innerHTML = "";
-      afficherListeSymptomes();
-      // Réinitialiser les résultats affichés
-      const resultatDiv = document.getElementById("resultat");
-      if (resultatDiv) {
-        resultatDiv.innerHTML = "";
-      }
-    };
-
+        liste.innerHTML = "";
+        afficherListeSymptomes();
+        const resultatDiv = document.getElementById("resultat");
+        if (resultatDiv) resultatDiv.innerHTML = "";
+      };
       liste.appendChild(li);
     });
   }
 }
+
 
 // Fonction pour charger les données du fichier JSON
 async function chargerSymptomes() {
