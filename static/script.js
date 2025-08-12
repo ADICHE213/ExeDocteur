@@ -12,7 +12,7 @@ const motsIgnorer = new Set([
     "tous", "années", "année", "annee", "annes", "fois", "plusieurs", 
     "reprises", "atroce", "térrible", "terrible", "térribles", 
     "terribles", "soir", "sur", "un", "une", "avec", "dans",
-    "taux", "valeur", "degre", "degres", "°c", "°C"
+    "taux", "valeur", "degre", "degres", "°c", "°C", "forte", "fort"
 ]);
 
 // Fonction pour normaliser une chaîne de caractères (supprimer les accents)
