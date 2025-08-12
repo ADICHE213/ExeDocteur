@@ -22,7 +22,7 @@
 },
 {
 "diagnostic": "Abcès pulmonaire",
-"symptomes": ["Altération de l'état général", "Fièvre", "Toux", "Asthénie", "Fatigue", "Amaigrissement", "Expectoration", "Mauvaise haleine", "Radiographie de thorax >> Abcès pulmonaire", "NFS >> Hyperleucocytose", "VS >> Accélérée", "Hémocultures >> Résultat positif", "Fibroscopie bronchique avec prélèvements >> Positifs"],
+"symptomes": ["Altération de l'état général", "Fièvre", "Toux", "Asthénie", "Amaigrissement", "Expectoration", "Mauvaise haleine", "Radiographie de thorax >> Abcès pulmonaire", "NFS >> Hyperleucocytose", "VS >> Accélérée", "Hémocultures >> Résultat positif", "Fibroscopie bronchique avec prélèvements >> Positifs"],
 "frequence": 65,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -43,7 +43,7 @@
 },
 {
 "diagnostic": "Acidocétose diabétique",
-"symptomes": ["Asthénie", "Fatigue", "Polyurie", "Polydipsie", "Douleurs abdominales", "Odeur acétonique de l'haleine", "Amaigrissement", "Anorexie", "Nausées", "Vomissements", "Hyperventilation", "Dyspnée acidosique de Kussmaul", "Déshydratation", "Tachycardie", "Hypotension", "Coma", "Hypothermie", "Soif", "Pathologie >> Insuffisance rénale", "Glycémie >> Hyperglycémie", "Glycosurie >> Résultat positif", "Cétonurie >> Résultat positif", "Bicarbonates >> Valeur basse", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "Hématocrite >> Valeur élevée", "Triglycéridémie >> Hypertriglycéridémie", "Cholestérolémie >> Hypercholestérolémie", "Amylasémie >> Hyperamylasémie", "Protidémie >> hyperprotidémie", "Natrémie >> Hyponatrémie", "Kaliémie >> Hyperkaliémie", "Kaliémie >> Hypokaliémie", "Natrémie >> Hypernatrémie"],
+"symptomes": ["Asthénie", "Polyurie", "Polydipsie", "Douleurs abdominales", "Odeur acétonique de l'haleine", "Amaigrissement", "Anorexie", "Nausées", "Vomissements", "Hyperventilation", "Dyspnée acidosique de Kussmaul", "Déshydratation", "Tachycardie", "Hypotension", "Coma", "Hypothermie", "Soif", "Pathologie >> Insuffisance rénale", "Glycémie >> Hyperglycémie", "Glycosurie >> Résultat positif", "Cétonurie >> Résultat positif", "Bicarbonates >> Valeur basse", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "Hématocrite >> Valeur élevée", "Triglycéridémie >> Hypertriglycéridémie", "Cholestérolémie >> Hypercholestérolémie", "Amylasémie >> Hyperamylasémie", "Protidémie >> hyperprotidémie", "Natrémie >> Hyponatrémie", "Kaliémie >> Hyperkaliémie", "Kaliémie >> Hypokaliémie", "Natrémie >> Hypernatrémie"],
 "frequence": 77,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -148,21 +148,21 @@
 },
 {
 "diagnostic": "Anémie ferriprive",
-"symptomes": ["Asthénie", "Fatigue", "Pâleur", "Dyspnée", "Tachycardie", "Fragilité des ongles et des cheveux", "Cheveux secs", "Cheveux cassés", "Ongles cassants", "Glossite", "Chéilite", "Pathologie >> Stomatie", "Dysphagie", "Apathie", "Céphalées", "Hématémèse", "Méléna", "Rectorragies", "TR >> Présence de sang sur le doigtier", "Pathologie >> Syndrome anémique", "NFS >> Anémie", "Fer sérique >> Valeur basse", "Ferritine >> Valeur basse", "Transferrine >> Valeur élevée", "Capacité de fixation de la transferrine >> Valeur élevée", "NFS >> Microcytose"],
+"symptomes": ["Asthénie", "Pâleur", "Dyspnée", "Tachycardie", "Fragilité des ongles et des cheveux", "Cheveux secs", "Cheveux cassés", "Ongles cassants", "Glossite", "Chéilite", "Pathologie >> Stomatie", "Dysphagie", "Apathie", "Céphalées", "Hématémèse", "Méléna", "Rectorragies", "TR >> Présence de sang sur le doigtier", "Pathologie >> Syndrome anémique", "NFS >> Anémie", "Fer sérique >> Valeur basse", "Ferritine >> Valeur basse", "Transferrine >> Valeur élevée", "Capacité de fixation de la transferrine >> Valeur élevée", "NFS >> Microcytose"],
 "frequence": 84,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Anémie hémolytique auto-immune",
-"symptomes": ["Asthénie", "Fatigue", "Pâleur", "Ictère", "Dyspnée", "Tachycardie", "Splénomégalie", "Urines foncées", "NFS >> Anémie", "Réticulocytes >> Valeur élevée", "Haptoglobine >> Valeur basse", "Bilirubine non conjuguée >> Valeur élevée", "Test de Coombs direct >> Résultat positif", "NFS >> Normocytose", "NFS >> Macrocytose"],
+"symptomes": ["Asthénie", "Pâleur", "Ictère", "Dyspnée", "Tachycardie", "Splénomégalie", "Urines foncées", "NFS >> Anémie", "Réticulocytes >> Valeur élevée", "Haptoglobine >> Valeur basse", "Bilirubine non conjuguée >> Valeur élevée", "Test de Coombs direct >> Résultat positif", "NFS >> Normocytose", "NFS >> Macrocytose"],
 "frequence": 60,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Anémie par carence en folates",
-"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Fatigue", "Dyspnée", "Chéilite", "Glossite", "Syndrome de malabsorption", "Dosage plasmatique de l'acide folique >> Valeur basse", "NFS >> Anémie", "NFS >> Normocytose", "NFS >> Macrocytose"],
+"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Dyspnée", "Chéilite", "Glossite", "Syndrome de malabsorption", "Dosage plasmatique de l'acide folique >> Valeur basse", "NFS >> Anémie", "NFS >> Normocytose", "NFS >> Macrocytose"],
 "frequence": 32,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -197,14 +197,14 @@
 },
 {
 "diagnostic": "Aplasie médullaire",
-"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Fatigue", "Dyspnée", "Palpitations", "Fièvre", "Purpura", "épistaxis", "Souffle systolique", "Malformation", "Infections à répétition", "Infection urinaire", "Pathologie >> Angine", "Pathologie >> Pharyngite", "Biopsie médullaire >> Aplasie médullaire", "NFS >> Anémie", "NFS >> Thrombopénie", "NFS >> Leucopénie", "NFS >> Macrocytose"],
+"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Dyspnée", "Palpitations", "Fièvre", "Purpura", "épistaxis", "Souffle systolique", "Malformation", "Infections à répétition", "Infection urinaire", "Pathologie >> Angine", "Pathologie >> Pharyngite", "Biopsie médullaire >> Aplasie médullaire", "NFS >> Anémie", "NFS >> Thrombopénie", "NFS >> Leucopénie", "NFS >> Macrocytose"],
 "frequence": 24,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Apnées obstructives du sommeil",
-"symptomes": ["Apnée", "Céphalées", "Asthénie", "Fatigue", "Baisse de la libido", "Impuissance", "Troubles de la mémoire", "Pathologie >> Syndrome dépressif"],
+"symptomes": ["Apnée", "Céphalées", "Asthénie", "Baisse de la libido", "Impuissance", "Troubles de la mémoire", "Pathologie >> Syndrome dépressif"],
 "frequence": 44,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -330,7 +330,7 @@
 },
 {
 "diagnostic": "Botulisme",
-"symptomes": ["Nausées", "Vomissements", "Douleurs abdominales", "Douleur provoquée à la palpation de la FID", "Asthénie", "Fatigue", "Vertige", "Xérostomie", "Troubles de l'accommodation", "Presbytie", "Mydriase", "Diplopie", "Strabisme", "Dysphagie", "Hypotonie", "Dysphonie", "Hypotension", "Déficit moteur", "Abolition ou diminution de réflexe", "Ballonnements abdominaux", "Constipation", "Soif", "Fièvre", "Recherche de la toxine dans l'aliment >> Botulisme", "Recherche de la toxine dans le liquide gastrique ou le sang >> Botulisme"],
+"symptomes": ["Nausées", "Vomissements", "Douleurs abdominales", "Douleur provoquée à la palpation de la FID", "Asthénie", "Vertige", "Xérostomie", "Troubles de l'accommodation", "Presbytie", "Mydriase", "Diplopie", "Strabisme", "Dysphagie", "Hypotonie", "Dysphonie", "Hypotension", "Déficit moteur", "Abolition ou diminution de réflexe", "Ballonnements abdominaux", "Constipation", "Soif", "Fièvre", "Recherche de la toxine dans l'aliment >> Botulisme", "Recherche de la toxine dans le liquide gastrique ou le sang >> Botulisme"],
 "frequence": 32,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -344,7 +344,7 @@
 },
 {
 "diagnostic": "Bradycardie",
-"symptomes": ["Bradycardie", "Syncope", "Vertige", "Lipothymies", "Asthénie", "Fatigue", "Troubles du comportement", "Pathologie >> Insuffisance cardiaque", "ECG >> Bradycardie sinusale", "ECG >> Bloc auriculo-ventriculaire"],
+"symptomes": ["Bradycardie", "Syncope", "Vertige", "Lipothymies", "Asthénie", "Troubles du comportement", "Pathologie >> Insuffisance cardiaque", "ECG >> Bradycardie sinusale", "ECG >> Bloc auriculo-ventriculaire"],
 "frequence": 39,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -365,7 +365,7 @@
 },
 {
 "diagnostic": "Bronchite aiguë",
-"symptomes": ["Toux", "Douleur thoracique", "Fièvre", "Asthénie", "Fatigue", "Céphalées", "Myalgies", "Expectoration"],
+"symptomes": ["Toux", "Douleur thoracique", "Fièvre", "Asthénie", "Céphalées", "Myalgies", "Expectoration"],
 "frequence": 84,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -379,7 +379,7 @@
 },
 {
 "diagnostic": "Brucellose",
-"symptomes": ["Fièvre ondulante", "Sueurs nocturnes", "Myalgies", "Sacro-iliite", "Céphalées", "Splénomégalie", "Hépatomégalie", "Adénopathie(s)", "Arthrite", "Douleurs articulaires", "Douleurs lombaires", "Raideur rachidienne", "Douleurs osseuses", "Hypertrophie testiculaire", "Orchite", "épididymite", "Douleurs du dos", "Asthénie", "Fatigue", "Douleur", "NFS >> Leuconeutropénie", "VS >> Accélérée", "Test de Wright >> Résultat positif", "Sérologie Brucella >> Résultat positif", "Hémocultures >> Résultat positif > Brucella"],
+"symptomes": ["Fièvre ondulante", "Sueurs nocturnes", "Myalgies", "Sacro-iliite", "Céphalées", "Splénomégalie", "Hépatomégalie", "Adénopathie(s)", "Arthrite", "Douleurs articulaires", "Douleurs lombaires", "Raideur rachidienne", "Douleurs osseuses", "Hypertrophie testiculaire", "Orchite", "épididymite", "Douleurs du dos", "Asthénie", "Douleur", "NFS >> Leuconeutropénie", "VS >> Accélérée", "Test de Wright >> Résultat positif", "Sérologie Brucella >> Résultat positif", "Hémocultures >> Résultat positif > Brucella"],
 "frequence": 30,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -575,7 +575,7 @@
 },
 {
 "diagnostic": "Choc",
-"symptomes": ["Hypotension", "Pouls accéléré", "Tachycardie", "Hypothermie", "Marbrures", "Cyanose des extrémités", "Cyanoses des orteils", "Froideur des extrémités", "Asthénie", "Fatigue", "Oligurie", "Anurie", "Coma", "Agitation", "Polypnée", "Fièvre", "Douleur thoracique", "Turgescence jugulaire", "Râles crépitants", "Soif", "Coagulation intravasculaire disséminée", "Dyspnée", "Syndrome hémorragique", "Gaz du sang >> acidose métabolique", "Gaz du sang >> Hypoxie", "Lactacidémie >> Hyperlactacidémie", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "NFS >> Hémoconcentration"],
+"symptomes": ["Hypotension", "Pouls accéléré", "Tachycardie", "Hypothermie", "Marbrures", "Cyanose des extrémités", "Cyanoses des orteils", "Froideur des extrémités", "Asthénie", "Oligurie", "Anurie", "Coma", "Agitation", "Polypnée", "Fièvre", "Douleur thoracique", "Turgescence jugulaire", "Râles crépitants", "Soif", "Coagulation intravasculaire disséminée", "Dyspnée", "Syndrome hémorragique", "Gaz du sang >> acidose métabolique", "Gaz du sang >> Hypoxie", "Lactacidémie >> Hyperlactacidémie", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "NFS >> Hémoconcentration"],
 "frequence": 82,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -596,7 +596,7 @@
 },
 {
 "diagnostic": "Cholangite sclérosante",
-"symptomes": ["Ictère", "Asthénie", "Fatigue", "Douleurs abdominales hypochondre droit", "Echographie abdominale >> épaississement de la paroi des voies bilaires intra- et extrahépatiques", "Cholangiographie endoscopique (ou transhépatique) >> sténoses annulaires séparées par des segments de calibre normal ou dilaté"],
+"symptomes": ["Ictère", "Asthénie", "Douleurs abdominales hypochondre droit", "Echographie abdominale >> épaississement de la paroi des voies bilaires intra- et extrahépatiques", "Cholangiographie endoscopique (ou transhépatique) >> sténoses annulaires séparées par des segments de calibre normal ou dilaté"],
 "frequence": 7,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -631,7 +631,7 @@
 },
 {
 "diagnostic": "Ciguatera",
-"symptomes": ["Paresthésie", "Asthénie", "Fatigue", "Prurit", "Diarrhée", "Douleurs abdominales", "Nausées", "Vomissements", "Myalgies", "Céphalées"],
+"symptomes": ["Paresthésie", "Asthénie", "Prurit", "Diarrhée", "Douleurs abdominales", "Nausées", "Vomissements", "Myalgies", "Céphalées"],
 "frequence": 4,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -645,7 +645,7 @@
 },
 {
 "diagnostic": "Cirrhose du foie",
-"symptomes": ["Asthénie", "Fatigue", "Anorexie", "Distension abdominale", "Hépatomégalie", "Splénomégalie", "Circulation collatérale abdominale", "Nausées", "Hématémèse", "Méléna", "Ictère", "Ascite", "Oedème des membres inférieurs", "Gynécomastie", "Atrophie testiculaire", "érythème palmaire", "Angiomes stellaires", "Asterixis", "Encéphalopathie hépatique", "ASAT, ALAT >> Valeur élevée", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Temps de prothrombine >> Allongement", "Biopsie hépatique >> Cirrhose du foie", "Phosphatases alcalines >> Valeur élevée", "Gamma-GT >> Valeur élevée", "Bilirubine conjuguée >> Valeur élevée"],
+"symptomes": ["Asthénie", "Anorexie", "Distension abdominale", "Hépatomégalie", "Splénomégalie", "Circulation collatérale abdominale", "Nausées", "Hématémèse", "Méléna", "Ictère", "Ascite", "Oedème des membres inférieurs", "Gynécomastie", "Atrophie testiculaire", "érythème palmaire", "Angiomes stellaires", "Asterixis", "Encéphalopathie hépatique", "ASAT, ALAT >> Valeur élevée", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Temps de prothrombine >> Allongement", "Biopsie hépatique >> Cirrhose du foie", "Phosphatases alcalines >> Valeur élevée", "Gamma-GT >> Valeur élevée", "Bilirubine conjuguée >> Valeur élevée"],
 "frequence": 31,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -687,7 +687,7 @@
 },
 {
 "diagnostic": "Coeliaque, maladie",
-"symptomes": ["Diarrhée", "Ballonnements abdominaux", "Amaigrissement", "Syndrome de malabsorption", "Asthénie", "Fatigue", "Crises de tétanie", "Douleurs osseuses", "Ecchymoses", "Purpura", "Pétéchies", "Syndrome hémorragique", "Calcémie >> Hypocalcémie", "Magnésémie >> Hypomagnésémie", "NFS >> Anémie", "Taux de prothrombine >> Valeur basse", "Kaliémie >> Hypokaliémie", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Gamma-GT >> Valeur élevée", "Frottis sanguin >> cellules de Howel-Jolly", "Frottis sanguin >> Thrombocytose", "Biopsie duodénale distale ou jéjunale proximale >> Atrophie villositaire totale ou subtotale", "Biopsie duodénale distale ou jéjunale proximale >> Hyperplasie des cryptes, altération des entérocytes de surface", "Anticorps anti-gliadine >> Résultat positif", "NFS >> Microcytose"],
+"symptomes": ["Diarrhée", "Ballonnements abdominaux", "Amaigrissement", "Syndrome de malabsorption", "Asthénie", "Crises de tétanie", "Douleurs osseuses", "Ecchymoses", "Purpura", "Pétéchies", "Syndrome hémorragique", "Calcémie >> Hypocalcémie", "Magnésémie >> Hypomagnésémie", "NFS >> Anémie", "Taux de prothrombine >> Valeur basse", "Kaliémie >> Hypokaliémie", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Gamma-GT >> Valeur élevée", "Frottis sanguin >> cellules de Howel-Jolly", "Frottis sanguin >> Thrombocytose", "Biopsie duodénale distale ou jéjunale proximale >> Atrophie villositaire totale ou subtotale", "Biopsie duodénale distale ou jéjunale proximale >> Hyperplasie des cryptes, altération des entérocytes de surface", "Anticorps anti-gliadine >> Résultat positif", "NFS >> Microcytose"],
 "frequence": 33,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -820,7 +820,7 @@
 },
 {
 "diagnostic": "Crohn, maladie de",
-"symptomes": ["Douleurs abdominales", "Diarrhée", "Rectorragies", "Méléna", "Fièvre", "Syndrome dysentérique", "Masse abdominale", "Amaigrissement", "Asthénie", "Fatigue", "VS >> Accélérée", "CRP Positive", "NFS >> Anémie", "NFS >> Hyperleucocytose", "Iléocoloscopie avec biopsie >> Muqueuse inflammatoire avec ulcérations superficielles ou creusantes mal limitées", "Iléocoloscopie avec biopsie >> Fissures pariétales", "Iléocoloscopie avec biopsie >> Lésions discontinues", "Iléocoloscopie avec biopsie >> Granulomes épithélioïdes", "Scanner abdominal >> Epaississement d'un segment digestif avec modifications inflammatoires péridigestives", "Scanner abdominal >> Masse inflammatoire", "Scanner abdominal >> Abcès profond", "Opacifications digestives (transit du grêle, lavement baryté) >> Ulcérations ou fistules ou rétrécissements ou sténoses", "NFS >> Microcytose"],
+"symptomes": ["Douleurs abdominales", "Diarrhée", "Rectorragies", "Méléna", "Fièvre", "Syndrome dysentérique", "Masse abdominale", "Amaigrissement", "Asthénie", "VS >> Accélérée", "CRP Positive", "NFS >> Anémie", "NFS >> Hyperleucocytose", "Iléocoloscopie avec biopsie >> Muqueuse inflammatoire avec ulcérations superficielles ou creusantes mal limitées", "Iléocoloscopie avec biopsie >> Fissures pariétales", "Iléocoloscopie avec biopsie >> Lésions discontinues", "Iléocoloscopie avec biopsie >> Granulomes épithélioïdes", "Scanner abdominal >> Epaississement d'un segment digestif avec modifications inflammatoires péridigestives", "Scanner abdominal >> Masse inflammatoire", "Scanner abdominal >> Abcès profond", "Opacifications digestives (transit du grêle, lavement baryté) >> Ulcérations ou fistules ou rétrécissements ou sténoses", "NFS >> Microcytose"],
 "frequence": 44,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -834,7 +834,7 @@
 },
 {
 "diagnostic": "Cushing, syndrome de",
-"symptomes": ["Obésité facio-tronculaire", "érythrose faciale", "Troubles de l'humeur", "Pathologie >> Acné", "Vergetures pourpres", "Ecchymoses", "Hirsutisme", "Aménorrhée", "Asthénie", "Fatigue", "Oedème", "Polyurie", "Polydipsie", "Hypertrophie clitoridienne", "Psychose", "Pathologie >> Syndrome dépressif", "Glycémie >> Hyperglycémie", "NFS >> Hyperleucocytose", "NFS >> Lymphopénie", "NFS >> Eosinophilopénie", "Kaliémie >> Hypokaliémie", "Cortisolémie >> Hypercortisolémie", "Cortisolurie >> Hypercortisolurie", "ACTH plasmatique >> Hyper-ACTH plasmatique", "Test de freination du cortisol par la dexaméthasone >> Résultat négatif", "Scanner et IRM hypophysaire >> Adénome", "Natrémie >> Hypernatrémie"],
+"symptomes": ["Obésité facio-tronculaire", "érythrose faciale", "Troubles de l'humeur", "Pathologie >> Acné", "Vergetures pourpres", "Ecchymoses", "Hirsutisme", "Aménorrhée", "Asthénie", "Oedème", "Polyurie", "Polydipsie", "Hypertrophie clitoridienne", "Psychose", "Pathologie >> Syndrome dépressif", "Glycémie >> Hyperglycémie", "NFS >> Hyperleucocytose", "NFS >> Lymphopénie", "NFS >> Eosinophilopénie", "Kaliémie >> Hypokaliémie", "Cortisolémie >> Hypercortisolémie", "Cortisolurie >> Hypercortisolurie", "ACTH plasmatique >> Hyper-ACTH plasmatique", "Test de freination du cortisol par la dexaméthasone >> Résultat négatif", "Scanner et IRM hypophysaire >> Adénome", "Natrémie >> Hypernatrémie"],
 "frequence": 46,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -855,7 +855,7 @@
 },
 {
 "diagnostic": "Cytomégalovirus, infections à",
-"symptomes": ["Ictère", "Asthénie", "Fatigue", "Nausées", "Vomissements", "Diarrhée", "Hépatomégalie", "Splénomégalie", "Dyspnée", "Syndrome hémorragique", "Culture sur fibroblastes humains >> Cytomégalovirus, infections à", "Sérologie Cytomégalovirus >> Résultat positif"],
+"symptomes": ["Ictère", "Asthénie", "Nausées", "Vomissements", "Diarrhée", "Hépatomégalie", "Splénomégalie", "Dyspnée", "Syndrome hémorragique", "Culture sur fibroblastes humains >> Cytomégalovirus, infections à", "Sérologie Cytomégalovirus >> Résultat positif"],
 "frequence": 29,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -883,14 +883,14 @@
 },
 {
 "diagnostic": "Dengue",
-"symptomes": ["Fièvre", "Douleurs du dos", "Céphalées", "Diarrhée", "Vomissements", "Adénopathie(s)", "Hépatomégalie", "Asthénie", "Fatigue", "éruption", "Macules", "érythème", "Sérologie Flavovirus >> Résultat positif"],
+"symptomes": ["Fièvre", "Douleurs du dos", "Céphalées", "Diarrhée", "Vomissements", "Adénopathie(s)", "Hépatomégalie", "Asthénie", "éruption", "Macules", "érythème", "Sérologie Flavovirus >> Résultat positif"],
 "frequence": 2,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Dépressif, syndrome",
-"symptomes": ["Anorexie", "Amaigrissement", "Insomnie", "Hypersomnie", "Asthénie", "Fatigue", "Agitation", "Bradypsychie", "Culpabilité, indignité", "Difficultés de concentration", "Troubles de la mémoire", "Idées suicidaires", "Méloncolie", "Asthénie intellectuelle", "Palpitations"],
+"symptomes": ["Anorexie", "Amaigrissement", "Insomnie", "Hypersomnie", "Asthénie", "Agitation", "Bradypsychie", "Culpabilité, indignité", "Difficultés de concentration", "Troubles de la mémoire", "Idées suicidaires", "Méloncolie", "Asthénie intellectuelle", "Palpitations"],
 "frequence": 62,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -960,14 +960,14 @@
 },
 {
 "diagnostic": "Diabète sucré",
-"symptomes": ["Asthénie", "Fatigue", "Amaigrissement", "Polydipsie", "Polyurie", "Polyphagie", "Déshydratation", "Infections à répétition", "Paresthésie", "Impuissance", "Cécité", "Pathologie >> Insuffisance rénale", "Glycémie >> Hyperglycémie", "HGPO >> Résultat positif", "Natrémie >> Hyponatrémie", "Hémoglobine glyquée (HbA1c)  >> Valeur élevée"],
+"symptomes": ["Asthénie", "Amaigrissement", "Polydipsie", "Polyurie", "Polyphagie", "Déshydratation", "Infections à répétition", "Paresthésie", "Impuissance", "Cécité", "Pathologie >> Insuffisance rénale", "Glycémie >> Hyperglycémie", "HGPO >> Résultat positif", "Natrémie >> Hyponatrémie", "Hémoglobine glyquée (HbA1c)  >> Valeur élevée"],
 "frequence": 88,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Diarrhée aiguë infectieuse",
-"symptomes": ["Diarrhée", "Rectorragies", "Syndrome dysentérique", "Fièvre", "Douleurs abdominales", "Hypotension", "Nausées", "Vomissements", "Anorexie", "Asthénie", "Fatigue", "Ballonnements abdominaux", "Déshydratation", "Céphalées", "Douleurs articulaires", "Myalgies", "Météorisme", "NFS >> Hyperleucocytose", "NFS >> Anémie", "Coproculture >> Résultat positif", "Examen parasitologique des selles >> Résultat positif", "Natrémie >> Hypernatrémie", "NFS >> Microcytose"],
+"symptomes": ["Diarrhée", "Rectorragies", "Syndrome dysentérique", "Fièvre", "Douleurs abdominales", "Hypotension", "Nausées", "Vomissements", "Anorexie", "Asthénie", "Ballonnements abdominaux", "Déshydratation", "Céphalées", "Douleurs articulaires", "Myalgies", "Météorisme", "NFS >> Hyperleucocytose", "NFS >> Anémie", "Coproculture >> Résultat positif", "Examen parasitologique des selles >> Résultat positif", "Natrémie >> Hypernatrémie", "NFS >> Microcytose"],
 "frequence": 85,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1016,14 +1016,14 @@
 },
 {
 "diagnostic": "Drépanocytose",
-"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Fatigue", "Dyspnée", "Subictère", "Hépatomégalie", "Splénomégalie", "Faciès mongoloïde", "Douleurs osseuses", "Douleur thoracique", "Douleurs abdominales", "Retard de croissance", "Priapisme", "NFS >> Anémie", "Haptoglobine >> Valeur basse", "LDH >> Valeur élevée", "Electrophorèse de l'hémoglobine >> prédominance d'Hb S, Hb F variable, absence Hb A", "VS >> Valeur basse", "Bilirubine non conjuguée >> Valeur élevée", "NFS >> Normocytose", "NFS >> Macrocytose", "Réticulocytes >> Valeur élevée"],
+"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Dyspnée", "Subictère", "Hépatomégalie", "Splénomégalie", "Faciès mongoloïde", "Douleurs osseuses", "Douleur thoracique", "Douleurs abdominales", "Retard de croissance", "Priapisme", "NFS >> Anémie", "Haptoglobine >> Valeur basse", "LDH >> Valeur élevée", "Electrophorèse de l'hémoglobine >> prédominance d'Hb S, Hb F variable, absence Hb A", "VS >> Valeur basse", "Bilirubine non conjuguée >> Valeur élevée", "NFS >> Normocytose", "NFS >> Macrocytose", "Réticulocytes >> Valeur élevée"],
 "frequence": 40,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Dubin-Johnson, maladie de",
-"symptomes": ["Ictère", "Douleurs abdominales", "Asthénie", "Fatigue", "Urines foncées", "Bilirubine conjuguée >> Valeur élevée"],
+"symptomes": ["Ictère", "Douleurs abdominales", "Asthénie", "Urines foncées", "Bilirubine conjuguée >> Valeur élevée"],
 "frequence": 2,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1044,7 +1044,7 @@
 },
 {
 "diagnostic": "Dyspepsie",
-"symptomes": ["Douleurs abdominales épigastrique", "Nausées", "Vomissements", "Altération de l'état général", "Anorexie", "Ballonnements abdominaux", "Tympanisme", "Pyrosis", "Constipation", "Diarrhée", "Asthénie", "Fatigue", "Hypertension artérielle"],
+"symptomes": ["Douleurs abdominales épigastrique", "Nausées", "Vomissements", "Altération de l'état général", "Anorexie", "Ballonnements abdominaux", "Tympanisme", "Pyrosis", "Constipation", "Diarrhée", "Asthénie", "Hypertension artérielle"],
 "frequence": 92,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -1086,7 +1086,7 @@
 },
 {
 "diagnostic": "Endocardite bactérienne",
-"symptomes": ["Fièvre", "Sueurs", "Asthénie", "Fatigue", "Amaigrissement", "Douleur", "Souffle systolique", "Souffle diastolique", "Faux panaris d'Osler", "Splénomégalie", "érythème de Janeway", "Macules", "érythème", "Purpura", "Pétéchies", "Nodules de Roth", "Hippocratisme digital", "Pathologie >> Syndrome méningé", "Hémiparésie", "Oedème", "Hypertension artérielle  ", "Pathologie >> Insuffisance rénale", "VS >> Accélérée", "NFS >> Anémie", "NFS >> Hyperleucocytose", "Echocardiographie >> Végétations", "Hémocultures sur milieu de Sabouraud >> Résultat positif", "Hémocultures (HACEK) >> Résultat positif", "CRP Positive", "Hématurie >> Positive", "Sérologie Brucella >> Résultat positif", "Sérologie Chlamydia >> Résultat positif", "Sérologie Coxiella burnetii >> Résultat positif", "Facteur rhumatoïde >> Résultat positif", "Cryoglobulinémie >> Résultat positif", "Hémocultures >> Résultat positif > Aéro-anaérobies", "NFS >> Microcytose"],
+"symptomes": ["Fièvre", "Sueurs", "Asthénie", "Amaigrissement", "Douleur", "Souffle systolique", "Souffle diastolique", "Faux panaris d'Osler", "Splénomégalie", "érythème de Janeway", "Macules", "érythème", "Purpura", "Pétéchies", "Nodules de Roth", "Hippocratisme digital", "Pathologie >> Syndrome méningé", "Hémiparésie", "Oedème", "Hypertension artérielle  ", "Pathologie >> Insuffisance rénale", "VS >> Accélérée", "NFS >> Anémie", "NFS >> Hyperleucocytose", "Echocardiographie >> Végétations", "Hémocultures sur milieu de Sabouraud >> Résultat positif", "Hémocultures (HACEK) >> Résultat positif", "CRP Positive", "Hématurie >> Positive", "Sérologie Brucella >> Résultat positif", "Sérologie Chlamydia >> Résultat positif", "Sérologie Coxiella burnetii >> Résultat positif", "Facteur rhumatoïde >> Résultat positif", "Cryoglobulinémie >> Résultat positif", "Hémocultures >> Résultat positif > Aéro-anaérobies", "NFS >> Microcytose"],
 "frequence": 58,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1156,7 +1156,7 @@
 },
 {
 "diagnostic": "Fatigue chronique, syndrome de",
-"symptomes": ["Asthénie", "Fatigue", "Troubles de la mémoire", "Myalgies", "Confusion", "Troubles de l'humeur", "Pathologie >> Syndrome dépressif", "Insomnie", "Hypersomnie", "Douleurs articulaires", "Céphalées", "Photophobie", "Vertige", "Adénopathie(s)", "Dyspnée", "Douleur thoracique", "Nausées", "Amaigrissement", "Palpitations", "Tachycardie", "Sueurs", "Sueurs nocturnes", "Prise de poids"],
+"symptomes": ["Asthénie", "Troubles de la mémoire", "Myalgies", "Confusion", "Troubles de l'humeur", "Pathologie >> Syndrome dépressif", "Insomnie", "Hypersomnie", "Douleurs articulaires", "Céphalées", "Photophobie", "Vertige", "Adénopathie(s)", "Dyspnée", "Douleur thoracique", "Nausées", "Amaigrissement", "Palpitations", "Tachycardie", "Sueurs", "Sueurs nocturnes", "Prise de poids"],
 "frequence": 10,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -1219,7 +1219,7 @@
 },
 {
 "diagnostic": "Foie, cancer primitif du",
-"symptomes": ["Altération de l'état général", "Anorexie", "Amaigrissement", "Asthénie", "Fatigue", "Fièvre", "Hépatomégalie", "Douleurs abdominales hypochondre droit", "Ascite", "Circulation collatérale abdominale", "Syndrome paranéoplasique", "Alpha-foetoprotéine >> Valeur élevée", "Echographie abdominale >> Envahissement veineux portal", "Scanner abdominal >> Lésion hypodense", "Biopsie hépatique >> Carcinome hépatocellulaire", "Biopsie hépatique >> lésions néoplasiques primitives hépatiques", "Calcémie >> Hypercalcémie", "Glycémie >> Hypoglycémie", "Gamma-GT >> Valeur élevée", "Transaminases >> Valeur élevée", "NFS >> Polyglobulie", "Facteur V >> Valeur élevée", "Scanner abdominal >> Envahissement veineux portal"],
+"symptomes": ["Altération de l'état général", "Anorexie", "Amaigrissement", "Asthénie", "Fièvre", "Hépatomégalie", "Douleurs abdominales hypochondre droit", "Ascite", "Circulation collatérale abdominale", "Syndrome paranéoplasique", "Alpha-foetoprotéine >> Valeur élevée", "Echographie abdominale >> Envahissement veineux portal", "Scanner abdominal >> Lésion hypodense", "Biopsie hépatique >> Carcinome hépatocellulaire", "Biopsie hépatique >> lésions néoplasiques primitives hépatiques", "Calcémie >> Hypercalcémie", "Glycémie >> Hypoglycémie", "Gamma-GT >> Valeur élevée", "Transaminases >> Valeur élevée", "NFS >> Polyglobulie", "Facteur V >> Valeur élevée", "Scanner abdominal >> Envahissement veineux portal"],
 "frequence": 38,
 "sexe": ["Masculin","Féminin"],
 "age": [">45"]
@@ -1352,7 +1352,7 @@
 },
 {
 "diagnostic": "Grippe",
-"symptomes": ["Fièvre", "Myalgies", "Toux", "Dysphonie", "éternument", "Céphalées", "Douleur oculaire", "Coryza", "Catarrhe", "Rougeur oculaire", "Rhinorrhée", "Anosmie", "Douleurs articulaires", "Sueurs", "Asthénie", "Fatigue"],
+"symptomes": ["Fièvre", "Myalgies", "Toux", "Dysphonie", "éternument", "Céphalées", "Douleur oculaire", "Coryza", "Catarrhe", "Rougeur oculaire", "Rhinorrhée", "Anosmie", "Douleurs articulaires", "Sueurs", "Asthénie"],
 "frequence": 98,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1394,7 +1394,7 @@
 },
 {
 "diagnostic": "Hémochromatose",
-"symptomes": ["Asthénie", "Fatigue", "Hépatomégalie", "Hyperpigmentation", "Douleurs articulaires", "Impuissance", "Atrophie testiculaire", "Baisse de la libido", "Aménorrhée", "Troubles du rythme cardiaque", "Pathologie >> Insuffisance cardiaque", "Fer sérique >> Valeur élevée", "Ferritine >> Valeur élevée", "Coefficient de saturation de la transferrine >> Valeur élevée", "Ponction-biopsie hépatique >> Surcharge ferrique à prédominance périportale", "Glycémie >> Hyperglycémie"],
+"symptomes": ["Asthénie", "Hépatomégalie", "Hyperpigmentation", "Douleurs articulaires", "Impuissance", "Atrophie testiculaire", "Baisse de la libido", "Aménorrhée", "Troubles du rythme cardiaque", "Pathologie >> Insuffisance cardiaque", "Fer sérique >> Valeur élevée", "Ferritine >> Valeur élevée", "Coefficient de saturation de la transferrine >> Valeur élevée", "Ponction-biopsie hépatique >> Surcharge ferrique à prédominance périportale", "Glycémie >> Hyperglycémie"],
 "frequence": 24,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1429,21 +1429,21 @@
 },
 {
 "diagnostic": "Hépatite chronique",
-"symptomes": ["Asthénie", "Fatigue", "Altération de l'état général", "Fièvre", "Arthrite", "Circulation collatérale abdominale", "Subictère", "Ictère", "Urines foncées", "Bilirubine conjuguée >> Valeur élevée", "Anticorps anti-HBe >> Résultat positif", "Antigène HBe >> Présence", "Antigène HBC >> Résultat positif", "Antigène HBs >> Présence", "Anticorps anti-HD >> Présence", "Anticorps anti-LKM1 >> Résultat positif", "Anticorps anti-SLA >> Résultat positif", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Asthénie", "Altération de l'état général", "Fièvre", "Arthrite", "Circulation collatérale abdominale", "Subictère", "Ictère", "Urines foncées", "Bilirubine conjuguée >> Valeur élevée", "Anticorps anti-HBe >> Résultat positif", "Antigène HBe >> Présence", "Antigène HBC >> Résultat positif", "Antigène HBs >> Présence", "Anticorps anti-HD >> Présence", "Anticorps anti-LKM1 >> Résultat positif", "Anticorps anti-SLA >> Résultat positif", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 42,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Herpès génital",
-"symptomes": ["Douleur anale", "Douleur génitale", "Lésions cutanéomuqueuses génitales", "Vésicules cutanées", "Macules", "érythème", "Adénopathie(s)", "Myalgies", "Fièvre", "Céphalées", "Asthénie", "Fatigue", "Cytodiagnostic de Tzanck >> Résultat positif", "Anticorps anti-HSV1 et anti-HSV2 >> Réaction positive", "Sérologie herpétique ELISA >> Résultat positif"],
+"symptomes": ["Douleur anale", "Douleur génitale", "Lésions cutanéomuqueuses génitales", "Vésicules cutanées", "Macules", "érythème", "Adénopathie(s)", "Myalgies", "Fièvre", "Céphalées", "Asthénie", "Cytodiagnostic de Tzanck >> Résultat positif", "Anticorps anti-HSV1 et anti-HSV2 >> Réaction positive", "Sérologie herpétique ELISA >> Résultat positif"],
 "frequence": 66,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
 },
 {
 "diagnostic": "Herpes simplex virus, infections à",
-"symptomes": ["Fièvre", "Myalgies", "Pathologie >> Pharyngite", "Pharyngite vésiculeuse", "Ulcération", "Vésicules cutanées", "Pustules cutanées", "Kératoconjonctivite", "Eczéma", "éruption", "Céphalées", "Asthénie", "Fatigue", "Prurit", "Dysurie", "Douleur génitale", "écoulement", "Adénopathie(s)", "érythème", "Herpès labial", "Pathologie >> Gingivite", "Pathologie >> Stomatie", "Kératite", "Cytodiagnostic des berges d'une ulcération >> Résultat positif", "Culture virale (Herpes simplex virus) >> Résultat positif"],
+"symptomes": ["Fièvre", "Myalgies", "Pathologie >> Pharyngite", "Pharyngite vésiculeuse", "Ulcération", "Vésicules cutanées", "Pustules cutanées", "Kératoconjonctivite", "Eczéma", "éruption", "Céphalées", "Asthénie", "Prurit", "Dysurie", "Douleur génitale", "écoulement", "Adénopathie(s)", "érythème", "Herpès labial", "Pathologie >> Gingivite", "Pathologie >> Stomatie", "Kératite", "Cytodiagnostic des berges d'une ulcération >> Résultat positif", "Culture virale (Herpes simplex virus) >> Résultat positif"],
 "frequence": 56,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1464,14 +1464,14 @@
 },
 {
 "diagnostic": "Histiocytose X",
-"symptomes": ["Asthénie", "Fatigue", "Altération de l'état général", "Pâleur", "Fièvre", "Douleurs osseuses", "Dyspnée", "Toux", "Râles crépitants", "éruption", "Macules", "érythème", "Papules cutanées", "Adénopathie(s)", "Splénomégalie", "Hépatomégalie", "Polyurie", "Polydipsie", "Exophtalmie", "Radiographies osseuses >> Lacunes", "EFR >> Syndrome restrictif", "EFR >> Syndrome obstructif", "Biopsie cutanée >> granulome et cellules de Langerhans", "Biopsie osseuse >> granulome et cellules de Langerhans", "Biopsie pulmonaire >> granulome et cellules de Langerhans", "Radiographie de thorax >> Nodules confluants", "Radiographie de thorax >> Aspect  rayon de miel", "Radiographie de thorax >> Pneumothorax", "Radiographie de thorax >> aspect micronodulaire"],
+"symptomes": ["Asthénie", "Altération de l'état général", "Pâleur", "Fièvre", "Douleurs osseuses", "Dyspnée", "Toux", "Râles crépitants", "éruption", "Macules", "érythème", "Papules cutanées", "Adénopathie(s)", "Splénomégalie", "Hépatomégalie", "Polyurie", "Polydipsie", "Exophtalmie", "Radiographies osseuses >> Lacunes", "EFR >> Syndrome restrictif", "EFR >> Syndrome obstructif", "Biopsie cutanée >> granulome et cellules de Langerhans", "Biopsie osseuse >> granulome et cellules de Langerhans", "Biopsie pulmonaire >> granulome et cellules de Langerhans", "Radiographie de thorax >> Nodules confluants", "Radiographie de thorax >> Aspect  rayon de miel", "Radiographie de thorax >> Pneumothorax", "Radiographie de thorax >> aspect micronodulaire"],
 "frequence": 23,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hodgkin, maladie de",
-"symptomes": ["Fièvre", "Adénopathie(s)", "Adénite", "Amaigrissement", "Asthénie", "Fatigue", "Sueurs nocturnes", "Anorexie", "Prurit", "Biopsie ganglionnaire >> cellule de Reed-Sternberg", "Biopsie ganglionnaire >> Grandes cellules réticulaires rondes", "Biopsie ganglionnaire >> Infiltrat diffus du ganglion lymphatique par des lymphocytes", "Scanner thoracique >> Adénopathies médiastinales"],
+"symptomes": ["Fièvre", "Adénopathie(s)", "Adénite", "Amaigrissement", "Asthénie", "Sueurs nocturnes", "Anorexie", "Prurit", "Biopsie ganglionnaire >> cellule de Reed-Sternberg", "Biopsie ganglionnaire >> Grandes cellules réticulaires rondes", "Biopsie ganglionnaire >> Infiltrat diffus du ganglion lymphatique par des lymphocytes", "Scanner thoracique >> Adénopathies médiastinales"],
 "frequence": 24,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1506,21 +1506,21 @@
 },
 {
 "diagnostic": "Hyperparathyroïdie",
-"symptomes": ["Douleurs du dos", "Douleurs lombaires", "Polydipsie", "Polyurie", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Douleurs abdominales", "Constipation", "Douleurs osseuses", "Douleurs articulaires", "Asthénie", "Fatigue", "Hypotonie", "Troubles de la mémoire", "Psychose", "Somnolence", "Coma", "Hypertension artérielle  ", "Kératite", "Pathologie >> Syndrome dépressif", "Pathologie >> Insuffisance rénale", "Calcémie >> Hypercalcémie", "Phosphorémie >> Hypophosphorémie", "Calciurie >> Hypercalciurie", "Kaliémie >> Hypokaliémie", "Magnésémie >> Hypomagnésémie", "NFS >> Anémie", "Dosage de la PTH 1-84 >> Valeur élevée", "NFS >> Microcytose"],
+"symptomes": ["Douleurs du dos", "Douleurs lombaires", "Polydipsie", "Polyurie", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Douleurs abdominales", "Constipation", "Douleurs osseuses", "Douleurs articulaires", "Asthénie", "Hypotonie", "Troubles de la mémoire", "Psychose", "Somnolence", "Coma", "Hypertension artérielle  ", "Kératite", "Pathologie >> Syndrome dépressif", "Pathologie >> Insuffisance rénale", "Calcémie >> Hypercalcémie", "Phosphorémie >> Hypophosphorémie", "Calciurie >> Hypercalciurie", "Kaliémie >> Hypokaliémie", "Magnésémie >> Hypomagnésémie", "NFS >> Anémie", "Dosage de la PTH 1-84 >> Valeur élevée", "NFS >> Microcytose"],
 "frequence": 64,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
 },
 {
 "diagnostic": "Hypertension artérielle",
-"symptomes": ["Hypertension artérielle  ", "Céphalées", "Asthénie", "Fatigue", "Palpitations", "Acouphènes", "Impuissance", "épistaxis", "Flou visuel", "Lipothymies", "Vertige", "Douleur thoracique", "Dyspnée", "Crises convulsives", "Agitation", "Nausées", "Vomissements", "Coagulation intravasculaire disséminée", "Fond d'oeil >> Hémorragies rétiniennes", "Fond d'oeil >> Nodules cotonneux", "Fond d'oeil >> Oedème papillaire", "Fond d'oeil >> Oedème maculaire"],
+"symptomes": ["Hypertension artérielle  ", "Céphalées", "Asthénie", "Palpitations", "Acouphènes", "Impuissance", "épistaxis", "Flou visuel", "Lipothymies", "Vertige", "Douleur thoracique", "Dyspnée", "Crises convulsives", "Agitation", "Nausées", "Vomissements", "Coagulation intravasculaire disséminée", "Fond d'oeil >> Hémorragies rétiniennes", "Fond d'oeil >> Nodules cotonneux", "Fond d'oeil >> Oedème papillaire", "Fond d'oeil >> Oedème maculaire"],
 "frequence": 95,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
 },
 {
 "diagnostic": "Hypertension artérielle pulmonaire primitive",
-"symptomes": ["Dédoublement des deux bruits du coeur", "Galop", "éclat de B2", "Dyspnée", "Souffle systolique", "Souffle holosystolique", "Turgescence jugulaire", "Douleur thoracique", "Asthénie", "Fatigue", "Palpitations", "Syncope", "Toux", "Syndrome de Raynaud", "Hépatomégalie", "Souffle diastolique", "Click d'éjection systolique pulmonaire", "Oedème des membres inférieurs", "Oedème des mains", "ECG >> hypertrophie ventriculaire droite", "ECG >> Déviation axiale droite", "Gaz du sang >> Hypoxémie", "Gaz du sang >> Hypocapnie", "Radiographie de thorax >> grosses artères pulmonaires", "Cathétérisme cardiaque droit >> Hypertension artérielle pulmonaire", "Echocardiographie >> hypertension artérielle pulmonaire "],
+"symptomes": ["Dédoublement des deux bruits du coeur", "Galop", "éclat de B2", "Dyspnée", "Souffle systolique", "Souffle holosystolique", "Turgescence jugulaire", "Douleur thoracique", "Asthénie", "Palpitations", "Syncope", "Toux", "Syndrome de Raynaud", "Hépatomégalie", "Souffle diastolique", "Click d'éjection systolique pulmonaire", "Oedème des membres inférieurs", "Oedème des mains", "ECG >> hypertrophie ventriculaire droite", "ECG >> Déviation axiale droite", "Gaz du sang >> Hypoxémie", "Gaz du sang >> Hypocapnie", "Radiographie de thorax >> grosses artères pulmonaires", "Cathétérisme cardiaque droit >> Hypertension artérielle pulmonaire", "Echocardiographie >> hypertension artérielle pulmonaire "],
 "frequence": 42,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -1534,35 +1534,35 @@
 },
 {
 "diagnostic": "Hyperthyroïdie",
-"symptomes": ["Amaigrissement", "Tachycardie", "Polyphagie", "Polyurie", "Polydipsie", "Fièvre", "Sueurs", "Asthénie", "Fatigue", "Prurit", "Masse du cou", "Goitre", "Exophtalmie", "Larmoiement", "Tremblements", "Nervosité", "Myxoedème prétibial", "Diarrhée", "Constipation", "Aménorrhée", "Accélération de la croissance", "Anticorps anti-thyroglobuline >> Présence", "Anticorps anti-microsomes >> Présence", "Anticorps anti-récepteur de la TSH >> Présence", "Scintigraphie thyroidienne >> Hyperthyroïdie", "TSH >> Valeur basse", "T4 >> Valeur élevée"],
+"symptomes": ["Amaigrissement", "Tachycardie", "Polyphagie", "Polyurie", "Polydipsie", "Fièvre", "Sueurs", "Asthénie", "Prurit", "Masse du cou", "Goitre", "Exophtalmie", "Larmoiement", "Tremblements", "Nervosité", "Myxoedème prétibial", "Diarrhée", "Constipation", "Aménorrhée", "Accélération de la croissance", "Anticorps anti-thyroglobuline >> Présence", "Anticorps anti-microsomes >> Présence", "Anticorps anti-récepteur de la TSH >> Présence", "Scintigraphie thyroidienne >> Hyperthyroïdie", "TSH >> Valeur basse", "T4 >> Valeur élevée"],
 "frequence": 61,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
 },
 {
 "diagnostic": "Hyperviscosité, syndrome d'",
-"symptomes": ["Céphalées", "Asthénie", "Fatigue", "Anorexie", "Somnolence", "Troubles de la vigilance", "Coma", "Vertige", "Baisse d'acuité visuelle", "Hypotension orthostatique", "Mouvements oculaires anormaux", "Nystagmus", "Hypoacousie", "Pathologie >> Insuffisance cardiaque", "Thromboses veineuses", "Thromboses artérielles", "Troubles du comportement", "Mesure de la viscosité sanguine à 37°C >> Hyperviscosité"],
+"symptomes": ["Céphalées", "Asthénie", "Anorexie", "Somnolence", "Troubles de la vigilance", "Coma", "Vertige", "Baisse d'acuité visuelle", "Hypotension orthostatique", "Mouvements oculaires anormaux", "Nystagmus", "Hypoacousie", "Pathologie >> Insuffisance cardiaque", "Thromboses veineuses", "Thromboses artérielles", "Troubles du comportement", "Mesure de la viscosité sanguine à 37°C >> Hyperviscosité"],
 "frequence": 18,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hypoglycémie diabétique",
-"symptomes": ["Douleurs abdominales", "Asthénie", "Fatigue", "Pâleur", "Sueurs", "Hypersialorrhée", "Palpitations", "Tachycardie", "Tremblements", "Hypertension artérielle  ", "Apathie", "Somnolence", "Diplopie", "Céphalées", "Vertige", "Acouphènes", "Hallucinations", "Paresthésie", "Paralysie", "Crises convulsives", "Coma", "Glycémie >> Hypoglycémie"],
+"symptomes": ["Douleurs abdominales", "Asthénie", "Pâleur", "Sueurs", "Hypersialorrhée", "Palpitations", "Tachycardie", "Tremblements", "Hypertension artérielle  ", "Apathie", "Somnolence", "Diplopie", "Céphalées", "Vertige", "Acouphènes", "Hallucinations", "Paresthésie", "Paralysie", "Crises convulsives", "Coma", "Glycémie >> Hypoglycémie"],
 "frequence": 72,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hypoglycémie non diabétique",
-"symptomes": ["Douleurs abdominales", "Asthénie", "Fatigue", "Pâleur", "Sueurs", "Hypersialorrhée", "Palpitations", "Tachycardie", "Tremblements", "Hypertension artérielle  ", "Glycémie >> Hypoglycémie"],
+"symptomes": ["Douleurs abdominales", "Asthénie", "Pâleur", "Sueurs", "Hypersialorrhée", "Palpitations", "Tachycardie", "Tremblements", "Hypertension artérielle  ", "Glycémie >> Hypoglycémie"],
 "frequence": 24,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hyponatrémie",
-"symptomes": ["Anorexie", "Nausées", "Vomissements", "Hoquet", "Asthénie", "Fatigue", "Myoclonies", "Crampes", "Torpeur", "Confusion", "Agitation", "Délire", "Crises convulsives", "Hypothermie", "Respiration de Cheyne-Stokes", "Atteinte des nerfs crâniens", "Abolition ou diminution de réflexe", "Soif", "Natrémie >> Hyponatrémie", "Créatininémie >> Valeur élevée", "Urée >> Valeur élevée", "NFS >> Hémoconcentration", "Uricémie >> Hyperuricémie"],
+"symptomes": ["Anorexie", "Nausées", "Vomissements", "Hoquet", "Asthénie", "Myoclonies", "Crampes", "Torpeur", "Confusion", "Agitation", "Délire", "Crises convulsives", "Hypothermie", "Respiration de Cheyne-Stokes", "Atteinte des nerfs crâniens", "Abolition ou diminution de réflexe", "Soif", "Natrémie >> Hyponatrémie", "Créatininémie >> Valeur élevée", "Urée >> Valeur élevée", "NFS >> Hémoconcentration", "Uricémie >> Hyperuricémie"],
 "frequence": 51,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1583,7 +1583,7 @@
 },
 {
 "diagnostic": "Hypothyroïdie de l'adulte",
-"symptomes": ["Visage bouffi, teint pâle, cireux, peau sèche, hypoSueurs", "Myxoedème", "Asthénie", "Fatigue", "Alopécie", "Ongles cassants", "Constipation", "Frilosité", "Troubles de la mémoire", "Pathologie >> Syndrome dépressif", "Hypoacousie", "Prise de poids", "Bradycardie", "Crampes", "Paresthésie", "Syndrome du canal carpien ", "Douleurs articulaires", "Macroglossie", "Aménorrhée", "Ménorragies", "Baisse de la libido", "Impuissance", "NFS >> Anémie", "CPK >> Valeur élevée", "LDH >> Valeur élevée", "Cholestérolémie >> Hypercholestérolémie", "Triglycéridémie >> Hypertriglycéridémie", "T4 >> Valeur basse", "TSH >> Valeur élevée", "ECG >> Bradycardie sinusale", "ECG >> Ondes T aplaties", "ECG >> Ondes T inversées", "Scintigraphie thyroïdienne >> surcharges iodées, troubles de l'hormonogenèse, ectopies", "Natrémie >> Hyponatrémie", "ASAT, ALAT >> Valeur élevée", "NFS >> Normocytose"],
+"symptomes": ["Visage bouffi, teint pâle, cireux, peau sèche, hypoSueurs", "Myxoedème", "Asthénie", "Alopécie", "Ongles cassants", "Constipation", "Frilosité", "Troubles de la mémoire", "Pathologie >> Syndrome dépressif", "Hypoacousie", "Prise de poids", "Bradycardie", "Crampes", "Paresthésie", "Syndrome du canal carpien ", "Douleurs articulaires", "Macroglossie", "Aménorrhée", "Ménorragies", "Baisse de la libido", "Impuissance", "NFS >> Anémie", "CPK >> Valeur élevée", "LDH >> Valeur élevée", "Cholestérolémie >> Hypercholestérolémie", "Triglycéridémie >> Hypertriglycéridémie", "T4 >> Valeur basse", "TSH >> Valeur élevée", "ECG >> Bradycardie sinusale", "ECG >> Ondes T aplaties", "ECG >> Ondes T inversées", "Scintigraphie thyroïdienne >> surcharges iodées, troubles de l'hormonogenèse, ectopies", "Natrémie >> Hyponatrémie", "ASAT, ALAT >> Valeur élevée", "NFS >> Normocytose"],
 "frequence": 73,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -1618,28 +1618,28 @@
 },
 {
 "diagnostic": "Insolation et coup de chaleur",
-"symptomes": ["Céphalées", "Asthénie", "Fatigue", "Nausées", "Sueurs", "Fièvre", "Soif", "Myalgies", "Crampes", "Confusion", "Coma", "Crises convulsives", "Diarrhée", "Vomissements", "Méléna", "Hématémèse", "Rectorragies", "Tachycardie", "Hypotension", "Tachypnée", "Anurie", "Natrémie >> Hyponatrémie", "Natrémie >> Hypernatrémie", "Protidémie >> hyperprotidémie", "Créatininémie >> Valeur élevée", "Gaz du sang >> acidose métabolique", "Kaliémie >> Hyperkaliémie", "NFS >> Hémoconcentration", "Taux de prothrombine >> Valeur basse", "D-dimères >> Valeur élevée"],
+"symptomes": ["Céphalées", "Asthénie", "Nausées", "Sueurs", "Fièvre", "Soif", "Myalgies", "Crampes", "Confusion", "Coma", "Crises convulsives", "Diarrhée", "Vomissements", "Méléna", "Hématémèse", "Rectorragies", "Tachycardie", "Hypotension", "Tachypnée", "Anurie", "Natrémie >> Hyponatrémie", "Natrémie >> Hypernatrémie", "Protidémie >> hyperprotidémie", "Créatininémie >> Valeur élevée", "Gaz du sang >> acidose métabolique", "Kaliémie >> Hyperkaliémie", "NFS >> Hémoconcentration", "Taux de prothrombine >> Valeur basse", "D-dimères >> Valeur élevée"],
 "frequence": 25,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Insuffisance antéhypophysaire",
-"symptomes": ["Asthénie", "Fatigue", "Aménorrhée", "Baisse de la libido", "Dépilation axillopubienne", "Atrophie testiculaire", "Impuissance", "Stérilité", "Frilosité", "Dépilation", "Bradycardie", "Constipation", "Dépigmentation", "Hypotension", "Amaigrissement", "Nausées", "Douleurs abdominales", "Retard de croissance", "Céphalées", "Baisse d'acuité visuelle", "Altération de champ visuel", "NFS >> Anémie", "Glycémie >> Hypoglycémie", "ACTH plasmatique >> Valeur basse", "TSH >> Valeur basse", "T4 >> Valeur basse", "Cortisolémie a 8h >> Valeur basse", "FSH, LH >> Valeur basse", "Testostérone >> Valeur basse", "GH >> Valeur basse", "Astradiol >> Valeur basse", "Prolactine >> Valeur basse", "Natrémie >> Hyponatrémie", "NFS >> Normocytose"],
+"symptomes": ["Asthénie", "Aménorrhée", "Baisse de la libido", "Dépilation axillopubienne", "Atrophie testiculaire", "Impuissance", "Stérilité", "Frilosité", "Dépilation", "Bradycardie", "Constipation", "Dépigmentation", "Hypotension", "Amaigrissement", "Nausées", "Douleurs abdominales", "Retard de croissance", "Céphalées", "Baisse d'acuité visuelle", "Altération de champ visuel", "NFS >> Anémie", "Glycémie >> Hypoglycémie", "ACTH plasmatique >> Valeur basse", "TSH >> Valeur basse", "T4 >> Valeur basse", "Cortisolémie a 8h >> Valeur basse", "FSH, LH >> Valeur basse", "Testostérone >> Valeur basse", "GH >> Valeur basse", "Astradiol >> Valeur basse", "Prolactine >> Valeur basse", "Natrémie >> Hyponatrémie", "NFS >> Normocytose"],
 "frequence": 44,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Insuffisance aortique",
-"symptomes": ["Souffle diastolique", "Souffle protodiastolique", "élargissement de la différentielle", "Hyperpulsatilité artérielle", "Dyspnée", "Dyspnée d'effort", "Douleur thoracique", "Asthénie", "Fatigue", "Galop", "Souffle sur le trajet des artères fémorales", "Pathologie >> Rétrécissement aortique", "ECG >> hypertrophie ventriculaire gauche", "ECG >> Ondes T amples et positives", "ECG >> Ondes T inversées", "Radiographie de thorax >> Allongement de l'arc inférieur gauche", "Radiographie de thorax >> Dilatation de l'aorte ascendante", "Echo-doppler cardiaque >> Insuffisance aortique", "Cathétérisme cardiaque >> Insuffisance aortique", "ECG >> axe de QRS gauche"],
+"symptomes": ["Souffle diastolique", "Souffle protodiastolique", "élargissement de la différentielle", "Hyperpulsatilité artérielle", "Dyspnée", "Dyspnée d'effort", "Douleur thoracique", "Asthénie", "Galop", "Souffle sur le trajet des artères fémorales", "Pathologie >> Rétrécissement aortique", "ECG >> hypertrophie ventriculaire gauche", "ECG >> Ondes T amples et positives", "ECG >> Ondes T inversées", "Radiographie de thorax >> Allongement de l'arc inférieur gauche", "Radiographie de thorax >> Dilatation de l'aorte ascendante", "Echo-doppler cardiaque >> Insuffisance aortique", "Cathétérisme cardiaque >> Insuffisance aortique", "ECG >> axe de QRS gauche"],
 "frequence": 61,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Insuffisance cardiaque",
-"symptomes": ["Dyspnée", "Dyspnée d'effort", "Asthénie", "Fatigue", "Râles crépitants", "Toux", "Expectoration mousseuse rose saumonée ", "Galop", "Tachycardie", "Sueurs", "Douleurs abdominales hypochondre droit", "Ascite", "Oligurie", "Signe de Harzer", "Hépatomégalie", "Turgescence jugulaire", "Oedème des membres inférieurs", "éclat de B2", "Pathologie >> Insuffisance mitrale", "Pathologie >> Pleurésie", "Pathologie >> Insuffisance rénale", "Echo-doppler cardiaque >> Insuffisance cardiaque", "Radiographie de thorax >> Cardiomégalie", "Radiographie de thorax >> Allongement de l'arc inférieur gauche", "Radiographie de thorax >> redistribution vasculaire vers les sommets", "Radiographie de thorax >> Lignes de Kerley", "Radiographie de thorax >> Image réticulonodulaires (aux bases)", "Radiographie de thorax >> épanchement pleural", "EFR >> Syndrome restrictif", "Natrémie >> Hyponatrémie", "Echocardiographie >> hypertension artérielle pulmonaire "],
+"symptomes": ["Dyspnée", "Dyspnée d'effort", "Asthénie", "Râles crépitants", "Toux", "Expectoration mousseuse rose saumonée ", "Galop", "Tachycardie", "Sueurs", "Douleurs abdominales hypochondre droit", "Ascite", "Oligurie", "Signe de Harzer", "Hépatomégalie", "Turgescence jugulaire", "Oedème des membres inférieurs", "éclat de B2", "Pathologie >> Insuffisance mitrale", "Pathologie >> Pleurésie", "Pathologie >> Insuffisance rénale", "Echo-doppler cardiaque >> Insuffisance cardiaque", "Radiographie de thorax >> Cardiomégalie", "Radiographie de thorax >> Allongement de l'arc inférieur gauche", "Radiographie de thorax >> redistribution vasculaire vers les sommets", "Radiographie de thorax >> Lignes de Kerley", "Radiographie de thorax >> Image réticulonodulaires (aux bases)", "Radiographie de thorax >> épanchement pleural", "EFR >> Syndrome restrictif", "Natrémie >> Hyponatrémie", "Echocardiographie >> hypertension artérielle pulmonaire "],
 "frequence": 57,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1653,28 +1653,28 @@
 },
 {
 "diagnostic": "Insuffisance rénale aiguë",
-"symptomes": ["Asthénie", "Fatigue", "Anorexie", "Nausées", "Vomissements", "Hoquet", "Douleurs abdominales", "Altération de l'état général", "Céphalées", "Troubles de la vigilance", "Délire", "Crises convulsives", "Coma", "Tachycardie", "épistaxis", "Crampes", "Myoclonies", "Fasciculations", "Oligurie", "Anurie", "Urines foncées", "Syndrome hémorragique", "Rectorragies", "Méléna", "Hématémèse", "Hyperventilation", "Dyspnée", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "Clairance de la créatinine >> Valeur basse", "Gaz du sang >> acidose métabolique", "Gaz du sang >> Hypocapnie", "Phosphorémie >> Hyperphosphorémie", "Calcémie >> Hypocalcémie", "Protéinurie >> Résultat positif", "Hématurie >> Résultat positif", "NFS >> Anémie", "Natrémie >> Hyponatrémie", "Uricémie >> Hyperuricémie", "Kaliémie >> Hyperkaliémie", "Natrémie >> Hypernatrémie", "NFS >> Normocytose", "NFS >> Microcytose"],
+"symptomes": ["Asthénie", "Anorexie", "Nausées", "Vomissements", "Hoquet", "Douleurs abdominales", "Altération de l'état général", "Céphalées", "Troubles de la vigilance", "Délire", "Crises convulsives", "Coma", "Tachycardie", "épistaxis", "Crampes", "Myoclonies", "Fasciculations", "Oligurie", "Anurie", "Urines foncées", "Syndrome hémorragique", "Rectorragies", "Méléna", "Hématémèse", "Hyperventilation", "Dyspnée", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "Clairance de la créatinine >> Valeur basse", "Gaz du sang >> acidose métabolique", "Gaz du sang >> Hypocapnie", "Phosphorémie >> Hyperphosphorémie", "Calcémie >> Hypocalcémie", "Protéinurie >> Résultat positif", "Hématurie >> Résultat positif", "NFS >> Anémie", "Natrémie >> Hyponatrémie", "Uricémie >> Hyperuricémie", "Kaliémie >> Hyperkaliémie", "Natrémie >> Hypernatrémie", "NFS >> Normocytose", "NFS >> Microcytose"],
 "frequence": 74,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Insuffisance rénale chronique",
-"symptomes": ["Hypertension artérielle  ", "Asthénie", "Fatigue", "Anorexie", "Nausées", "Dyspnée", "Insomnie", "Pathologie >> Syndrome dépressif", "Céphalées", "Confusion", "Pathologie >> Crises comitiales", "Vomissements", "Hoquet", "Crampes", "Myoclonies", "Polyurie", "Polydipsie", "Pâleur", "Prurit", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "NFS >> Anémie", "Gaz du sang >> acidose métabolique", "Phosphorémie >> Hyperphosphorémie", "Calcémie >> Hypocalcémie", "Temps de saignement >> Valeur élevée", "Ponction biopsie rénale >> Néphropathie", "Uricémie >> Hyperuricémie", "Kaliémie >> Hyperkaliémie", "Calcitonine >> Valeur élevée", "NFS >> Monocytose"],
+"symptomes": ["Hypertension artérielle  ", "Asthénie", "Anorexie", "Nausées", "Dyspnée", "Insomnie", "Pathologie >> Syndrome dépressif", "Céphalées", "Confusion", "Pathologie >> Crises comitiales", "Vomissements", "Hoquet", "Crampes", "Myoclonies", "Polyurie", "Polydipsie", "Pâleur", "Prurit", "Urée >> Valeur élevée", "Créatininémie >> Valeur élevée", "NFS >> Anémie", "Gaz du sang >> acidose métabolique", "Phosphorémie >> Hyperphosphorémie", "Calcémie >> Hypocalcémie", "Temps de saignement >> Valeur élevée", "Ponction biopsie rénale >> Néphropathie", "Uricémie >> Hyperuricémie", "Kaliémie >> Hyperkaliémie", "Calcitonine >> Valeur élevée", "NFS >> Monocytose"],
 "frequence": 58,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Insuffisance surrénale",
-"symptomes": ["Asthénie", "Fatigue", "Anorexie", "Amaigrissement", "Hypotension", "Hypotension orthostatique", "Douleurs abdominales", "Vomissements", "Diarrhée", "Hyperpigmentation", "Troubles psychiques", "Impuissance", "Douleurs articulaires", "Crampes", "Nausées", "Kaliémie >> Hyperkaliémie", "Azotémie >> Hyperazotémie", "Glycémie >> Hypoglycémie", "NFS >> Leuconeutropénie", "Cortisolémie >> Hypocortisolémie", "ACTH plasmatique >> Hyper-ACTH plasmatique", "Natrémie >> Hyponatrémie"],
+"symptomes": ["Asthénie", "Anorexie", "Amaigrissement", "Hypotension", "Hypotension orthostatique", "Douleurs abdominales", "Vomissements", "Diarrhée", "Hyperpigmentation", "Troubles psychiques", "Impuissance", "Douleurs articulaires", "Crampes", "Nausées", "Kaliémie >> Hyperkaliémie", "Azotémie >> Hyperazotémie", "Glycémie >> Hypoglycémie", "NFS >> Leuconeutropénie", "Cortisolémie >> Hypocortisolémie", "ACTH plasmatique >> Hyper-ACTH plasmatique", "Natrémie >> Hyponatrémie"],
 "frequence": 69,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Interstitiel pulmonaire, syndrome",
-"symptomes": ["Toux", "Dyspnée", "Hippocratisme digital", "Fièvre", "Amaigrissement", "Asthénie", "Fatigue", "Douleurs articulaires", "Radiographie de thorax >> Lignes de Kerley", "Radiographie de thorax >> Opacités réticulonodulaires", "Radiographie de thorax >> images en rayons de miel"],
+"symptomes": ["Toux", "Dyspnée", "Hippocratisme digital", "Fièvre", "Amaigrissement", "Asthénie", "Douleurs articulaires", "Radiographie de thorax >> Lignes de Kerley", "Radiographie de thorax >> Opacités réticulonodulaires", "Radiographie de thorax >> images en rayons de miel"],
 "frequence": 84,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1758,7 +1758,7 @@
 },
 {
 "diagnostic": "Laryngite sous-glottique",
-"symptomes": ["Toux", "Stridor", "Tirage", "Cyanose", "Fièvre", "Asthénie", "Fatigue", "Altération de l'état général", "Dyspnée", "Infections à répétition", "NFS >> Leucopénie", "NFS >> Hyperleucocytose", "Laryngoscopie directe >> Laryngite sous-glottique"],
+"symptomes": ["Toux", "Stridor", "Tirage", "Cyanose", "Fièvre", "Asthénie", "Altération de l'état général", "Dyspnée", "Infections à répétition", "NFS >> Leucopénie", "NFS >> Hyperleucocytose", "Laryngoscopie directe >> Laryngite sous-glottique"],
 "frequence": 60,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15"]
@@ -1772,7 +1772,7 @@
 },
 {
 "diagnostic": "Légionellose",
-"symptomes": ["Fièvre", "Bradycardie", "Asthénie", "Fatigue", "Anorexie", "Toux", "Diarrhée", "Nausées", "Vomissements", "Confusion", "Agitation", "Céphalées", "Hallucinations", "Insomnie", "Syncope", "Lipothymies", "Myalgies", "Pathologie >> Insuffisance rénale", "ASAT, ALAT >> Valeur élevée", "NFS >> Hyperleucocytose", "NFS >> Lymphopénie", "Natrémie >> Hyponatrémie", "Sérologie Legionella >> Résultat positif", "Examen de l'expectoration >> Légionellose", "Natrémie >> Hyponatrémie"],
+"symptomes": ["Fièvre", "Bradycardie", "Asthénie", "Anorexie", "Toux", "Diarrhée", "Nausées", "Vomissements", "Confusion", "Agitation", "Céphalées", "Hallucinations", "Insomnie", "Syncope", "Lipothymies", "Myalgies", "Pathologie >> Insuffisance rénale", "ASAT, ALAT >> Valeur élevée", "NFS >> Hyperleucocytose", "NFS >> Lymphopénie", "Natrémie >> Hyponatrémie", "Sérologie Legionella >> Résultat positif", "Examen de l'expectoration >> Légionellose", "Natrémie >> Hyponatrémie"],
 "frequence": 40,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1800,14 +1800,14 @@
 },
 {
 "diagnostic": "Leucémie myéloïde chronique",
-"symptomes": ["Splénomégalie", "Asthénie", "Fatigue", "Pâleur", "Fièvre", "Sueurs", "Hépatomégalie", "Thrombose veineuse profonde", "Priapisme", "Prurit", "Douleurs abdominales", "Ecchymoses", "Crises de goutte", "Syndrome hémorragique", "NFS >> Hyperleucocytose", "NFS >> Anémie", "Temps de saignement >> Valeur élevée", "NFS >> Hyperbasophiles", "Chromosome Philadelphie >> Présent", "Uraturie >> Hyperuraturie", "Uricémie >> Hyperuricémie", "NFS >> Myélémie", "NFS >> Normocytose"],
+"symptomes": ["Splénomégalie", "Asthénie", "Pâleur", "Fièvre", "Sueurs", "Hépatomégalie", "Thrombose veineuse profonde", "Priapisme", "Prurit", "Douleurs abdominales", "Ecchymoses", "Crises de goutte", "Syndrome hémorragique", "NFS >> Hyperleucocytose", "NFS >> Anémie", "Temps de saignement >> Valeur élevée", "NFS >> Hyperbasophiles", "Chromosome Philadelphie >> Présent", "Uraturie >> Hyperuraturie", "Uricémie >> Hyperuricémie", "NFS >> Myélémie", "NFS >> Normocytose"],
 "frequence": 29,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
 },
 {
 "diagnostic": "Leucémies aiguës",
-"symptomes": ["Pathologie >> Syndrome anémique", "Asthénie", "Fatigue", "Pâleur", "Dyspnée", "Fièvre", "Syndrome hémorragique", "Céphalées", "Splénomégalie", "Adénopathie(s)", "Nodules cutanés", "Douleurs osseuses", "Coagulation intravasculaire disséminée", "NFS >> Anémie", "NFS >> Hyperleucocytose", "NFS >> Leucopénie", "Frottis sanguin >> Blastes circulants", "NFS >> Thrombopénie", "Radiographie de thorax >> adénopathies médiastinales", "Biopsie médullaire >> Leucémie", "Uricémie >> Hyperuricémie", "Kaliémie >> Hypokaliémie", "NFS >> Normocytose"],
+"symptomes": ["Pathologie >> Syndrome anémique", "Asthénie", "Pâleur", "Dyspnée", "Fièvre", "Syndrome hémorragique", "Céphalées", "Splénomégalie", "Adénopathie(s)", "Nodules cutanés", "Douleurs osseuses", "Coagulation intravasculaire disséminée", "NFS >> Anémie", "NFS >> Hyperleucocytose", "NFS >> Leucopénie", "Frottis sanguin >> Blastes circulants", "NFS >> Thrombopénie", "Radiographie de thorax >> adénopathies médiastinales", "Biopsie médullaire >> Leucémie", "Uricémie >> Hyperuricémie", "Kaliémie >> Hypokaliémie", "NFS >> Normocytose"],
 "frequence": 31,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -1821,7 +1821,7 @@
 },
 {
 "diagnostic": "Listériose",
-"symptomes": ["Fièvre", "Douleurs abdominales", "Dyspnée", "Adénopathie(s)", "Pathologie >> Conjonctivite", "Diarrhée", "Asthénie", "Fatigue", "Hépatomégalie", "Splénomégalie", "Myalgies", "Nausées", "Vomissements", "Dysurie", "Céphalées", "Pathologie >> Syndrome méningé", "Examen du LCR >> Listeria monocytogenes", "NFS >> Hyperleucocytose", "Hémocultures >> Résultat positif > Listeria monocytogenes"],
+"symptomes": ["Fièvre", "Douleurs abdominales", "Dyspnée", "Adénopathie(s)", "Pathologie >> Conjonctivite", "Diarrhée", "Asthénie", "Hépatomégalie", "Splénomégalie", "Myalgies", "Nausées", "Vomissements", "Dysurie", "Céphalées", "Pathologie >> Syndrome méningé", "Examen du LCR >> Listeria monocytogenes", "NFS >> Hyperleucocytose", "Hémocultures >> Résultat positif > Listeria monocytogenes"],
 "frequence": 40,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1856,14 +1856,14 @@
 },
 {
 "diagnostic": "Lupus érythémateux disséminé",
-"symptomes": ["Asthénie", "Fatigue", "Fièvre", "Douleurs articulaires", "Arthrite", "Myalgies", "éruption malaire en aile de papillon (vespertilio), ou en loup (lupus)", "Ulcération buccale", "Céphalées", "Crises convulsives", "Oedème des membres inférieurs", "Douleur thoracique", "Pathologie >> Pleurésie", "Souffle systolique", "Souffle diastolique", "Pathologie >> Phlébite", "Thromboses artérielles", "Adénopathie(s)", "Splénomégalie", "Syndrome hémorragique", "Pâleur", "Anorexie", "Nausées", "Vomissements", "Douleurs abdominales", "Psychose", "Pathologie >> Insuffisance rénale", "VS >> Accélérée", "CRP Positive", "NFS >> Anémie", "NFS >> Leucopénie", "NFS >> Thrombopénie", "Anticorps anti-ADN natifs >> Présents", "Anticorps antiphospholipides >> Présents", "Facteurs antinucléaires >> Présents", "Radiographie de thorax >> épanchement pleural", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "NFS >> Microcytose", "Réticulocytes >> Valeur basse", "NFS >> Normocytose"],
+"symptomes": ["Asthénie", "Fièvre", "Douleurs articulaires", "Arthrite", "Myalgies", "éruption malaire en aile de papillon (vespertilio), ou en loup (lupus)", "Ulcération buccale", "Céphalées", "Crises convulsives", "Oedème des membres inférieurs", "Douleur thoracique", "Pathologie >> Pleurésie", "Souffle systolique", "Souffle diastolique", "Pathologie >> Phlébite", "Thromboses artérielles", "Adénopathie(s)", "Splénomégalie", "Syndrome hémorragique", "Pâleur", "Anorexie", "Nausées", "Vomissements", "Douleurs abdominales", "Psychose", "Pathologie >> Insuffisance rénale", "VS >> Accélérée", "CRP Positive", "NFS >> Anémie", "NFS >> Leucopénie", "NFS >> Thrombopénie", "Anticorps anti-ADN natifs >> Présents", "Anticorps antiphospholipides >> Présents", "Facteurs antinucléaires >> Présents", "Radiographie de thorax >> épanchement pleural", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "NFS >> Microcytose", "Réticulocytes >> Valeur basse", "NFS >> Normocytose"],
 "frequence": 32,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Lyme, maladie de",
-"symptomes": ["érythème", "Fièvre", "Céphalées", "Asthénie", "Fatigue", "Douleurs articulaires", "Myalgies", "Paralysie faciale", "Atteinte des nerfs crâniens", "Hypertrophie testiculaire", "Orchite", "Arthrite", "Tendinite ou bursite récidivantes", "Troubles de la mémoire", "Troubles du comportement", "Tremblements", "Pathologie >> Syndrome dépressif", "Kératite", "Pathologie >> Uvéite", "Pathologie >> Syndrome méningé", "Sérologie de Lyme (Sang, LCR) >> Résultat positif"],
+"symptomes": ["érythème", "Fièvre", "Céphalées", "Asthénie", "Douleurs articulaires", "Myalgies", "Paralysie faciale", "Atteinte des nerfs crâniens", "Hypertrophie testiculaire", "Orchite", "Arthrite", "Tendinite ou bursite récidivantes", "Troubles de la mémoire", "Troubles du comportement", "Tremblements", "Pathologie >> Syndrome dépressif", "Kératite", "Pathologie >> Uvéite", "Pathologie >> Syndrome méningé", "Sérologie de Lyme (Sang, LCR) >> Résultat positif"],
 "frequence": 15,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1912,7 +1912,7 @@
 },
 {
 "diagnostic": "Mal des transports",
-"symptomes": ["Nausées", "Vomissements", "Pâleur", "Sueurs", "Hypersialorrhée", "Hyperventilation", "Anxiété", "Malaise", "Asthénie", "Fatigue"],
+"symptomes": ["Nausées", "Vomissements", "Pâleur", "Sueurs", "Hypersialorrhée", "Hyperventilation", "Anxiété", "Malaise", "Asthénie"],
 "frequence": 50,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2003,7 +2003,7 @@
 },
 {
 "diagnostic": "Migraine",
-"symptomes": ["Céphalées", "Nausées", "Vomissements", "Photophobie", "Asthénie", "Fatigue", "Scotome", "Paresthésie", "Hémiparésie", "Paralysie oculomotrice"],
+"symptomes": ["Céphalées", "Nausées", "Vomissements", "Photophobie", "Asthénie", "Scotome", "Paresthésie", "Hémiparésie", "Paralysie oculomotrice"],
 "frequence": 92,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2017,7 +2017,7 @@
 },
 {
 "diagnostic": "Mononucléose infectieuse",
-"symptomes": ["Asthénie", "Fatigue", "Fièvre", "Adénopathie(s)", "Splénomégalie", "Amygdalite", "Amygdale(s) hypertrophiée(s) blanche(s)", "Amygdale(s) hypertrophiée(s) rouge(s)", "Angine érythémato-pultacée", "Angine pseudo-membraneuse", "Oedème de la luette", "Purpura pétéchial du palais", "Oedème palpébral", "Céphalées", "Subictère", "éruption", "Macules", "érythème", "Papules cutanées", "NFS >> Hyperlymphocytose", "NFS >> Monocytose", "NFS >> Thrombopénie", "ASAT, ALAT >> Valeur élevée", "MNI Test >> Résultat positif", "Anticorps anti-EBV >> Résultat positif", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Asthénie", "Fièvre", "Adénopathie(s)", "Splénomégalie", "Amygdalite", "Amygdale(s) hypertrophiée(s) blanche(s)", "Amygdale(s) hypertrophiée(s) rouge(s)", "Angine érythémato-pultacée", "Angine pseudo-membraneuse", "Oedème de la luette", "Purpura pétéchial du palais", "Oedème palpébral", "Céphalées", "Subictère", "éruption", "Macules", "érythème", "Papules cutanées", "NFS >> Hyperlymphocytose", "NFS >> Monocytose", "NFS >> Thrombopénie", "ASAT, ALAT >> Valeur élevée", "MNI Test >> Résultat positif", "Anticorps anti-EBV >> Résultat positif", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 44,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2031,7 +2031,7 @@
 },
 {
 "diagnostic": "Myasthénie",
-"symptomes": ["Ptosis", "Diplopie", "Déficit moteur", "Dysphagie", "Dysarthrie", "Dysphonie", "Asthénie", "Fatigue", "Test au Tensilon >> Résultat positif", "Stimulation nerveuse répétitive >> réponse décrémentielle à 3 Hz"],
+"symptomes": ["Ptosis", "Diplopie", "Déficit moteur", "Dysphagie", "Dysarthrie", "Dysphonie", "Asthénie", "Test au Tensilon >> Résultat positif", "Stimulation nerveuse répétitive >> réponse décrémentielle à 3 Hz"],
 "frequence": 18,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2052,14 +2052,14 @@
 },
 {
 "diagnostic": "Myélome multiple",
-"symptomes": ["Douleurs osseuses", "Fractures pathologiques", "Déformations osseuses", "épistaxis", "Gingivorragies", "Purpura", "Pathologie >> Insuffisance rénale", "Asthénie", "Fatigue", "Amaigrissement", "Altération de l'état général", "NFS >> Anémie", "Electrophorèse des protéines sériques >> Pic monoclonal", "Calcémie >> Hypercalcémie", "NFS >> Thrombopénie", "VS >> Accélérée", "Créatininémie >> Valeur élevée", "Radiographies osseuses >> lyse à l'emporte-pièce", "Radiographies osseuses >> Déminéralisation diffuse", "Radiographie du rachis >> tassements vertébraux", "Radiographie du crâne >> lyse à l'emporte-pièce", "Myélogramme >> Infiltration plasmocytaire", "Biopsie ostéomédullaire >> Infiltration plasmocytaire", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "Natrémie >> Hyponatrémie", "NFS >> Normocytose"],
+"symptomes": ["Douleurs osseuses", "Fractures pathologiques", "Déformations osseuses", "épistaxis", "Gingivorragies", "Purpura", "Pathologie >> Insuffisance rénale", "Asthénie", "Amaigrissement", "Altération de l'état général", "NFS >> Anémie", "Electrophorèse des protéines sériques >> Pic monoclonal", "Calcémie >> Hypercalcémie", "NFS >> Thrombopénie", "VS >> Accélérée", "Créatininémie >> Valeur élevée", "Radiographies osseuses >> lyse à l'emporte-pièce", "Radiographies osseuses >> Déminéralisation diffuse", "Radiographie du rachis >> tassements vertébraux", "Radiographie du crâne >> lyse à l'emporte-pièce", "Myélogramme >> Infiltration plasmocytaire", "Biopsie ostéomédullaire >> Infiltration plasmocytaire", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "Natrémie >> Hyponatrémie", "NFS >> Normocytose"],
 "frequence": 35,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Myocardite",
-"symptomes": ["Fièvre", "Douleur thoracique", "Dyspnée", "Dyspnée d'effort", "Asthénie", "Fatigue", "Palpitations", "Tachycardie", "Pathologie >> Insuffisance cardiaque", "Turgescence jugulaire", "Hépatomégalie", "Oedème des membres inférieurs", "ECG >> Bloc de branche droit", "ECG >> Bloc de branche gauche", "ECG >> Bloc auriculo-ventriculaire", "ECG >> Tachycardie auriculaire", "ECG >> Tachycardie jonctionnelle", "Radiographie de thorax >> Cardiomégalie", "VS >> Accélérée", "CRP Positive"],
+"symptomes": ["Fièvre", "Douleur thoracique", "Dyspnée", "Dyspnée d'effort", "Asthénie", "Palpitations", "Tachycardie", "Pathologie >> Insuffisance cardiaque", "Turgescence jugulaire", "Hépatomégalie", "Oedème des membres inférieurs", "ECG >> Bloc de branche droit", "ECG >> Bloc de branche gauche", "ECG >> Bloc auriculo-ventriculaire", "ECG >> Tachycardie auriculaire", "ECG >> Tachycardie jonctionnelle", "Radiographie de thorax >> Cardiomégalie", "VS >> Accélérée", "CRP Positive"],
 "frequence": 47,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2136,7 +2136,7 @@
 },
 {
 "diagnostic": "Œdème aigu pulmonaire",
-"symptomes": ["Anxiété", "Asthénie", "Fatigue", "Dyspnée", "Orthopnée", "Tirage", "Toux", "Expectoration", "Tachycardie", "Tachypnée", "Cyanose", "Marbrures", "Râles crépitants", "Sueurs", "Gaz du sang >> Hypoxémie", "Gaz du sang >> Hypocapnie", "Gaz du sang >> Alcalose respiratoire", "Radiographie de thorax >> Lignes de Kerley", "Radiographie de thorax >> redistribution vasculaire vers les sommets", "EFR >> Syndrome restrictif"],
+"symptomes": ["Anxiété", "Asthénie", "Dyspnée", "Orthopnée", "Tirage", "Toux", "Expectoration", "Tachycardie", "Tachypnée", "Cyanose", "Marbrures", "Râles crépitants", "Sueurs", "Gaz du sang >> Hypoxémie", "Gaz du sang >> Hypocapnie", "Gaz du sang >> Alcalose respiratoire", "Radiographie de thorax >> Lignes de Kerley", "Radiographie de thorax >> redistribution vasculaire vers les sommets", "EFR >> Syndrome restrictif"],
 "frequence": 91,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -2185,7 +2185,7 @@
 },
 {
 "diagnostic": "Ostéomalacie",
-"symptomes": ["Douleurs pelviennes", "Douleurs pelvi-trochantériennes", "Douleur thoracique", "Douleurs du dos", "Cyphoscolioses dorso-lombaires", "Asthénie", "Fatigue", "Amaigrissement", "Amyotrophie", "Impotence fonctionnelle", "Syndrome de malabsorption", "Fractures pathologiques", "Calciurie >> Hypocalciurie", "Phosphorémie >> Hypophosphorémie", "25-OH vitamine D3 >> Valeur basse", "Radiographies osseuses >> Déminéralisation diffuse", "Radiographies osseuses >> Stries de Looser-Milkman", "Radiographies osseuses >> Aspect flou (sale) de l'os", "Biopsie ostéomédullaire >> Hyperostéoblastose", "Biopsie ostéomédullaire >> Hyperostéoïdose", "Biopsie ostéomédullaire >> Raréfaction des fronts de calcification"],
+"symptomes": ["Douleurs pelviennes", "Douleurs pelvi-trochantériennes", "Douleur thoracique", "Douleurs du dos", "Cyphoscolioses dorso-lombaires", "Asthénie", "Amaigrissement", "Amyotrophie", "Impotence fonctionnelle", "Syndrome de malabsorption", "Fractures pathologiques", "Calciurie >> Hypocalciurie", "Phosphorémie >> Hypophosphorémie", "25-OH vitamine D3 >> Valeur basse", "Radiographies osseuses >> Déminéralisation diffuse", "Radiographies osseuses >> Stries de Looser-Milkman", "Radiographies osseuses >> Aspect flou (sale) de l'os", "Biopsie ostéomédullaire >> Hyperostéoblastose", "Biopsie ostéomédullaire >> Hyperostéoïdose", "Biopsie ostéomédullaire >> Raréfaction des fronts de calcification"],
 "frequence": 56,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2269,7 +2269,7 @@
 },
 {
 "diagnostic": "Paludisme",
-"symptomes": ["Fièvre", "Pathologie >> Syndrome anémique", "Pâleur", "Pathologie >> Insuffisance rénale", "Asthénie", "Fatigue", "Confusion", "Hallucinations", "Agitation", "Vomissements", "Amaigrissement", "Urines foncées", "Ictère", "Subictère", "NFS >> Anémie", "NFS >> Leucopénie", "NFS >> Thrombopénie", "ASAT, ALAT >> Valeur élevée", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "Frottis sanguin >> Paludisme", "Créatininémie >> Valeur élevée", "Urée >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "Goutte épaisse >> Résultat positif > Paludisme", "NFS >> Macrocytose", "NFS >> Normocytose", "Réticulocytes >> Valeur élevée"],
+"symptomes": ["Fièvre", "Pathologie >> Syndrome anémique", "Pâleur", "Pathologie >> Insuffisance rénale", "Asthénie", "Confusion", "Hallucinations", "Agitation", "Vomissements", "Amaigrissement", "Urines foncées", "Ictère", "Subictère", "NFS >> Anémie", "NFS >> Leucopénie", "NFS >> Thrombopénie", "ASAT, ALAT >> Valeur élevée", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "Frottis sanguin >> Paludisme", "Créatininémie >> Valeur élevée", "Urée >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "Goutte épaisse >> Résultat positif > Paludisme", "NFS >> Macrocytose", "NFS >> Normocytose", "Réticulocytes >> Valeur élevée"],
 "frequence": 26,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2332,7 +2332,7 @@
 },
 {
 "diagnostic": "Péricardite",
-"symptomes": ["Douleur thoracique", "Fièvre", "Myalgies", "Anorexie", "Anxiété", "Tachypnée", "Tachycardie", "Frottement péricardique", "Dyspnée", "Turgescence jugulaire", "Cyanose", "Hypotension", "Pouls paradoxal", "Asthénie", "Fatigue", "Hépatomégalie", "NFS >> Hyperleucocytose", "VS >> Accélérée", "Radiographie de thorax >> épanchement pleural", "Radiographie de thorax >> silhouette cardiaque en carafe", "Echocardiographie >> Péricardite", "ECG >> Sus-décalage du segment ST"],
+"symptomes": ["Douleur thoracique", "Fièvre", "Myalgies", "Anorexie", "Anxiété", "Tachypnée", "Tachycardie", "Frottement péricardique", "Dyspnée", "Turgescence jugulaire", "Cyanose", "Hypotension", "Pouls paradoxal", "Asthénie", "Hépatomégalie", "NFS >> Hyperleucocytose", "VS >> Accélérée", "Radiographie de thorax >> épanchement pleural", "Radiographie de thorax >> silhouette cardiaque en carafe", "Echocardiographie >> Péricardite", "ECG >> Sus-décalage du segment ST"],
 "frequence": 66,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2346,14 +2346,14 @@
 },
 {
 "diagnostic": "Persistance du canal artériel",
-"symptomes": ["Retard de croissance", "Dyspnée", "Asthénie", "Fatigue", "Souffle systolique", "Souffle diastolique", "Souffle continu sous-clavier gauche", "Pouls bondisants", "élargissement de la différentielle", "Click d'éjection systolique", "Roulement", "Roulement de débit diastolique", "Cyanose", "Turgescence jugulaire", "Hépatomégalie", "Pathologie >> Insuffisance cardiaque", "ECG >> hypertrophie ventriculaire gauche", "ECG >> Hypertrophie auriculaire gauche", "Echocardiographie >> Persistance du canal artériel"],
+"symptomes": ["Retard de croissance", "Dyspnée", "Asthénie", "Souffle systolique", "Souffle diastolique", "Souffle continu sous-clavier gauche", "Pouls bondisants", "élargissement de la différentielle", "Click d'éjection systolique", "Roulement", "Roulement de débit diastolique", "Cyanose", "Turgescence jugulaire", "Hépatomégalie", "Pathologie >> Insuffisance cardiaque", "ECG >> hypertrophie ventriculaire gauche", "ECG >> Hypertrophie auriculaire gauche", "Echocardiographie >> Persistance du canal artériel"],
 "frequence": 27,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Peste",
-"symptomes": ["Fièvre", "Asthénie", "Fatigue", "Céphalées", "Bubon", "Pustules cutanées", "Vésicules cutanées", "Hypotension", "Hépatomégalie", "Splénomégalie", "Délire", "Crises convulsives", "Toux", "Douleur thoracique", "Hémoptysie", "Coagulation intravasculaire disséminée", "NFS >> Hyperleucocytose", "Examen direct du produit d'aspiration du bubon, du crachat, du sang >> Coccobacilles à Gram négatif", "Culture du produit d'aspiration du bubon, du crachat, du sang sur gélose de MacConkey >> Résultat positif"],
+"symptomes": ["Fièvre", "Asthénie", "Céphalées", "Bubon", "Pustules cutanées", "Vésicules cutanées", "Hypotension", "Hépatomégalie", "Splénomégalie", "Délire", "Crises convulsives", "Toux", "Douleur thoracique", "Hémoptysie", "Coagulation intravasculaire disséminée", "NFS >> Hyperleucocytose", "Examen direct du produit d'aspiration du bubon, du crachat, du sang >> Coccobacilles à Gram négatif", "Culture du produit d'aspiration du bubon, du crachat, du sang sur gélose de MacConkey >> Résultat positif"],
 "frequence": 8,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2423,21 +2423,21 @@
 },
 {
 "diagnostic": "Pneumopathie aiguë",
-"symptomes": ["Toux", "Fièvre", "Douleur thoracique", "Expectoration", "Râles crépitants", "Dyspnée", "Wheezing", "Diminution du murmure vésiculaire", "Asthénie", "Fatigue", "Céphalées", "Myalgies", "Délire", "Douleurs abdominales", "Distension abdominale", "Herpès labial", "Matité", "Sueurs", "Tachycardie", "Tachypnée", "Déshydratation", "Anxiété", "Agitation", "érythrose faciale", "Confusion", "Malaise", "Pathologie >> Pleurésie", "Altération de l'état général", "Raclement de gorge", "Pathologie >> Pharyngite", "Pathologie >> Rhinite", "Pathologie >> Sinusite", "érythème", "NFS >> Hyperleucocytose", "Protéinurie >> Résultat positif", "Gaz du sang >> Hypoxémie", "Gaz du sang >> Hypocapnie", "Gaz du sang >> Hypercapnie", "Examen direct et culture de lavage broncho-alvéolaire >> Résultat positif", "Examen direct et culture de liquide pleural >> Résultat positif", "Hémocultures >> Résultat positif", "Radiographie de thorax >> Opacités alvéolaires lobaire ou segmentaire systématisée", "Radiographie de thorax >> Opacités alvéolaires avec bronchogramme aérien", "Radiographie de thorax >> épanchement pleural", "Natrémie >> Hyponatrémie", "NFS >> Hémoconcentration", "EFR >> Syndrome restrictif", "Radiographie de thorax >> Infiltrat interstitiel diffus", "Prélèvements respiratoires cultivés sur cellules HL ou Hep 2 >> Chlamydia pneumoniae", "Sérologie Chlamydia pneumoniae >> Résultat positif", "VS >> Accélérée", "CRP Positive", "NFS >> Leuconeutropénie", "NFS >> Hyperlymphocytose", "Radiographie de thorax >> Opacités hilifuges bilatérales"],
+"symptomes": ["Toux", "Fièvre", "Douleur thoracique", "Expectoration", "Râles crépitants", "Dyspnée", "Wheezing", "Diminution du murmure vésiculaire", "Asthénie", "Céphalées", "Myalgies", "Délire", "Douleurs abdominales", "Distension abdominale", "Herpès labial", "Matité", "Sueurs", "Tachycardie", "Tachypnée", "Déshydratation", "Anxiété", "Agitation", "érythrose faciale", "Confusion", "Malaise", "Pathologie >> Pleurésie", "Altération de l'état général", "Raclement de gorge", "Pathologie >> Pharyngite", "Pathologie >> Rhinite", "Pathologie >> Sinusite", "érythème", "NFS >> Hyperleucocytose", "Protéinurie >> Résultat positif", "Gaz du sang >> Hypoxémie", "Gaz du sang >> Hypocapnie", "Gaz du sang >> Hypercapnie", "Examen direct et culture de lavage broncho-alvéolaire >> Résultat positif", "Examen direct et culture de liquide pleural >> Résultat positif", "Hémocultures >> Résultat positif", "Radiographie de thorax >> Opacités alvéolaires lobaire ou segmentaire systématisée", "Radiographie de thorax >> Opacités alvéolaires avec bronchogramme aérien", "Radiographie de thorax >> épanchement pleural", "Natrémie >> Hyponatrémie", "NFS >> Hémoconcentration", "EFR >> Syndrome restrictif", "Radiographie de thorax >> Infiltrat interstitiel diffus", "Prélèvements respiratoires cultivés sur cellules HL ou Hep 2 >> Chlamydia pneumoniae", "Sérologie Chlamydia pneumoniae >> Résultat positif", "VS >> Accélérée", "CRP Positive", "NFS >> Leuconeutropénie", "NFS >> Hyperlymphocytose", "Radiographie de thorax >> Opacités hilifuges bilatérales"],
 "frequence": 86,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Pneumopathie à pneumocystis carinii",
-"symptomes": ["Fièvre", "Toux", "Asthénie", "Fatigue", "Malaise", "Râles crépitants", "Douleur thoracique", "Dyspnée", "Expectoration", "Tachypnée", "Pathologie >> Pleurésie", "Raclement de gorge", "Radiographie de thorax >> Infiltrat interstitiel diffus", "Radiographie de thorax >> Infiltrat interstitiel périhilaire", "Radiographie de thorax >> épanchement pleural", "Lavage broncho-alvéolaire pour examen direct >> pneumocystis carinii", "Examen direct d'expectoration >> pneumocystis carinii", "EFR >> Syndrome restrictif"],
+"symptomes": ["Fièvre", "Toux", "Asthénie", "Malaise", "Râles crépitants", "Douleur thoracique", "Dyspnée", "Expectoration", "Tachypnée", "Pathologie >> Pleurésie", "Raclement de gorge", "Radiographie de thorax >> Infiltrat interstitiel diffus", "Radiographie de thorax >> Infiltrat interstitiel périhilaire", "Radiographie de thorax >> épanchement pleural", "Lavage broncho-alvéolaire pour examen direct >> pneumocystis carinii", "Examen direct d'expectoration >> pneumocystis carinii", "EFR >> Syndrome restrictif"],
 "frequence": 60,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Pneumopathie d'hypersensibilité",
-"symptomes": ["Fièvre", "Dyspnée", "Toux", "Malaise", "Myalgies", "Douleurs articulaires", "Hémoptysie", "Expectoration", "Râles crépitants", "Anorexie", "Amaigrissement", "Asthénie", "Fatigue", "Cyanose", "Dyspnée d'effort", "Pathologie >> Insuffisance cardiaque", "Altération de l'état général", "Raclement de gorge", "NFS >> Hyperleucocytose", "VS >> Accélérée", "Radiographie de thorax >> Infiltrat interstitiel diffus", "Radiographie de thorax >> Opacités nodulaires", "Radiographie de thorax >> Opacités linéaires", "Radiographie de thorax >> Opacités réticulonodulaires"],
+"symptomes": ["Fièvre", "Dyspnée", "Toux", "Malaise", "Myalgies", "Douleurs articulaires", "Hémoptysie", "Expectoration", "Râles crépitants", "Anorexie", "Amaigrissement", "Asthénie", "Cyanose", "Dyspnée d'effort", "Pathologie >> Insuffisance cardiaque", "Altération de l'état général", "Raclement de gorge", "NFS >> Hyperleucocytose", "VS >> Accélérée", "Radiographie de thorax >> Infiltrat interstitiel diffus", "Radiographie de thorax >> Opacités nodulaires", "Radiographie de thorax >> Opacités linéaires", "Radiographie de thorax >> Opacités réticulonodulaires"],
 "frequence": 36,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2458,14 +2458,14 @@
 },
 {
 "diagnostic": "Polyarthrite chronique infantile",
-"symptomes": ["Douleurs articulaires", "Arthrite", "Douleur de l'épaule", "Fièvre", "éruption", "Hépatomégalie", "Splénomégalie", "Adénopathie(s)", "Asthénie", "Fatigue", "Amaigrissement", "Pathologie >> Uvéite", "Nodules rhumatoïdes", "Pathologie >> Pleurésie", "VS >> Accélérée", "CRP Positive", "Facteurs antinucléaires >> Présents", "Facteur rhumatoïde >> Résultat positif", "Radiographie articulaire >> Déminéralisation", "Radiographie articulaire >> érosions, pincements de l'interligne"],
+"symptomes": ["Douleurs articulaires", "Arthrite", "Douleur de l'épaule", "Fièvre", "éruption", "Hépatomégalie", "Splénomégalie", "Adénopathie(s)", "Asthénie", "Amaigrissement", "Pathologie >> Uvéite", "Nodules rhumatoïdes", "Pathologie >> Pleurésie", "VS >> Accélérée", "CRP Positive", "Facteurs antinucléaires >> Présents", "Facteur rhumatoïde >> Résultat positif", "Radiographie articulaire >> Déminéralisation", "Radiographie articulaire >> érosions, pincements de l'interligne"],
 "frequence": 55,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15"]
 },
 {
 "diagnostic": "Polyarthrite rhumatoïde",
-"symptomes": ["Douleurs articulaires", "Douleur des doigts", "Douleur de membre", "Raideur", "Déformations articulaires", "Destruction articulaire", "Attenite symétrique de 2éme et 3éme MCP, IPP,MTP", "Hydarthrose", "Oedème", "Oedème des mains", "Syndrome du canal carpien ", "Adénopathie(s)", "Asthénie", "Fatigue", "Xérophtalmie", "Xérostomie", "Nodules rhumatoïdes", "NFS >> Anémie", "VS >> Accélérée", "CRP Positive", "Facteur rhumatoïde >> Résultat positif", "Facteurs antinucléaires >> Présents", "Ponction articulaire >> Liquide inflammatoire a PNN", "Radiographie articulaire >> Déminéralisation épiphysaire en bande", "Radiographie articulaire >> érosion de la styloïde cubitale", "Radiographie articulaire >> Géode de la tête du 5ème métatarsien", "Radiographie articulaire >> Carpite fusionnante", "Radiographie articulaire >> érosion trochitérienne de la tête humérale", "Radiographie articulaire >> Géodes du carpe", "Radiographie du rachis cervical >> luxation atloïdo-axoïdienne", "Radiographie de thorax >> épanchement pleural", "Electrophorèse des protéines sériques >> hyper-alpha2-globulinémie", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "NFS >> Microcytose"],
+"symptomes": ["Douleurs articulaires", "Douleur des doigts", "Douleur de membre", "Raideur", "Déformations articulaires", "Destruction articulaire", "Attenite symétrique de 2éme et 3éme MCP, IPP,MTP", "Hydarthrose", "Oedème", "Oedème des mains", "Syndrome du canal carpien ", "Adénopathie(s)", "Asthénie", "Xérophtalmie", "Xérostomie", "Nodules rhumatoïdes", "NFS >> Anémie", "VS >> Accélérée", "CRP Positive", "Facteur rhumatoïde >> Résultat positif", "Facteurs antinucléaires >> Présents", "Ponction articulaire >> Liquide inflammatoire a PNN", "Radiographie articulaire >> Déminéralisation épiphysaire en bande", "Radiographie articulaire >> érosion de la styloïde cubitale", "Radiographie articulaire >> Géode de la tête du 5ème métatarsien", "Radiographie articulaire >> Carpite fusionnante", "Radiographie articulaire >> érosion trochitérienne de la tête humérale", "Radiographie articulaire >> Géodes du carpe", "Radiographie du rachis cervical >> luxation atloïdo-axoïdienne", "Radiographie de thorax >> épanchement pleural", "Electrophorèse des protéines sériques >> hyper-alpha2-globulinémie", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "NFS >> Microcytose"],
 "frequence": 80,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -2500,7 +2500,7 @@
 },
 {
 "diagnostic": "Prolapsus valvulaire mitral",
-"symptomes": ["Hypotension orthostatique", "Douleur thoracique", "Troubles de l'humeur", "Vertige", "Lipothymies", "Asthénie", "Fatigue", "Souffle systolique", "Click protomésosystolique", "Souffle mésotélésystolique", "Echocardiographie >> Prolapsus valvulaire mitral", "Echocardiographie >> Ballonnisation mitrale"],
+"symptomes": ["Hypotension orthostatique", "Douleur thoracique", "Troubles de l'humeur", "Vertige", "Lipothymies", "Asthénie", "Souffle systolique", "Click protomésosystolique", "Souffle mésotélésystolique", "Echocardiographie >> Prolapsus valvulaire mitral", "Echocardiographie >> Ballonnisation mitrale"],
 "frequence": 20,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2521,7 +2521,7 @@
 },
 {
 "diagnostic": "Pseudopolyarthrite rhizomélique",
-"symptomes": ["Altération de l'état général", "Douleurs articulaires", "Douleur cervicale", "Douleurs des ceintures scapulaires et pelviennes", "Douleurs pelviennes", "Douleur de la hanche", "Douleur de membre", "Impotence fonctionnelle", "Arthrite", "Céphalées", "Claudication de mâchoire", "Fièvre", "Asthénie", "Fatigue", "Anorexie", "Amaigrissement", "VS >> Accélérée", "CRP Positive", "NFS >> Anémie", "NFS >> Hyperleucocytose", "NFS >> Microcytose"],
+"symptomes": ["Altération de l'état général", "Douleurs articulaires", "Douleur cervicale", "Douleurs des ceintures scapulaires et pelviennes", "Douleurs pelviennes", "Douleur de la hanche", "Douleur de membre", "Impotence fonctionnelle", "Arthrite", "Céphalées", "Claudication de mâchoire", "Fièvre", "Asthénie", "Anorexie", "Amaigrissement", "VS >> Accélérée", "CRP Positive", "NFS >> Anémie", "NFS >> Hyperleucocytose", "NFS >> Microcytose"],
 "frequence": 42,
 "sexe": ["Masculin","Féminin"],
 "age": [">45"]
@@ -2612,14 +2612,14 @@
 },
 {
 "diagnostic": "Rétrécissement aortique",
-"symptomes": ["Douleur thoracique", "Lipothymies", "Syncope", "Dyspnée d'effort", "Orthopnée", "Palpitations", "Asthénie", "Fatigue", "Souffle systolique", "Souffle mésosystolique", "Souffle télésystolique", "Diminution d'intensité du B2", "Abolition du B2", "Thrill systolique au niveau des carotides", "Click protosystolique", "ECG >> axe de QRS gauche", "ECG >> hypertrophie ventriculaire gauche", "ECG >> Bloc de branche gauche", "Radiographie de thorax >> Hypertrophie du VG", "Radiographie de thorax >> Dilatation post-sténotique de l'aorte ascendante", "Radiographie de thorax >> Calcifications de la valve aortique", "Echocardiographie >> Morphologie de la valve aortique (épaississement, calcification)", "Echocardiographie >> Diminution du mouvement valvulaire", "Echocardiographie >> Hypertrophie ventriculaire gauche", "ECG >> Bloc auriculo-ventriculaire"],
+"symptomes": ["Douleur thoracique", "Lipothymies", "Syncope", "Dyspnée d'effort", "Orthopnée", "Palpitations", "Asthénie", "Souffle systolique", "Souffle mésosystolique", "Souffle télésystolique", "Diminution d'intensité du B2", "Abolition du B2", "Thrill systolique au niveau des carotides", "Click protosystolique", "ECG >> axe de QRS gauche", "ECG >> hypertrophie ventriculaire gauche", "ECG >> Bloc de branche gauche", "Radiographie de thorax >> Hypertrophie du VG", "Radiographie de thorax >> Dilatation post-sténotique de l'aorte ascendante", "Radiographie de thorax >> Calcifications de la valve aortique", "Echocardiographie >> Morphologie de la valve aortique (épaississement, calcification)", "Echocardiographie >> Diminution du mouvement valvulaire", "Echocardiographie >> Hypertrophie ventriculaire gauche", "ECG >> Bloc auriculo-ventriculaire"],
 "frequence": 53,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Rétrécissement mitral",
-"symptomes": ["Dyspnée d'effort", "Palpitations", "Asthénie", "Fatigue", "Hémoptysie", "Roulement", "Roulement diastolique avec renforcement présystolique", "Claquement d'ouverture mitrale après B2", "éclat de B1", "Orthopnée", "Oedème des membres inférieurs", "éclat de B2", "Pathologie >> Rhumatisme articulaire aigu", "Pathologie >> Insuffisance mitrale", "Pathologie >> Insuffisance tricuspide", "ECG >> Hypertrophie auriculaire gauche", "ECG >> Fibrillation auriculaire", "ECG >> hypertrophie ventriculaire droite", "ECG >> axe de QRS vertical", "Echocardiographie >> Rétrécissement mitral", "Radiographie de thorax >> Hypertrophie auriculaire gauche avec image en double contour", "Radiographie de thorax >> redistribution vasculaire vers les sommets", "Radiographie de thorax >> grosses artères pulmonaires", "Radiographie de thorax >> Hypertrophie du VD", "Radiographie de thorax >> Lignes de Kerley", "Echocardiographie >> hypertension artérielle pulmonaire "],
+"symptomes": ["Dyspnée d'effort", "Palpitations", "Asthénie", "Hémoptysie", "Roulement", "Roulement diastolique avec renforcement présystolique", "Claquement d'ouverture mitrale après B2", "éclat de B1", "Orthopnée", "Oedème des membres inférieurs", "éclat de B2", "Pathologie >> Rhumatisme articulaire aigu", "Pathologie >> Insuffisance mitrale", "Pathologie >> Insuffisance tricuspide", "ECG >> Hypertrophie auriculaire gauche", "ECG >> Fibrillation auriculaire", "ECG >> hypertrophie ventriculaire droite", "ECG >> axe de QRS vertical", "Echocardiographie >> Rétrécissement mitral", "Radiographie de thorax >> Hypertrophie auriculaire gauche avec image en double contour", "Radiographie de thorax >> redistribution vasculaire vers les sommets", "Radiographie de thorax >> grosses artères pulmonaires", "Radiographie de thorax >> Hypertrophie du VD", "Radiographie de thorax >> Lignes de Kerley", "Echocardiographie >> hypertension artérielle pulmonaire "],
 "frequence": 32,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -2633,7 +2633,7 @@
 },
 {
 "diagnostic": "Rhinite allergique",
-"symptomes": ["Rhinorrhée", "éternument en salves", "Obstruction nasale", "Prurit nasale", "Raclement de gorge", "Larmoiement", "Rougeur oculaire", "Asthénie", "Fatigue", "Toux", "Dysphonie intermittente", "Hyposmie", "Anosmie", "Pathologie >> Conjonctivite", "Tests cutanés >> Résultat positif", "Dosage des IgE spécifiques (RAST) >> Résultat positif", "Dosage des IgE aspécifiques (RIST) >> Résultat positif"],
+"symptomes": ["Rhinorrhée", "éternument en salves", "Obstruction nasale", "Prurit nasale", "Raclement de gorge", "Larmoiement", "Rougeur oculaire", "Asthénie", "Toux", "Dysphonie intermittente", "Hyposmie", "Anosmie", "Pathologie >> Conjonctivite", "Tests cutanés >> Résultat positif", "Dosage des IgE spécifiques (RAST) >> Résultat positif", "Dosage des IgE aspécifiques (RIST) >> Résultat positif"],
 "frequence": 56,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -2647,7 +2647,7 @@
 },
 {
 "diagnostic": "Rhume",
-"symptomes": ["Myalgies", "Céphalées", "Asthénie", "Fatigue", "Fièvre", "Rhinorrhée", "éternument", "Obstruction nasale", "Anosmie", "Mal de gorge", "Pathologie >> Angine", "Dysphagie", "Odynophagie", "Toux"],
+"symptomes": ["Myalgies", "Céphalées", "Asthénie", "Fièvre", "Rhinorrhée", "éternument", "Obstruction nasale", "Anosmie", "Mal de gorge", "Pathologie >> Angine", "Dysphagie", "Odynophagie", "Toux"],
 "frequence": 99,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2738,7 +2738,7 @@
 },
 {
 "diagnostic": "Sclérose latérale amyotrophique",
-"symptomes": ["Amyotrophie", "Mains de singe", "Déficit moteur", "Paralysie", "Tétraplégie", "Asthénie", "Fatigue", "Fasciculations", "Dysarthrie", "Atteinte des nerfs crâniens", "Dysphagie", "Atteinte des muscles masticateurs", "Dysphonie", "Altération de l'état général", "Syndrome démentiel", "Crampes", "Dyspnée", "EMG >> Absence de bloc neuromusculaire"],
+"symptomes": ["Amyotrophie", "Mains de singe", "Déficit moteur", "Paralysie", "Tétraplégie", "Asthénie", "Fasciculations", "Dysarthrie", "Atteinte des nerfs crâniens", "Dysphagie", "Atteinte des muscles masticateurs", "Dysphonie", "Altération de l'état général", "Syndrome démentiel", "Crampes", "Dyspnée", "EMG >> Absence de bloc neuromusculaire"],
 "frequence": 22,
 "sexe": ["Masculin","Féminin"],
 "age": [">45"]
@@ -2808,7 +2808,7 @@
 },
 {
 "diagnostic": "Splénomégalie myéloïde",
-"symptomes": ["Pathologie >> Syndrome anémique", "Asthénie", "Fatigue", "Pâleur", "Sueurs nocturnes", "Splénomégalie", "Hépatomégalie", "Adénopathie(s)", "Douleurs lombaires", "Coliques néphrétiques", "NFS >> Anémie", "NFS >> Hyperleucocytose", "Myélogramme >> érythromyélémie", "Frottis sanguin >> Anisocytose", "Frottis sanguin >> Poïkilocytose", "Frottis sanguin >> Hématies en goutte", "Uricémie >> Hyperuricémie", "LDH >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "Haptoglobine >> Valeur basse", "Biopsie médullaire >> Présence de mégacaryocytes médullaires", "Biopsie médullaire >> Moelle hyperplasique", "Biopsie médullaire >> Moelle pauvre", "Biopsie médullaire >> Fibrose réticuliniqueet collagène", "Biopsie médullaire >> Ostéosclérose", "Biopsie médullaire >> Sinus dilatés", "NFS >> Normocytose"],
+"symptomes": ["Pathologie >> Syndrome anémique", "Asthénie", "Pâleur", "Sueurs nocturnes", "Splénomégalie", "Hépatomégalie", "Adénopathie(s)", "Douleurs lombaires", "Coliques néphrétiques", "NFS >> Anémie", "NFS >> Hyperleucocytose", "Myélogramme >> érythromyélémie", "Frottis sanguin >> Anisocytose", "Frottis sanguin >> Poïkilocytose", "Frottis sanguin >> Hématies en goutte", "Uricémie >> Hyperuricémie", "LDH >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "Haptoglobine >> Valeur basse", "Biopsie médullaire >> Présence de mégacaryocytes médullaires", "Biopsie médullaire >> Moelle hyperplasique", "Biopsie médullaire >> Moelle pauvre", "Biopsie médullaire >> Fibrose réticuliniqueet collagène", "Biopsie médullaire >> Ostéosclérose", "Biopsie médullaire >> Sinus dilatés", "NFS >> Normocytose"],
 "frequence": 47,
 "sexe": ["Masculin","Féminin"],
 "age": [">45"]
@@ -2920,7 +2920,7 @@
 },
 {
 "diagnostic": "Takayasu, maladie de",
-"symptomes": ["Asthénie", "Fatigue", "Fièvre", "Amaigrissement", "Sueurs nocturnes", "Douleurs articulaires", "Myalgies", "Arthrite", "Pathologie >> érythème noueux", "Ulcération", "Claudication", "Abolition des pouls", "Souffle vasculaire", "Asymétrie tensionnelle", "Syncope", "Cécité", "Hypertension artérielle  ", "Dyspnée", "Toux", "Hémoptysie", "Pathologie >> Insuffisance cardiaque", "Pathologie >> Insuffisance aortique", "VS >> Accélérée", "CRP Positive", "Angiographie >> sténose et ectasie de l'aorte et des artères élastiques", "Radiographie artérielles >> Dilatation aortique", "Radiographie artérielles >> Calcifications artérielles", "Radiographie de thorax >> encoches costales"],
+"symptomes": ["Asthénie", "Fièvre", "Amaigrissement", "Sueurs nocturnes", "Douleurs articulaires", "Myalgies", "Arthrite", "Pathologie >> érythème noueux", "Ulcération", "Claudication", "Abolition des pouls", "Souffle vasculaire", "Asymétrie tensionnelle", "Syncope", "Cécité", "Hypertension artérielle  ", "Dyspnée", "Toux", "Hémoptysie", "Pathologie >> Insuffisance cardiaque", "Pathologie >> Insuffisance aortique", "VS >> Accélérée", "CRP Positive", "Angiographie >> sténose et ectasie de l'aorte et des artères élastiques", "Radiographie artérielles >> Dilatation aortique", "Radiographie artérielles >> Calcifications artérielles", "Radiographie de thorax >> encoches costales"],
 "frequence": 24,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2983,7 +2983,7 @@
 },
 {
 "diagnostic": "Thyroïdite",
-"symptomes": ["Goitre", "Douleur cervicale", "Fièvre", "Altération de l'état général", "Asthénie", "Fatigue", "Constipation", "Prise de poids", "Amaigrissement", "Tachycardie", "Tremblements", "Anticorps anti-microsomes >> Valeur élevée", "Anticorps anti-thyroglobuline >> Valeur élevée", "TSH >> Valeur élevée", "TSH >> Valeur basse", "T4 >> Valeur élevée", "T4 >> Valeur basse", "VS >> Accélérée", "Scintigraphie thyroidienne >> Fixation hétérogène", "Scintigraphie thyroidienne >> Fixation blanche", "Biopsie fine a l'aiguille de la thyroide >> Infiltration lymphocytaire", "Biopsie fine a l'aiguille de la thyroide >> Fibrose et atrophie", "Biopsie fine a l'aiguille de la thyroide >> Présence de cellules géantes", "Biopsie fine a l'aiguille de la thyroide >> Infiltrats de cellules mononucléées", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Goitre", "Douleur cervicale", "Fièvre", "Altération de l'état général", "Asthénie", "Constipation", "Prise de poids", "Amaigrissement", "Tachycardie", "Tremblements", "Anticorps anti-microsomes >> Valeur élevée", "Anticorps anti-thyroglobuline >> Valeur élevée", "TSH >> Valeur élevée", "TSH >> Valeur basse", "T4 >> Valeur élevée", "T4 >> Valeur basse", "VS >> Accélérée", "Scintigraphie thyroidienne >> Fixation hétérogène", "Scintigraphie thyroidienne >> Fixation blanche", "Biopsie fine a l'aiguille de la thyroide >> Infiltration lymphocytaire", "Biopsie fine a l'aiguille de la thyroide >> Fibrose et atrophie", "Biopsie fine a l'aiguille de la thyroide >> Présence de cellules géantes", "Biopsie fine a l'aiguille de la thyroide >> Infiltrats de cellules mononucléées", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 21,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3095,7 +3095,7 @@
 },
 {
 "diagnostic": "Typhoïde",
-"symptomes": ["Fièvre", "Diarrhée -jus de melon-", "Somnolence", "Asthénie", "Fatigue", "Macules roses de la base du thorax", "Ulcération amygdalienne", "Céphalées", "Douleurs abdominales", "Constipation", "Météorisme", "Splénomégalie", "Hépatomégalie", "Injection conjonctivale", "éruption", "Toux", "Vomissements", "Anorexie", "Sérologie de Widal-Felix >> Résultat positif", "Coproculture >> Résultat positif > Salmonella", "Hémocultures >> Résultat positif > Salmonella"],
+"symptomes": ["Fièvre", "Diarrhée -jus de melon-", "Somnolence", "Asthénie", "Macules roses de la base du thorax", "Ulcération amygdalienne", "Céphalées", "Douleurs abdominales", "Constipation", "Météorisme", "Splénomégalie", "Hépatomégalie", "Injection conjonctivale", "éruption", "Toux", "Vomissements", "Anorexie", "Sérologie de Widal-Felix >> Résultat positif", "Coproculture >> Résultat positif > Salmonella", "Hémocultures >> Résultat positif > Salmonella"],
 "frequence": 38,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3158,7 +3158,7 @@
 },
 {
 "diagnostic": "Uvéite",
-"symptomes": ["Baisse d'acuité visuelle", "Douleur oculaire", "Rougeur oculaire", "Chémosis", "Photophobie", "Larmoiement", "Synéchies irido-cristaliniennes", "Phénomène de Tyndall", "Fond d'oeil >> Oedème rétinien", "Fond d'oeil >> Oedème maculaire", "Asthénie", "Fatigue", "Altération de l'état général"],
+"symptomes": ["Baisse d'acuité visuelle", "Douleur oculaire", "Rougeur oculaire", "Chémosis", "Photophobie", "Larmoiement", "Synéchies irido-cristaliniennes", "Phénomène de Tyndall", "Fond d'oeil >> Oedème rétinien", "Fond d'oeil >> Oedème maculaire", "Asthénie", "Altération de l'état général"],
 "frequence": 70,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3242,7 +3242,7 @@
 },
 {
 "diagnostic": "Waldenstr?m, maladie de",
-"symptomes": ["Adénopathie(s)", "Asthénie", "Fatigue", "Splénomégalie", "Céphalées", "Vertige", "NFS >> Anémie", "VS >> Accélérée", "Temps de saignement >> Valeur élevée", "Protéinurie de Bence-Jones >> Présence", "Electrophorèse des protéines sériques >> Pic monoclonal", "NFS >> Neutropénie", "Immunoélectrophorèse des protéines sériques >> IgM monoclonale k ou l", "NFS >> Thrombopénie", "NFS >> Lymphocytose", "NFS >> Normocytose"],
+"symptomes": ["Adénopathie(s)", "Asthénie", "Splénomégalie", "Céphalées", "Vertige", "NFS >> Anémie", "VS >> Accélérée", "Temps de saignement >> Valeur élevée", "Protéinurie de Bence-Jones >> Présence", "Electrophorèse des protéines sériques >> Pic monoclonal", "NFS >> Neutropénie", "Immunoélectrophorèse des protéines sériques >> IgM monoclonale k ou l", "NFS >> Thrombopénie", "NFS >> Lymphocytose", "NFS >> Normocytose"],
 "frequence": 40,
 "sexe": ["Masculin","Féminin"],
 "age": [">45"]
@@ -3256,7 +3256,7 @@
 },
 {
 "diagnostic": "Wilson, maladie de",
-"symptomes": ["Anneau vert péricornéen de Kaïser-Fleischer", "Ictère", "Asthénie", "Fatigue", "Circulation collatérale abdominale", "Tremblements", "Hypertonie", "Chorée", "Dysarthrie", "Hypersialorrhée", "Ataxie", "Crises convulsives", "Syndrome démentiel", "Hallucinations", "Pathologie >> Syndrome dépressif", "Douleurs articulaires", "Taux de céruloplasmine >> Valeur basse", "Cuprémie >> Valeur basse", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Anneau vert péricornéen de Kaïser-Fleischer", "Ictère", "Asthénie", "Circulation collatérale abdominale", "Tremblements", "Hypertonie", "Chorée", "Dysarthrie", "Hypersialorrhée", "Ataxie", "Crises convulsives", "Syndrome démentiel", "Hallucinations", "Pathologie >> Syndrome dépressif", "Douleurs articulaires", "Taux de céruloplasmine >> Valeur basse", "Cuprémie >> Valeur basse", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 16,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3277,7 +3277,7 @@
 },
 {
 "diagnostic": "Zona",
-"symptomes": ["Douleur", "Douleur thoracique", "éruption", "Adénopathie(s)", "Bouquet de vésicule à chaque extrémité du dermatome", "Vésicules cutanées", "Macules", "érythème", "Pustules cutanées", "Asthénie", "Fatigue", "Fièvre", "Céphalées", "Paralysie faciale", "Vertige", "Hypoacousie", "Otalgie"],
+"symptomes": ["Douleur", "Douleur thoracique", "éruption", "Adénopathie(s)", "Bouquet de vésicule à chaque extrémité du dermatome", "Vésicules cutanées", "Macules", "érythème", "Pustules cutanées", "Asthénie", "Fièvre", "Céphalées", "Paralysie faciale", "Vertige", "Hypoacousie", "Otalgie"],
 "frequence": 53,
 "sexe": ["Masculin","Féminin"],
 "age": ["15-45",">45"]
@@ -3298,7 +3298,7 @@
 },
 {
 "diagnostic": "Syndrome anémique",
-"symptomes": ["Pâleur", "Asthénie", "Fatigue", "Dyspnée", "Dyspnée d'effort", "Vertige", "Céphalées", "Tachycardie", "Souffle systolique"],
+"symptomes": ["Pâleur", "Asthénie", "Dyspnée", "Dyspnée d'effort", "Vertige", "Céphalées", "Tachycardie", "Souffle systolique"],
 "frequence": 71,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3312,7 +3312,7 @@
 },
 {
 "diagnostic": "Angine",
-"symptomes": ["Mal de gorge", "Fièvre", "Odynophagie", "Amygdalite", "Amygdale(s) hypertrophiée(s) rouge(s)", "Amygdale(s) hypertrophiée(s) blanche(s)", "Ulcération amygdalienne", "Toux", "Dysphonie", "Rhinorrhée", "Coryza", "Rougeur oculaire", "Douleur cervicale", "Nausées", "Vomissements", "Adénopathie(s)", "Douleurs abdominales", "Diarrhée", "éruption", "Macules", "Asthénie", "Fatigue", "Splénomégalie", "Pathologie >> Otite", "Pathologie >> Conjonctivite", "NFS >> Hyperleucocytose", "ASLO >> Valeur élevée", "Prélèvement de gorge >> Positif > Streptococcique", "CRP Positive"],
+"symptomes": ["Mal de gorge", "Fièvre", "Odynophagie", "Amygdalite", "Amygdale(s) hypertrophiée(s) rouge(s)", "Amygdale(s) hypertrophiée(s) blanche(s)", "Ulcération amygdalienne", "Toux", "Dysphonie", "Rhinorrhée", "Coryza", "Rougeur oculaire", "Douleur cervicale", "Nausées", "Vomissements", "Adénopathie(s)", "Douleurs abdominales", "Diarrhée", "éruption", "Macules", "Asthénie", "Splénomégalie", "Pathologie >> Otite", "Pathologie >> Conjonctivite", "NFS >> Hyperleucocytose", "ASLO >> Valeur élevée", "Prélèvement de gorge >> Positif > Streptococcique", "CRP Positive"],
 "frequence": 93,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3340,42 +3340,42 @@
 },
 {
 "diagnostic": "Virus de l'immunodéficience humaine, infection par le",
-"symptomes": ["éruption", "Fièvre", "Ulcération de la marge anale", "Aphtose buccale", "Chéilite", "Ulcération buccale", "Pathologie >> Stomatie", "Chute de cheveux", "Ulcérations génitales douloureuses", "Anorexie", "Vomissements", "Asthénie", "Fatigue", "Malaise", "Myalgies", "Céphalées", "Adénopathie(s)", "Hépatomégalie", "Amaigrissement", "Antigène P 24 >> Valeur élevée", "NFS >> Monocytose", "NFS >> Lymphocytose", "Western-Blot >> Résultat positif", "Test ELISA (VIH) >> Résultat positif"],
+"symptomes": ["éruption", "Fièvre", "Ulcération de la marge anale", "Aphtose buccale", "Chéilite", "Ulcération buccale", "Pathologie >> Stomatie", "Chute de cheveux", "Ulcérations génitales douloureuses", "Anorexie", "Vomissements", "Asthénie", "Malaise", "Myalgies", "Céphalées", "Adénopathie(s)", "Hépatomégalie", "Amaigrissement", "Antigène P 24 >> Valeur élevée", "NFS >> Monocytose", "NFS >> Lymphocytose", "Western-Blot >> Résultat positif", "Test ELISA (VIH) >> Résultat positif"],
 "frequence": 32,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Malnutrition",
-"symptomes": ["Amaigrissement", "Asthénie", "Fatigue", "Pathologie >> Syndrome dépressif", "Hypotension", "Chute de cheveux", "Ongles cassants", "Aphtose buccale", "Bradycardie", "Diarrhée", "Troubles du caractère", "Troubles de l'humeur", "Troubles du comportement", "Douleur de la muqueuse buccale", "Douleur de membre", "Oedème périorbitaire", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Phosphatases alcalines >> Valeur basse", "Calcémie >> Hypocalcémie", "Cholestérolémie >> Hypocholestérolémie", "Glycémie >> Hypoglycémie", "Hématocrite >> Valeur basse", "NFS >> Anémie", "Kaliémie >> Hypokaliémie", "Triglycéridémie >> Hypotriglycéridémie", "EFR >> Syndrome restrictif", "NFS >> Microcytose"],
+"symptomes": ["Amaigrissement", "Asthénie", "Pathologie >> Syndrome dépressif", "Hypotension", "Chute de cheveux", "Ongles cassants", "Aphtose buccale", "Bradycardie", "Diarrhée", "Troubles du caractère", "Troubles de l'humeur", "Troubles du comportement", "Douleur de la muqueuse buccale", "Douleur de membre", "Oedème périorbitaire", "Albumine >> Valeur basse", "Electrophorèse des protéines sériques >> hypoalbuminémie", "Phosphatases alcalines >> Valeur basse", "Calcémie >> Hypocalcémie", "Cholestérolémie >> Hypocholestérolémie", "Glycémie >> Hypoglycémie", "Hématocrite >> Valeur basse", "NFS >> Anémie", "Kaliémie >> Hypokaliémie", "Triglycéridémie >> Hypotriglycéridémie", "EFR >> Syndrome restrictif", "NFS >> Microcytose"],
 "frequence": 28,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hépatites virales A",
-"symptomes": ["Asthénie", "Fatigue", "Subictère", "Ictère", "Anorexie", "Nausées", "Vomissements", "Diarrhée", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Adénopathie(s)", "Hépatomégalie", "Splénomégalie", "Amaigrissement", "Douleurs abdominales", "Myalgies", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Taux de prothrombine >> Valeur basse", "IgM anti HVA >> Présence", "IgG anti HVA >> Présence", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "VS >> Accélérée", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Asthénie", "Subictère", "Ictère", "Anorexie", "Nausées", "Vomissements", "Diarrhée", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Adénopathie(s)", "Hépatomégalie", "Splénomégalie", "Amaigrissement", "Douleurs abdominales", "Myalgies", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Taux de prothrombine >> Valeur basse", "IgM anti HVA >> Présence", "IgG anti HVA >> Présence", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "VS >> Accélérée", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 77,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hépatites virales B",
-"symptomes": ["Subictère", "Ictère", "Asthénie", "Fatigue", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Diarrhée", "Adénopathie(s)", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Hépatomégalie", "Splénomégalie", "Douleurs articulaires", "Myalgies", "Douleurs abdominales", "Ecchymoses", "éruption", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Taux de prothrombine >> Valeur basse", "Bilirubine conjuguée >> Valeur élevée", "NFS >> Neutropénie", "Bilirubine non conjuguée >> Valeur élevée", "Antigène carcino-embryonnaire >> Valeur élevée", "Antigène HBs >> Présence", "NFS >> Neutropénie", "Anticorps anti-HBs >> Résultat positif", "Anticorps anti-HBC >> Présence", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Subictère", "Ictère", "Asthénie", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Diarrhée", "Adénopathie(s)", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Hépatomégalie", "Splénomégalie", "Douleurs articulaires", "Myalgies", "Douleurs abdominales", "Ecchymoses", "éruption", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Taux de prothrombine >> Valeur basse", "Bilirubine conjuguée >> Valeur élevée", "NFS >> Neutropénie", "Bilirubine non conjuguée >> Valeur élevée", "Antigène carcino-embryonnaire >> Valeur élevée", "Antigène HBs >> Présence", "NFS >> Neutropénie", "Anticorps anti-HBs >> Résultat positif", "Anticorps anti-HBC >> Présence", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 45,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hépatites virales C",
-"symptomes": ["Subictère", "Ictère", "Asthénie", "Fatigue", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Diarrhée", "Adénopathie(s)", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Hépatomégalie", "Splénomégalie", "Douleurs articulaires", "Myalgies", "Douleurs abdominales", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "Antigène carcino-embryonnaire >> Valeur élevée", "Anticorps anti-VHC >> Résultat positif", "VS >> Accélérée", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Subictère", "Ictère", "Asthénie", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Diarrhée", "Adénopathie(s)", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Hépatomégalie", "Splénomégalie", "Douleurs articulaires", "Myalgies", "Douleurs abdominales", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "Antigène carcino-embryonnaire >> Valeur élevée", "Anticorps anti-VHC >> Résultat positif", "VS >> Accélérée", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 38,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "diagnostic": "Hépatites virales E",
-"symptomes": ["Subictère", "Ictère", "Asthénie", "Fatigue", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Diarrhée", "Adénopathie(s)", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Hépatomégalie", "Splénomégalie", "Douleurs articulaires", "Myalgies", "Douleurs abdominales", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "VS >> Accélérée", "Gamma-GT >> Valeur élevée", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
+"symptomes": ["Subictère", "Ictère", "Asthénie", "Anorexie", "Amaigrissement", "Nausées", "Vomissements", "Diarrhée", "Adénopathie(s)", "Fièvre", "Céphalées", "Selles décolorées", "Urines foncées", "Hépatomégalie", "Splénomégalie", "Douleurs articulaires", "Myalgies", "Douleurs abdominales", "ASAT, ALAT >> Valeur élevée", "Phosphatases alcalines >> Valeur élevée", "Bilirubine conjuguée >> Valeur élevée", "Bilirubine non conjuguée >> Valeur élevée", "VS >> Accélérée", "Gamma-GT >> Valeur élevée", "Alpha-foetoprotéine >> Valeur élevée", "Electrophorèse des protéines sériques >> hypergammaglobulinémie"],
 "frequence": 28,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3508,7 +3508,7 @@
 },
 {
 "diagnostic": "Gastro-entérite",
-"symptomes": ["Fièvre", "Diarrhée", "Nausées", "Vomissements", "Anorexie", "Douleurs abdominales", "Amaigrissement", "Pli cutané abdominal", "Fontanelle déprimée", "Céphalées", "Asthénie", "Fatigue", "Hypotension", "Rectorragies", "Coproculture >> Résultat positif", "ECBU >> Résultat positif", "CRP Positive", "NFS >> Hyperleucocytose"],
+"symptomes": ["Fièvre", "Diarrhée", "Nausées", "Vomissements", "Anorexie", "Douleurs abdominales", "Amaigrissement", "Pli cutané abdominal", "Fontanelle déprimée", "Céphalées", "Asthénie", "Hypotension", "Rectorragies", "Coproculture >> Résultat positif", "ECBU >> Résultat positif", "CRP Positive", "NFS >> Hyperleucocytose"],
 "frequence": 80,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3522,7 +3522,7 @@
 },
 {
 "diagnostic": "Coronavirus, infections à",
-"symptomes": ["Notion de contact avec une personne COVID-19 positif ou suspecte", "Fièvre", "Toux", "Asthénie", "Fatigue", "Dyspnée", "Douleur thoracique", "Dysphonie", "Râles crépitants", "Anosmie", "éternument", "Anorexie", "Céphalées", "Douleur oculaire", "Diarrhée", "Mal de gorge", "Douleurs articulaires", "Myalgies", "Altération de l'état général", "Pathologie >> Pharyngite", "Pathologie >> Angine", "Pathologie >> Insuffisance rénale", "NFS >> Leucopénie", "NFS >> Lymphopénie", "Scanner thoracique >> Aspect du poumon en verre dépoli, phériphérique, bilatéral, aux bases, sous pleural", "CRP Positive", "Test Antigénique (Coronavirus) >> Résultat positif", "NFS >> Hyperleucocytose", "RT-PCR (Coronavirus) >> Résultat positif", "Sérologie (Coronavirus) >> Résultat positif", "Glycémie >> Hyperglycémie", "Créatininémie >> Valeur élevée", "D-dimères >> Valeur élevée", "TSH >> Valeur basse", "Troponines >> Valeur élevée"],
+"symptomes": ["Notion de contact avec une personne COVID-19 positif ou suspecte", "Fièvre", "Toux", "Asthénie", "Dyspnée", "Douleur thoracique", "Dysphonie", "Râles crépitants", "Anosmie", "éternument", "Anorexie", "Céphalées", "Douleur oculaire", "Diarrhée", "Mal de gorge", "Douleurs articulaires", "Myalgies", "Altération de l'état général", "Pathologie >> Pharyngite", "Pathologie >> Angine", "Pathologie >> Insuffisance rénale", "NFS >> Leucopénie", "NFS >> Lymphopénie", "Scanner thoracique >> Aspect du poumon en verre dépoli, phériphérique, bilatéral, aux bases, sous pleural", "CRP Positive", "Test Antigénique (Coronavirus) >> Résultat positif", "NFS >> Hyperleucocytose", "RT-PCR (Coronavirus) >> Résultat positif", "Sérologie (Coronavirus) >> Résultat positif", "Glycémie >> Hyperglycémie", "Créatininémie >> Valeur élevée", "D-dimères >> Valeur élevée", "TSH >> Valeur basse", "Troponines >> Valeur élevée"],
 "frequence": 20,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3683,7 +3683,7 @@
 },
 {
 "diagnostic": "Carence en vitamine C",
-"symptomes": ["Asthénie", "Fatigue", "Cheveux secs", "Peau sèche", "Pathologie >> Gingivite", "Ecchymoses", "Pétéchies", "éruption", "Syndrome hémorragique", "Acide ascorbique plasmatique >> Valeur basse", "NFS >> Anémie", "NFS >> Microcytose"],
+"symptomes": ["Asthénie", "Cheveux secs", "Peau sèche", "Pathologie >> Gingivite", "Ecchymoses", "Pétéchies", "éruption", "Syndrome hémorragique", "Acide ascorbique plasmatique >> Valeur basse", "NFS >> Anémie", "NFS >> Microcytose"],
 "frequence": 40,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3697,7 +3697,7 @@
 },
 {
 "diagnostic": "Carence en vitamine B12",
-"symptomes": ["Asthénie", "Fatigue", "Pâleur", "Dyspnée", "Abolition ou diminution de réflexe", "Paresthésie", "Déficit moteur", "Confusion", "Délire", "Vitamine B12 plasmatique >> Valeur basse", "NFS >> Anémie", "NFS >> Normocytose"],
+"symptomes": ["Asthénie", "Pâleur", "Dyspnée", "Abolition ou diminution de réflexe", "Paresthésie", "Déficit moteur", "Confusion", "Délire", "Vitamine B12 plasmatique >> Valeur basse", "NFS >> Anémie", "NFS >> Normocytose"],
 "frequence": 43,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3718,7 +3718,7 @@
 },
 {
 "diagnostic": "Anémie pernicieuse (maladie de Biermer)",
-"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Fatigue", "Dyspnée", "Glossite", "Diarrhée", "Paresthésie", "Syndrome de malabsorption", "Pathologie >> Dyspepsie", "Vitamine B12 plasmatique >> Valeur basse", "Test de Schilling >> Résultat positif", "NFS >> Anémie", "Calcitonine >> Valeur élevée", "NFS >> Macrocytose"],
+"symptomes": ["Pathologie >> Syndrome anémique", "Pâleur", "Asthénie", "Dyspnée", "Glossite", "Diarrhée", "Paresthésie", "Syndrome de malabsorption", "Pathologie >> Dyspepsie", "Vitamine B12 plasmatique >> Valeur basse", "Test de Schilling >> Résultat positif", "NFS >> Anémie", "Calcitonine >> Valeur élevée", "NFS >> Macrocytose"],
 "frequence": 46,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
