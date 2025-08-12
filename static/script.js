@@ -12,7 +12,7 @@ const motsIgnorer = new Set([
     "tous", "années", "année", "annee", "annes", "fois", "plusieurs", 
     "reprises", "atroce", "térrible", "terrible", "térribles", 
     "terribles", "soir", "sur", "un", "une", "avec", "dans",
-    "taux", "valeur", "degre", "degres", "°c", "°C "c"
+    "taux", "valeur", "degre", "degres", "°c", "°C"
 ]);
 
 // Fonction pour normaliser une chaîne de caractères (supprimer les accents)
@@ -159,7 +159,7 @@ function montrerSuggestions() {
 
   // 🔹 Nettoyer la saisie en supprimant tous les caractères interdits
   let saisie = sansAccents(input.value.trim().toLowerCase());
-  saisie = saisie.replace(/[0-9\/\*\_\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!]\°/g, ""); 
+  saisie = saisie.replace(/[0-9\/\*\_\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!]/g, ""); 
 
   const liste = document.getElementById("suggestions");
   liste.innerHTML = "";
