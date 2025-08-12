@@ -24,34 +24,40 @@ def index():
 # Endpoint pour le diagnostic
 @app.route("/diagnostic", methods=["POST"])
 def diagnostic():
-    # Récupère les données JSON de la requête
     donnees = request.get_json()
-    symptomes_utilisateur = set(donnees.get("symptomes", []))
-    sexe = donnees.get("sexe")
-    age = donnees.get("age")
 
-    # Si aucun symptôme n'est fourni, renvoie une liste vide
+    symptomes_utilisateur = donnees.get("symptomes", [])
+    sexe = donnees.get("sexe", None)
+    age = donnees.get("age", None)
+
     if not symptomes_utilisateur:
         return jsonify([])
 
     resultats = []
 
-    # Parcours les données de diagnostic
     for item in diagnostic_data:
-        nom_diagnostic = item.get("diagnostic")
-        symptomes_diagnostic = set(item.get("symptomes", []))
+        nom_diagnostic = item.get("diagnostic", "")
+        symptomes_diagnostic = item.get("symptomes", [])
         frequence = item.get("frequence", 0)
         sexes = item.get("sexe", ["Masculin", "Féminin"])
         ages = item.get("age", ["0-15", "15-45", ">45"])
 
-        # Vérifie si les symptômes de l'utilisateur sont un sous-ensemble du diagnostic
-        # et si le sexe et l'âge correspondent
-        if (
-            symptomes_utilisateur.issubset(symptomes_diagnostic)
-            and sexe in sexes
-            and (age == "Tous" or age in ages)
-        ):
-            resultats.append((nom_diagnostic, frequence))
+        # Recherche par contenance (substring) insensible à la casse
+        def contient_symptome(symp_util):
+            symp_util = symp_util.lower().strip()
+            for symp_diag in symptomes_diagnostic:
+                if symp_util in symp_diag.lower().strip():
+                    return True
+            return False
+
+        # Tous les symptômes utilisateur doivent matcher au moins un symptôme diagnostic
+        if all(contient_symptome(symp) for symp in symptomes_utilisateur):
+            # Vérification sexe et âge (si fournis)
+            sexe_ok = (sexe is None) or (sexe in sexes)
+            age_ok = (age is None) or (age == "Tous") or (age in ages)
+
+            if sexe_ok and age_ok:
+                resultats.append((nom_diagnostic, frequence))
 
     # Trie les résultats par fréquence décroissante
     resultats.sort(key=lambda x: x[1], reverse=True)
@@ -64,17 +70,3 @@ if __name__ == "__main__":
     # Le host '0.0.0.0' est nécessaire pour que l'application soit accessible
     # depuis l'extérieur du conteneur Render
     app.run(host='0.0.0.0', port=port, debug=False)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
