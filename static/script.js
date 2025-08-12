@@ -159,7 +159,7 @@ function montrerSuggestions() {
 
   // 🔹 Nettoyer la saisie en supprimant tous les caractères interdits
   let saisie = sansAccents(input.value.trim().toLowerCase());
-  saisie = saisie.replace(/[0-9\/\*\_\-\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!\{\[\']\}\(\)]/g, ""); 
+  saisie = saisie.replace(/[0-9\/\*\_\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!]/g, ""); 
 
   const liste = document.getElementById("suggestions");
   liste.innerHTML = "";
