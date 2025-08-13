@@ -3241,7 +3241,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"diagnostic": "Waldenstr?m, maladie de",
+"diagnostic": "Waldenström, maladie de",
 "symptomes": ["Adénopathie(s)", "Asthénie", "Splénomégalie", "Céphalées", "Vertige", "NFS >> Anémie", "VS >> Accélérée", "Temps de saignement >> Valeur élevée", "Protéinurie de Bence-Jones >> Présence", "Electrophorèse des protéines sériques >> Pic monoclonal", "NFS >> Neutropénie", "Immunoélectrophorèse des protéines sériques >> IgM monoclonale k ou l", "NFS >> Thrombopénie", "NFS >> Lymphocytose", "NFS >> Normocytose"],
 "frequence": 40,
 "sexe": ["Masculin","Féminin"],
