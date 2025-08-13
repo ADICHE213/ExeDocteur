@@ -1080,10 +1080,6 @@
 "entree": "Faux panaris d'Osler"
 },
 {
-"mots": ["fievre", "ondulante", "febrile", "nourrisson", "enfant", "bebe", "temperature", "sent", "chaude", "elevee", "frissons", "hyperthermie"],
-"entree": "Fièvre ondulante"
-},
-{
 "mots": ["fissuration", "mamelon", "fissure", "mamelons"],
 "entree": "Fissuration du mamelon"
 },
@@ -3312,7 +3308,7 @@
 "entree": "Chéilite"
 },
 {
-"mots": ["fievre", "febrile", "temperature", "sent", "chaude", "elevee", "frissons", "hyperthermie"],
+"mots": ["fievre", "febrile", "temperature", "ondulante", "bebe", "nourisson", "enfanr", "sent", "chaude", "elevee", "frissons", "hyperthermie"],
 "entree": "Fièvre"
 },
 {
