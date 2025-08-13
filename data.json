@@ -379,7 +379,7 @@
 },
 {
 "diagnostic": "Brucellose",
-"symptomes": ["Fièvre ondulante", "Sueurs nocturnes", "Myalgies", "Sacro-iliite", "Céphalées", "Splénomégalie", "Hépatomégalie", "Adénopathie(s)", "Arthrite", "Douleurs articulaires", "Douleurs lombaires", "Raideur rachidienne", "Douleurs osseuses", "Hypertrophie testiculaire", "Orchite", "épididymite", "Douleurs du dos", "Asthénie", "Douleur", "NFS >> Leuconeutropénie", "VS >> Accélérée", "Test de Wright >> Résultat positif", "Sérologie Brucella >> Résultat positif", "Hémocultures >> Résultat positif > Brucella"],
+"symptomes": ["Fièvre", "Sueurs nocturnes", "Myalgies", "Sacro-iliite", "Céphalées", "Splénomégalie", "Hépatomégalie", "Adénopathie(s)", "Arthrite", "Douleurs articulaires", "Douleurs lombaires", "Raideur rachidienne", "Douleurs osseuses", "Hypertrophie testiculaire", "Orchite", "épididymite", "Douleurs du dos", "Asthénie", "Douleur", "NFS >> Leuconeutropénie", "VS >> Accélérée", "Test de Wright >> Résultat positif", "Sérologie Brucella >> Résultat positif", "Hémocultures >> Résultat positif > Brucella"],
 "frequence": 30,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
