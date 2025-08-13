@@ -128,7 +128,7 @@
 "entree": "Anosmie"
 },
 {
-"mots": ["anurie", "absence", "ne", "pas", "urines", "uriner", "oligoanurie"],
+"mots": ["anurie", "absence", "ne", "pas", "urines" , "urinaires", "urinaire", "uriner", "oligoanurie"],
 "entree": "Anurie"
 },
 {
@@ -276,7 +276,7 @@
 "entree": "Brûlure oculaire"
 },
 {
-"mots": ["brulures", "mictionnelles", "pyuries", "chaude", "pisse", "pipi", "brule", "urines", "brulent", "brules", "urinant", "troubles", "mictionnels", "miction"],
+"mots": ["brulures", "mictionnelles", "pyuries", "chaude", "pisse", "pipi", "brule", "urines" , "urinaires", "urinaire", "brulent", "brules", "urinant", "troubles", "mictionnels", "miction"],
 "entree": "Brûlures mictionnelles"
 },
 {
@@ -404,7 +404,7 @@
 "entree": "Coliques néphrétiques"
 },
 {
-"mots": ["coloration", "porto", "urines"],
+"mots": ["coloration", "porto", "urines" , "urinaires", "urinaire"],
 "entree": "Coloration porto des urines"
 },
 {
@@ -832,7 +832,7 @@
 "entree": "Dyspnée d'effort"
 },
 {
-"mots": ["dysurie", "difficulte", "uriner", "miction", "difficilement", "emettre", "emission", "urines", "douleurs", "douloureuse", "troubles", "mictionnels"],
+"mots": ["dysurie", "difficulte", "uriner", "miction", "difficilement", "emettre", "emission", "urines" , "urinaires", "urinaire", "douleurs", "douloureuse", "troubles", "mictionnels"],
 "entree": "Dysurie"
 },
 {
@@ -900,7 +900,7 @@
 "entree": "émissions rectale glaireuses et / ou purulentes"
 },
 {
-"mots": ["emissions", "glairo-sanglantes", "ou", "purulentes", "glairosanglantes", "glairo", "sanglantes", "glaires", "sang", "selles"],
+"mots": ["emissions", "glairo-sanglantes", "ou", "purulentes", "glairosanglantes", "glairo", "sanglantes", "glaires", "sang", "sanguin", "sanguine", "serique", "selles"],
 "entree": "émissions glairo-sanglantes ou purulentes"
 },
 {
@@ -1212,11 +1212,11 @@
 "entree": "Hémarthrose"
 },
 {
-"mots": ["hematemese", "vomissements", "sang"],
+"mots": ["hematemese", "vomissements", "sang", "sanguin", "sanguine", "serique"],
 "entree": "Hématémèse"
 },
 {
-"mots": ["hematurie", "sang", "urines", "uriner", "rouges", "urine"],
+"mots": ["hematurie", "sang", "sanguin", "sanguine", "serique", "urines" , "urinaires", "urinaire", "uriner", "rouges", "urines" , "urinaires", "urinaire"],
 "entree": "Hématurie"
 },
 {
@@ -1228,7 +1228,7 @@
 "entree": "Hémiplégie"
 },
 {
-"mots": ["hemoptysie", "touser", "touse", "tousse", "sang", "toux", "hemorragies", "crachats", "cracher", "crache"],
+"mots": ["hemoptysie", "touser", "touse", "tousse", "sang", "sanguin", "sanguine", "serique", "toux", "hemorragies", "crachats", "cracher", "crache"],
 "entree": "Hémoptysie"
 },
 {
@@ -1384,7 +1384,7 @@
 "entree": "Incontinence fécale"
 },
 {
-"mots": ["incontinence", "urinaires", "fuites", "urines", "pertes", "troubles", "mictionnels"],
+"mots": ["incontinence", "urinaires", "fuites", "urines" , "urinaires", "urinaire", "pertes", "troubles", "mictionnels"],
 "entree": "Incontinence urinaire"
 },
 {
@@ -1600,7 +1600,7 @@
 "entree": "Mauvaise haleine"
 },
 {
-"mots": ["melena", "selles", "noir", "sang", "hemorragies", "digestives", "basses", "caca"],
+"mots": ["melena", "selles", "noir", "sang", "sanguin", "sanguine", "serique", "hemorragies", "digestives", "basses", "caca"],
 "entree": "Méléna"
 },
 {
@@ -1624,11 +1624,11 @@
 "entree": "Météorisme"
 },
 {
-"mots": ["metrorragies", "hemorragies", "genitale", "vaginales", "pertes", "sang", "ecoulement", "troubles", "regles", "menstruation", "irregulieres", "saignements"],
+"mots": ["metrorragies", "hemorragies", "genitale", "vaginales", "pertes", "sang", "sanguin", "sanguine", "serique", "ecoulement", "troubles", "regles", "menstruation", "irregulieres", "saignements"],
 "entree": "Métrorragies"
 },
 {
-"mots": ["metrorragies", "3eme", "trimestre", "hemorragies", "genitales", "vaginales", "pertes", "sang", "ecoulement", "3", "eme"],
+"mots": ["metrorragies", "3eme", "trimestre", "hemorragies", "genitales", "vaginales", "pertes", "sang", "sanguin", "sanguine", "serique", "ecoulement", "3", "eme"],
 "entree": "Métrorragies du 3ème trimestre"
 },
 {
@@ -1828,7 +1828,7 @@
 "entree": "Oligoménorrhée"
 },
 {
-"mots": ["oligurie", "diminution", "quantite", "urines", "faible", "oligoanurie", "oligo", "peu", "moins", "abondantes"],
+"mots": ["oligurie", "diminution", "quantite", "urines" , "urinaires", "urinaire", "faible", "oligoanurie", "oligo", "peu", "moins", "abondantes"],
 "entree": "Oligurie"
 },
 {
@@ -2012,7 +2012,7 @@
 "entree": "Plaque érythémato-squameuses"
 },
 {
-"mots": ["pollakiurie", "mictions", "frequentes", "excessive", "trop", "elevee", "nombre", "frequence", "troubles", "mictionnels", "urine", "beaucoup", "part", "toilette"],
+"mots": ["pollakiurie", "mictions", "frequentes", "excessive", "trop", "elevee", "nombre", "frequence", "troubles", "mictionnels", "urines" , "urinaires", "urinaire", "beaucoup", "part", "toilette"],
 "entree": "Pollakiurie"
 },
 {
@@ -2032,7 +2032,7 @@
 "entree": "Polypnée"
 },
 {
-"mots": ["polyurie", "uriner", "urines", "abondantes", "frequentes", "beaucoup", "urine"],
+"mots": ["polyurie", "uriner", "urines" , "urinaires", "urinaire", "abondantes", "frequentes", "beaucoup", "urines" , "urinaires", "urinaire"],
 "entree": "Polyurie"
 },
 {
@@ -2180,7 +2180,7 @@
 "entree": "Rash à point de départ cervico-facial"
 },
 {
-"mots": ["rectorragies", "sang", "selles", "hemorragies", "digestives", "basses", "diarrhee", "glairo", "sanglante", "caca"],
+"mots": ["rectorragies", "sang", "sanguin", "sanguine", "serique", "selles", "hemorragies", "digestives", "basses", "diarrhee", "glairo", "sanglante", "caca"],
 "entree": "Rectorragies"
 },
 {
@@ -2224,7 +2224,7 @@
 "entree": "Retard pubertaire"
 },
 {
-"mots": ["retention", "urinaire", "aigue", "aiguë", "urines", "uriner", "bloquees", "blocage", "pas", "globe", "vesical", "absence"],
+"mots": ["retention", "urinaire", "aigue", "aiguë", "urines" , "urinaires", "urinaire", "uriner", "bloquees", "blocage", "pas", "globe", "vesical", "absence"],
 "entree": "Rétention urinaire"
 },
 {
@@ -2616,7 +2616,7 @@
 "entree": "TR >> Masse"
 },
 {
-"mots": ["tr", "presence", "sang", "doigtier", "touche", "rectal"],
+"mots": ["tr", "presence", "sang", "sanguin", "sanguine", "serique", "doigtier", "touche", "rectal"],
 "entree": "TR >> Présence de sang sur le doigtier"
 },
 {
@@ -2996,7 +2996,7 @@
 "entree": "Ascension du testicule"
 },
 {
-"mots": ["aspect", "urines", "(", "troubles", "hemorragiques", ")"],
+"mots": ["aspect", "urines" , "urinaires", "urinaire", "(", "troubles", "hemorragiques", ")"],
 "entree": "Aspect des urines (troubles, hémorragiques)"
 },
 {
@@ -3032,7 +3032,7 @@
 "entree": "Croûtes suintantes"
 },
 {
-"mots": ["diminution", "force", "jet", "mictionnelle", "diminue", "miction", "faibles", "urines"],
+"mots": ["diminution", "force", "jet", "mictionnelle", "diminue", "miction", "faibles", "urines" , "urinaires", "urinaire"],
 "entree": "Diminution de la force du jet mictionnelle"
 },
 {
@@ -3080,7 +3080,7 @@
 "entree": "Hématomes"
 },
 {
-"mots": ["hematospermie", "sang", "sperme"],
+"mots": ["hematospermie", "sang", "sanguin", "sanguine", "serique", "sperme"],
 "entree": "Hématospermie"
 },
 {
@@ -3356,15 +3356,15 @@
 "entree": "Coagulation intravasculaire disséminée"
 },
 {
-"mots": ["25-OH", "25","OH","vitamine","vitamine d", "D3", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["25-OH", "25","OH","vitamine","vitamine d", "D3", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "25-OH vitamine D3 >> Valeur basse"
 },
 {
-"mots": ["Acide", "ascorbique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Acide", "ascorbique", "plasmatique", "sang", "sanguin", "sanguine", "serique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Acide ascorbique plasmatique >> Valeur basse"
 },
 {
-"mots": ["Acide", "delta-amino-lévulinique", "urinaire", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Acide", "delta-amino-lévulinique", "urines" , "urinaires", "urinaire", "urinaire", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Acide delta-amino-lévulinique urinaire >> Valeur élevée"
 },
 {
@@ -3372,7 +3372,7 @@
 "entree": "ACTH plasmatique >> Hyper-ACTH plasmatique"
 },
 {
-"mots": ["ACTH", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["ACTH", "plasmatique", "sang", "sanguin", "sanguine", "serique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "ACTH plasmatique >> Valeur basse"
 },
 {
@@ -3384,27 +3384,27 @@
 "entree": "Agglutination au latex de l'antigène cryptococcique (Serum, LCR, urines) >> Résultat positif"
 },
 {
-"mots": ["Albumine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Albumine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Albumine >> Valeur basse"
 },
 {
-"mots": ["Aldolase", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Aldolase", "Valeur", "élevée", "sang", "sanguin", "sanguine", "serique", "augmenté", "augmentation"],
 "entree": "Aldolase >> Valeur élevée"
 },
 {
-"mots": ["Aldostéronémie", "Hyperaldostéronémie"],
+"mots": ["Aldostéronémie", "Hyperaldostéronémie", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Aldostéronémie >> Hyperaldostéronémie"
 },
 {
-"mots": ["Aldostéronurie", "Hyperaldostéronurie"],
+"mots": ["Aldostéronurie", "Hyperaldostéronurie", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Aldostéronurie >> Hyperaldostéronurie"
 },
 {
-"mots": ["Alpha-foetoprotéine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Alpha-foetoprotéine", "sang", "sanguin", "sanguine", "plasmatique", "serique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Alpha-foetoprotéine >> Valeur élevée"
 },
 {
-"mots": ["Alpha-tocophérols", "sérique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Alpha-tocophérols", "alpha", "tocopherols", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Alpha-tocophérols sérique >> Valeur basse"
 },
 {
@@ -3420,7 +3420,7 @@
 "entree": "Amylasémie >> Hyperamylasémie"
 },
 {
-"mots": ["Androstènedione", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Androstènedione", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "urines" , "urinaires", "urinaire", "élevée", "augmenté", "augmentation"],
 "entree": "Androstènedione >> Valeur élevée"
 },
 {
@@ -3488,7 +3488,7 @@
 "entree": "Anticorps anti-microsomes >> Présence"
 },
 {
-"mots": ["Anticorps", "anti-microsomes", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Anticorps", "anti-microsomes", "sang", "sanguin", "sanguine", "plasmatique", "serique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Anticorps anti-microsomes >> Valeur élevée"
 },
 {
@@ -3520,7 +3520,7 @@
 "entree": "Anticorps anti-thyroglobuline >> Présence"
 },
 {
-"mots": ["Anticorps", "anti-thyroglobuline", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Anticorps", "anti-thyroglobuline", "anti", "thyroglobuline", "Ac", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Anticorps anti-thyroglobuline >> Valeur élevée"
 },
 {
@@ -3536,7 +3536,7 @@
 "entree": "Anticorps IgG anti-toxoplasmique dans le sérum >> Résultat positif"
 },
 {
-"mots": ["Antigène", "carcino-embryonnaire", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Antigène", "carcino-embryonnaire", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "élevée", "augmenté", "augmentation"],
 "entree": "Antigène carcino-embryonnaire >> Valeur élevée"
 },
 {
@@ -3564,19 +3564,19 @@
 "entree": "Antigène HLA B51 >> Présent"
 },
 {
-"mots": ["Antigène", "P", "24", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Antigène", "P", "24", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "élevée", "augmenté", "augmentation"],
 "entree": "Antigène P 24 >> Valeur élevée"
 },
 {
-"mots": ["Antigène", "prostatique", "spécifique", "(PSA)", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Antigène", "prostatique", "spécifique", "sang", "sanguin", "sanguine", "serique", "plasmatique", "PSA", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Antigène prostatique spécifique (PSA) >> Valeur élevée"
 },
 {
-"mots": ["Antigènes", "toxoplasmique", "sang", "présents"],
+"mots": ["Antigènes", "toxoplasmique", "sang", "sanguin", "sanguine", "serique", "présents"],
 "entree": "Antigènes toxoplasmique dans le sang >> présents"
 },
 {
-"mots": ["Antithrombine", "III", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Antithrombine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "III", "trois", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Antithrombine III >> Valeur basse"
 },
 {
@@ -3620,11 +3620,11 @@
 "entree": "Arthroscopie >> Synovite villonodulaire"
 },
 {
-"mots": ["ASAT", "ALAT", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["ASAT", "ALAT", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "ASAT, ALAT >> Valeur élevée"
 },
 {
-"mots": ["ASLO", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["ASLO", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "ASLO >> Valeur élevée"
 },
 {
@@ -3660,7 +3660,7 @@
 "entree": "ASP >> niveaux hydroaériques et distension du grêle"
 },
 {
-"mots": ["Astradiol", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Astradiol", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Astradiol >> Valeur basse"
 },
 {
@@ -3692,15 +3692,15 @@
 "entree": "Azotémie >> Hyperazotémie"
 },
 {
-"mots": ["Barbitémie", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Barbitémie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Barbitémie >> Valeur élevée"
 },
 {
-"mots": ["Bêta-HCG", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Bêta-HCG","beta", "HCG", "Gonadotrophine", "chorionique", "humaine", "Valeur", "sang", "sanguin", "plasmatique", "sanguine", "serique", "élevée", "augmenté", "augmentation"],
 "entree": "Bêta-HCG >> Valeur élevée"
 },
 {
-"mots": ["Bicarbonates", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Bicarbonates", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Bicarbonates >> Valeur basse"
 },
 {
@@ -3708,11 +3708,11 @@
 "entree": "Bili-IRM >> Lithiase de la voie biliaire principale"
 },
 {
-"mots": ["Bilirubine", "conjuguée", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Bilirubine", "conjuguée", "directe",  "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Bilirubine conjuguée >> Valeur élevée"
 },
 {
-"mots": ["Bilirubine", "non", "conjuguée", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Bilirubine", "non", "conjuguée", "indirecte", "libre", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Bilirubine non conjuguée >> Valeur élevée"
 },
 {
@@ -4184,39 +4184,39 @@
 "entree": "Biopsie vasculaire >> Périartérite noueuse"
 },
 {
-"mots": ["C3", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["C3", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "C3 >> Valeur basse"
 },
 {
-"mots": ["C4", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["C4", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "C4 >> Valeur basse"
 },
 {
-"mots": ["Ca-125", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Ca-125", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Ca-125 >> Valeur élevée"
 },
 {
-"mots": ["CA-19-9", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["CA-19-9", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "CA-19-9 >> Valeur élevée"
 },
 {
-"mots": ["Calcémie", "Hypercalcémie"],
+"mots": ["Calcémie", "Hypercalcémie", "ca", "sang", "sanguin", "sanguine", "serique", "Valeur", "élevée", "augmenté", "augmentation", "elevation"],
 "entree": "Calcémie >> Hypercalcémie"
 },
 {
-"mots": ["Calcémie", "Hypocalcémie"],
+"mots": ["Calcémie", "Hypocalcémie", "ca", "sang", "sanguin", "sanguine", "serique", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Calcémie >> Hypocalcémie"
 },
 {
-"mots": ["Calcitonine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Calcitonine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Calcitonine >> Valeur élevée"
 },
 {
-"mots": ["Calciurie", "Hypercalciurie"],
+"mots": ["Calciurie", "Hypercalciurie", "ca", "urines" , "urinaires", "urinaire", "urinaire", "Valeur", "élevée", "augmenté", "augmentation", "elevation"],
 "entree": "Calciurie >> Hypercalciurie"
 },
 {
-"mots": ["Calciurie", "Hypocalciurie"],
+"mots": ["Calciurie", "Hypocalciurie", "ca", "urines" , "urinaires", "urinaire", "urinaire", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Calciurie >> Hypocalciurie"
 },
 {
@@ -4280,7 +4280,7 @@
 "entree": "Chromosome Philadelphie >> Présent"
 },
 {
-"mots": ["Clairance", "créatinine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Clairance", "créatinine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Clairance de la créatinine >> Valeur basse"
 },
 {
@@ -4376,7 +4376,7 @@
 "entree": "Cortisolémie >> Hypocortisolémie"
 },
 {
-"mots": ["Cortisolémie", "8h", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Cortisolémie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "8h", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Cortisolémie a 8h >> Valeur basse"
 },
 {
@@ -4384,19 +4384,19 @@
 "entree": "Cortisolurie >> Hypercortisolurie"
 },
 {
-"mots": ["CPK", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["CPK", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "CPK >> Valeur élevée"
 },
 {
-"mots": ["Créatininémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Créatininémie", "creat","sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Créatininémie >> Valeur basse"
 },
 {
-"mots": ["Créatininémie", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Créatininémie", "creat", "sang", "sanguin", "sanguine", "plasmatique", "serique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Créatininémie >> Valeur élevée"
 },
 {
-"mots": ["CRP", "Valeur", "élevée", "augmenté", "augmentation", "Positive"],
+"mots": ["CRP", "sang", "sanguin", "sanguine", "serique", "Valeur", "élevée", "augmenté", "augmentation", "Positive"],
 "entree": "CRP Positive"
 },
 {
@@ -4436,7 +4436,7 @@
 "entree": "Culture du liquide pleural >> Résultat positif"
 },
 {
-"mots": ["Culture", "produit", "d'aspiration", "bubon", "crachat", "sang", "gélose", "MacConkey", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Culture", "produit", "d'aspiration", "bubon", "crachat", "sang", "sanguin", "sanguine", "serique", "gélose", "MacConkey", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Culture du produit d'aspiration du bubon, du crachat, du sang sur gélose de MacConkey >> Résultat positif"
 },
 {
@@ -4464,7 +4464,7 @@
 "entree": "Culture virale (Herpes simplex virus) >> Résultat positif"
 },
 {
-"mots": ["Cultures", "(LCR", "sang", "expectoration", "urine)", "Cryptococcus", "neoformans"],
+"mots": ["Cultures", "(LCR", "sang", "sanguin", "sanguine", "serique", "expectoration", "urine)", "Cryptococcus", "neoformans"],
 "entree": "Cultures (LCR, sang, expectoration, urine) >> Cryptococcus neoformans"
 },
 {
@@ -4484,11 +4484,11 @@
 "entree": "Cultures des prélèvements des selles >> Mycobactéries atypiques"
 },
 {
-"mots": ["Cultures", "sang", "Borrelia"],
+"mots": ["Cultures", "sang", "sanguin", "sanguine", "serique", "Borrelia"],
 "entree": "Cultures du sang >> Borrelia"
 },
 {
-"mots": ["Cuprémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Cuprémie" , "cuivre", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Cuprémie >> Valeur basse"
 },
 {
@@ -4528,11 +4528,11 @@
 "entree": "Cytologie des écoulements >> Résultat positif"
 },
 {
-"mots": ["Cytologie", "urines", "Présence", "cellules", "tumorales"],
+"mots": ["Cytologie", "urines" , "urinaires", "urinaire", "Présence", "cellules", "tumorales"],
 "entree": "Cytologie des urines >> Présence de cellules tumorales"
 },
 {
-"mots": ["D-dimères", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["D-dimères", "ddimeres", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "D-dimères >> Valeur élevée"
 },
 {
@@ -4556,11 +4556,11 @@
 "entree": "Dosage ADH >> Résultat négatif"
 },
 {
-"mots": ["Dosage", "PTH", "1-84", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Dosage", "PTH", "1-84", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Dosage de la PTH 1-84 >> Valeur basse"
 },
 {
-"mots": ["Dosage", "PTH", "1-84", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Dosage", "sang", "sanguin", "sanguine", "serique", "plasmatique", "PTH", "1-84", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Dosage de la PTH 1-84 >> Valeur élevée"
 },
 {
@@ -4584,15 +4584,15 @@
 "entree": "Dosage des IgE spécifiques et totales >> Résultat positif"
 },
 {
-"mots": ["Dosage", "IgE", "spécifiques", "totales", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Dosage", "IgE", "sang", "sanguin", "sanguine", "serique", "plasmatique", "spécifiques", "totales", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Dosage des IgE spécifiques et totales >> Valeur basse"
 },
 {
-"mots": ["Dosage", "plasmatique", "carbamates", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Dosage", "sang", "sanguin", "sanguine", "serique", "plasmatique", "carbamates", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Dosage plasmatique de carbamates >> Valeur élevée"
 },
 {
-"mots": ["Dosage", "plasmatique", "l'acide", "folique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Dosage", "sang", "sanguin", "sanguine", "serique", "plasmatique", "l'acide", "acide", "folique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Dosage plasmatique de l'acide folique >> Valeur basse"
 },
 {
@@ -5252,11 +5252,11 @@
 "entree": "Examen direct d'expectoration >> pneumocystis carinii"
 },
 {
-"mots": ["Examen", "direct", "produit", "d'aspiration", "bubon", "crachat", "sang", "Coccobacilles", "Gram", "négatif"],
+"mots": ["Examen", "direct", "produit", "d'aspiration", "bubon", "crachat", "sang", "sanguin", "sanguine", "serique", "Coccobacilles", "Gram", "négatif"],
 "entree": "Examen direct du produit d'aspiration du bubon, du crachat, du sang >> Coccobacilles à Gram négatif"
 },
 {
-"mots": ["Examen", "direct", "sang", "microscope", "Toxoplasma", "gondii"],
+"mots": ["Examen", "direct", "sang", "sanguin", "sanguine", "serique", "microscope", "Toxoplasma", "gondii"],
 "entree": "Examen direct du sang au microscope >> Toxoplasma gondii"
 },
 {
@@ -5356,7 +5356,7 @@
 "entree": "Examens parasitologiques des selles >> S. haematobium"
 },
 {
-"mots": ["Examens", "parasitologiques", "urines", "S.", "haematobium"],
+"mots": ["Examens", "parasitologiques", "urines" , "urinaires", "urinaire", "S.", "haematobium"],
 "entree": "Examens parasitologiques des urines >> S. haematobium"
 },
 {
@@ -5364,15 +5364,15 @@
 "entree": "Facteur rhumatoïde >> Résultat positif"
 },
 {
-"mots": ["Facteur", "V", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Facteur", "V", "cinq", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteur V >> Valeur basse"
 },
 {
-"mots": ["Facteur", "V", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Facteur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "V", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Facteur V >> Valeur élevée"
 },
 {
-"mots": ["Facteur", "Willebrand", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Facteur", "Willebrand", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteur Willebrand >> Valeur basse"
 },
 {
@@ -5380,11 +5380,11 @@
 "entree": "Facteurs antinucléaires >> Présents"
 },
 {
-"mots": ["Facteurs", "IX", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Facteurs", "IX", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteurs IX >> Valeur basse"
 },
 {
-"mots": ["Facteurs", "VIII", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Facteurs", "VIII", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteurs VIII >> Valeur basse"
 },
 {
@@ -5392,27 +5392,27 @@
 "entree": "FAT-Abs >> Résultat positif"
 },
 {
-"mots": ["Fer", "sérique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Fer", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Fer sérique >> Valeur basse"
 },
 {
-"mots": ["Fer", "sérique", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Fer", "sang", "sanguin", "sanguine", "serique", "sérique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Fer sérique >> Valeur élevée"
 },
 {
-"mots": ["Ferritine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Ferritine", "Ferritininemie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Ferritine >> Valeur basse"
 },
 {
-"mots": ["Ferritine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Ferritine", "Ferritininemie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Ferritine >> Valeur élevée"
 },
 {
-"mots": ["Fibrinogéne", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Fibrinogéne", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Fibrinogéne >> Valeur basse"
 },
 {
-"mots": ["Fibrinogéne", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Fibrinogéne", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Fibrinogéne >> Valeur élevée"
 },
 {
@@ -5496,15 +5496,15 @@
 "entree": "Frottis sanguin >> Thrombocytose"
 },
 {
-"mots": ["FSH", "LH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["FSH", "LH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "FSH, LH >> Valeur basse"
 },
 {
-"mots": ["FSH", "LH", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["FSH", "LH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "FSH, LH >> Valeur élevée"
 },
 {
-"mots": ["Gamma-GT", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Gamma-GT", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Gamma-GT >> Valeur élevée"
 },
 {
@@ -5516,43 +5516,43 @@
 "entree": "Gastroscopie >> Estomac, cancer de l'"
 },
 {
-"mots": ["Gaz", "sang", "acidose", "métabolique"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "acidose", "métabolique"],
 "entree": "Gaz du sang >> acidose métabolique"
 },
 {
-"mots": ["Gaz", "sang", "Acidose", "respiratoire"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Acidose", "respiratoire"],
 "entree": "Gaz du sang >> Acidose respiratoire"
 },
 {
-"mots": ["Gaz", "sang", "Alcalose", "métabolique"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Alcalose", "métabolique"],
 "entree": "Gaz du sang >> Alcalose métabolique"
 },
 {
-"mots": ["Gaz", "sang", "Alcalose", "respiratoire"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Alcalose", "respiratoire"],
 "entree": "Gaz du sang >> Alcalose respiratoire"
 },
 {
-"mots": ["Gaz", "sang", "Hypercapnie"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Hypercapnie"],
 "entree": "Gaz du sang >> Hypercapnie"
 },
 {
-"mots": ["Gaz", "sang", "Hypocapnie"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Hypocapnie"],
 "entree": "Gaz du sang >> Hypocapnie"
 },
 {
-"mots": ["Gaz", "sang", "Hypoxémie"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Hypoxémie"],
 "entree": "Gaz du sang >> Hypoxémie"
 },
 {
-"mots": ["Gaz", "sang", "Hypoxie"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "Hypoxie"],
 "entree": "Gaz du sang >> Hypoxie"
 },
 {
-"mots": ["Gaz", "sang", "PH", "diminué"],
+"mots": ["Gaz", "sang", "sanguin", "sanguine", "serique", "PH", "diminué"],
 "entree": "Gaz du sang >> PH diminué"
 },
 {
-"mots": ["GH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["GH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "GH >> Valeur basse"
 },
 {
@@ -5566,10 +5566,6 @@
 {
 "mots": ["Glycosurie", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Glycosurie >> Résultat positif"
-},
-{
-"mots": ["Gonadotrophine", "chorionique", "Valeur", "élevée", "augmenté", "augmentation"],
-"entree": "Gonadotrophine chorionique >> Valeur élevée"
 },
 {
 "mots": ["Gonioscopie", "Glaucome", "angle", "fermé"],
@@ -5588,7 +5584,7 @@
 "entree": "Goutte épaisse >> Trypanosomes "
 },
 {
-"mots": ["Haptoglobine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Haptoglobine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Haptoglobine >> Valeur basse"
 },
 {
@@ -5600,7 +5596,7 @@
 "entree": "Hématocrite >> Valeur basse"
 },
 {
-"mots": ["Hématocrite", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Hématocrite", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Hématocrite >> Valeur élevée"
 },
 {
@@ -5668,7 +5664,7 @@
 "entree": "Hémocultures sur milieu de Sabouraud >> Résultat positif"
 },
 {
-"mots": ["Hémoglobine", "glyquée", "(HbA1c)", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Hémoglobine", "glyquée", "(HbA1c)", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Hémoglobine glyquée (HbA1c)  >> Valeur élevée"
 },
 {
@@ -5676,7 +5672,7 @@
 "entree": "HGPO >> Résultat positif"
 },
 {
-"mots": ["Hormone", "antidiurétique", "(Taux", "sérique)", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Hormone", "antidiurétique", "ADH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "sérique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Hormone antidiurétique (Taux sérique) >> Valeur élevée"
 },
 {
@@ -5696,7 +5692,7 @@
 "entree": "IDR a la tuberculine >> Résultat positif"
 },
 {
-"mots": ["IgE", "sériques", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["IgE", "sériques", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "IgE sériques >> Valeur élevée"
 },
 {
@@ -5748,7 +5744,7 @@
 "entree": "Impédencemétrie >> épanchement dans l'oreille moyenne"
 },
 {
-"mots": ["INR", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["INR", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "INR >> Valeur élevée"
 },
 {
@@ -5972,7 +5968,7 @@
 "entree": "LCR Cytologie >> Trypanosomes "
 },
 {
-"mots": ["LDH", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["LDH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "LDH >> Valeur élevée"
 },
 {
@@ -6028,7 +6024,7 @@
 "entree": "Mesure du temps de transit colique >> Allongé"
 },
 {
-"mots": ["Méthoxyamines", "urinaires", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Méthoxyamines", "urinaires", "urines" , "urinaires", "urinaire", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Méthoxyamines urinaires >> Valeur élevée"
 },
 {
@@ -6100,7 +6096,7 @@
 "entree": "Natrémie >> Hyponatrémie"
 },
 {
-"mots": ["Natriuèse", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Natriuèse", "sodium", "Na", "urianire", "urines" , "urinaires", "urinaire", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Natriuèse >> Valeur élevée"
 },
 {
@@ -6204,12 +6200,8 @@
 "entree": "NSE >> Valeur élevée"
 },
 {
-"mots": ["Oestrone", "oestradiol", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Oestrone", "oestradiol", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Oestrone et oestradiol >> Valeur élevée"
-},
-{
-"mots": ["OH-progestérone", "Valeur", "élevée", "augmenté", "augmentation"],
-"entree": "OH-progestérone >> Valeur élevée"
 },
 {
 "mots": ["Opacifications", "digestives", "(transit", "grêle", "lavement", "baryté)", "Ulcérations", "ou", "fistules", "ou", "rétrécissements", "ou", "sténoses"],
@@ -6220,7 +6212,7 @@
 "entree": "Osmolalité sanguine >> Hypo-osmolalité sanguine"
 },
 {
-"mots": ["Osmolalité", "sanguine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Osmolalité", "sang", "sanguin", "sanguine", "serique", "sanguine", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Osmolalité sanguine >> Valeur élevée"
 },
 {
@@ -6232,7 +6224,7 @@
 "entree": "p-ANCA >> Résultat positif"
 },
 {
-"mots": ["PDF", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["PDF", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "PDF >> Valeur élevée"
 },
 {
@@ -6248,19 +6240,19 @@
 "entree": "Phosphatase alcaline placentaire >> Valeur élevée"
 },
 {
-"mots": ["Phosphatases", "acides", "prostatiques", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Phosphatases", "acides", "prostatiques", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Phosphatases acides prostatiques >> Valeur élevée"
 },
 {
-"mots": ["Phosphatases", "alcalines", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Phosphatases", "alcalines", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Phosphatases alcalines >> Valeur basse"
 },
 {
-"mots": ["Phosphatases", "alcalines", "Valeur", "elve", "augmente", "augentation", "elevation"],
+"mots": ["Phosphatases", "alcalines", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "elve", "augmente", "augentation", "elevation"],
 "entree": "Phosphatases alcalines >> Valeur élevée"
 },
 {
-"mots": ["Phosphatémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Phosphatémie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Phosphatémie >> Valeur basse"
 },
 {
@@ -6272,7 +6264,7 @@
 "entree": "Phosphorémie >> Hypophosphorémie"
 },
 {
-"mots": ["Plombémie", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Plombémie", "blomb", "pb", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Plombémie >> Valeur élevée"
 },
 {
@@ -6484,15 +6476,15 @@
 "entree": "Pression veineuse centrale >> supérieure à 20 cm d'eau"
 },
 {
-"mots": ["Progesterone", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Progesterone", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Progesterone >> Valeur élevée"
 },
 {
-"mots": ["Prolactine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Prolactine", "prolactininemie", "sang", "sanguin", "sanguine", "serique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Prolactine >> Valeur basse"
 },
 {
-"mots": ["Prolactine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Prolactine", "prolactininemie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Prolactine >> Valeur élevée"
 },
 {
@@ -7088,7 +7080,7 @@
 "entree": "Recherche de la toxine dans l'aliment >> Botulisme"
 },
 {
-"mots": ["Recherche", "toxine", "liquide", "gastrique", "ou", "sang", "Botulisme"],
+"mots": ["Recherche", "toxine", "liquide", "gastrique", "ou", "sang", "sanguin", "sanguine", "serique", "Botulisme"],
 "entree": "Recherche de la toxine dans le liquide gastrique ou le sang >> Botulisme"
 },
 {
@@ -7096,7 +7088,7 @@
 "entree": "Recherche des toxines de Clostridium difficile (ELISA) >> Résultat positif"
 },
 {
-"mots": ["Recherche", "d'hématies", "foetales", "sang", "maternel", "métrorragies", "Positive"],
+"mots": ["Recherche", "d'hématies", "foetales", "sang", "sanguin", "sanguine", "serique", "maternel", "métrorragies", "Positive"],
 "entree": "Recherche d'hématies foetales dans le sang maternel et dans les métrorragies >> Positive"
 },
 {
@@ -7108,19 +7100,19 @@
 "entree": "Rectosigmoïdoscopie avec biopsies >> Colorectal, cancer"
 },
 {
-"mots": ["Rénine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Rénine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Rénine >> Valeur élevée"
 },
 {
-"mots": ["Réticulocytes", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Réticulocytes", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Réticulocytes >> Valeur basse"
 },
 {
-"mots": ["Réticulocytes", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Réticulocytes", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Réticulocytes >> Valeur élevée"
 },
 {
-"mots": ["Rétinol", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Rétinol", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Rétinol >> Valeur basse"
 },
 {
@@ -7488,7 +7480,7 @@
 "entree": "Sérologie Rubéole (IgM) >> Résultat positif"
 },
 {
-"mots": ["Sérotoninémie", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Sérotoninémie", "sérotonine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Sérotoninémie >> Valeur élevée"
 },
 {
@@ -7496,23 +7488,23 @@
 "entree": "Stimulation nerveuse répétitive >> réponse décrémentielle à 3 Hz"
 },
 {
-"mots": ["T4", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["T4", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "T4 >> Valeur basse"
 },
 {
-"mots": ["T4", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["T4", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "T4 >> Valeur élevée"
 },
 {
-"mots": ["Taux", "céruloplasmine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Taux", "céruloplasmine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Taux de céruloplasmine >> Valeur basse"
 },
 {
-"mots": ["Taux", "digitalique", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Taux", "digitalique", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Taux de digitalique >> Valeur élevée"
 },
 {
-"mots": ["Taux", "prothrombine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Taux", "prothrombine", "TP", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Taux de prothrombine >> Valeur basse"
 },
 {
@@ -7524,7 +7516,7 @@
 "entree": "Temps de prothrombine >> Allongement"
 },
 {
-"mots": ["Temps", "saignement", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Temps", "saignement", "TS", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Temps de saignement >> Valeur élevée"
 },
 {
@@ -7596,11 +7588,11 @@
 "entree": "Test thérapeutique aux antialdostérones >> Résultat positif"
 },
 {
-"mots": ["Testostérone", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Testostérone", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Testostérone >> Valeur basse"
 },
 {
-"mots": ["Testostérone", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Testostérone", "testosteronemie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Testostérone >> Valeur élevée"
 },
 {
@@ -7628,11 +7620,11 @@
 "entree": "TPHA >> Résultat positif"
 },
 {
-"mots": ["Transaminases", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Transaminases", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Transaminases >> Valeur élevée"
 },
 {
-"mots": ["Transferrine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Transferrine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Transferrine >> Valeur élevée"
 },
 {
@@ -7660,15 +7652,15 @@
 "entree": "Triglycéridémie >> Hypotriglycéridémie"
 },
 {
-"mots": ["Troponines", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Troponines", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Troponines >> Valeur élevée"
 },
 {
-"mots": ["TSH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["TSH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "TSH >> Valeur basse"
 },
 {
-"mots": ["TSH", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["TSH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "TSH >> Valeur élevée"
 },
 {
@@ -7680,11 +7672,11 @@
 "entree": "Uraturie >> Hyperuraturie"
 },
 {
-"mots": ["Urée", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Urée", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Urée >> Valeur basse"
 },
 {
-"mots": ["Urée", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Urée", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Urée >> Valeur élevée"
 },
 {
@@ -7744,19 +7736,19 @@
 "entree": "VDRL >> Résultat positif"
 },
 {
-"mots": ["Viscosité", "sanguine", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Viscosité", "sang", "sanguin", "sanguine", "serique", "sanguine", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Viscosité sanguine >> Valeur élevée"
 },
 {
-"mots": ["Vitamine", "B12", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Vitamine", "B12", "plasmatique", "sang", "sanguin", "sanguine", "serique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Vitamine B12 plasmatique >> Valeur basse"
 },
 {
-"mots": ["Vitamine", "B12", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Vitamine", "B12", "plasmatique", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Vitamine B12 plasmatique >> Valeur élevée"
 },
 {
-"mots": ["Vitamine", "K1", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Vitamine", "K1", "K", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Vitamine K1 plasmatique >> Valeur basse"
 },
 {
@@ -7764,7 +7756,7 @@
 "entree": "Vitesse de conduction nerveuse >> Valeur basse"
 },
 {
-"mots": ["Volume", "globulaire", "total", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Volume", "globulaire", "total", "sang", "sanguin", "sanguine", "serique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Volume globulaire total >> Valeur élevée"
 },
 {
@@ -7772,7 +7764,7 @@
 "entree": "VS >> Accélérée"
 },
 {
-"mots": ["VS", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["VS", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "VS >> Valeur basse"
 },
 {
@@ -7780,7 +7772,7 @@
 "entree": "Western-Blot >> Résultat positif"
 },
 {
-"mots": ["Zincémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
+"mots": ["Zincémie", "Zinc", "Zn", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Zincémie >> Valeur basse"
 }
 ]
