@@ -1,30 +1,30 @@
 [
 {
-"mots": ["abolition", "reflexes", "abolis", "areflexie", "diminution", "diminues"],
+"mots": ["abolition", "reflexes", "abolis", "areflexie", "diminution", "diminues", "absence", "tendineux"],
 "entree": "Abolition ou diminution de réflexe"
 },
 {
-"mots": ["abolition", "pouls", "abolis", "diminutions", "diminues", "pedieu", "poplite", "radial"],
+"mots": ["abolition", "pouls", "abolis", "absence", "diminutions", "diminues", "pedieu", "poplite", "radial", "femoral", "arteriel", "arterielle"],
 "entree": "Abolition des pouls"
 },
 {
-"mots": ["abolition", "pouls", "femoraux", "abolis", "diminutions", "diminues", "femoral"],
+"mots": ["abolition", "pouls", "femoraux", "absence", "abolis", "diminutions", "diminues", "femoral", "arteriel", "arterielle"],
 "entree": "Abolition des pouls fémoraux"
 },
 {
-"mots": ["abolition", "pouls", "temporaux", "abolis", "diminutions", "diminues", "temporal"],
+"mots": ["abolition", "pouls", "temporaux", "absence", "abolis", "diminutions", "diminues", "temporal", "arteriel"], "arterielle",
 "entree": "Abolition des pouls temporaux"
 },
 {
-"mots": ["abolition", "vibrations", "vocales", "abolis", "diminutions", "diminues"],
+"mots": ["abolition", "vibrations", "vocales","absence", "abolis", "diminutions", "diminues"],
 "entree": "Abolition des vibrations vocales"
 },
 {
-"mots": ["abolition", "b2", "deuxieme", "buit", "coeur", "cardiaque", "aboli"],
+"mots": ["abolition", "b2", "deuxieme", "buit", "coeur", "cardiaque", "aboli","absence"],
 "entree": "Abolition du B2"
 },
 {
-"mots": ["abolition", "murmure", "vesiculaire", "aboli"],
+"mots": ["abolition", "murmure", "vesiculaire", "aboli","absence", "diminution", "diminue"],
 "entree": "Abolition du murmure vésiculaire"
 },
 {
@@ -40,11 +40,11 @@
 "entree": "Adénite"
 },
 {
-"mots": ["adenopathie(s)", "gonglions", "cervicales", "inguinales", "sus-claviculaires", "sous-claviculaires", "pre-auriculaires", "sous-mandibulaires", "axillaires", "polyadenopathies", "diffuses", "localisees", "superficielles", "adp"],
+"mots": ["adenopathie(s)", "gonglions", "cervicales", "inguinales", "sus-claviculaires", "cervicales", "inguinales", "inguinal", "sus", "claviculaires", "sous-claviculaires", "sous", "claviculaires", "pre-auriculaires", "pre", "auriculaires", "sous-mandibulaires", "sous", "mandibulaires", "axillaires", "polyadenopathies", "diffuses", "localisees", "superficielles", "adp"],
 "entree": "Adénopathie(s)"
 },
 {
-"mots": ["agitation", "agitee"],
+"mots": ["agitation", "agitee", "crise", "crises"],
 "entree": "Agitation"
 },
 {
@@ -60,7 +60,7 @@
 "entree": "Akinésie"
 },
 {
-"mots": ["alopecie", "cheveux", "pertes", "tombent"],
+"mots": ["alopecie", "cheveux", "pertes", "tombent", "chute"],
 "entree": "Alopécie"
 },
 {
@@ -256,7 +256,7 @@
 "entree": "Bouquet de vésicule à chaque extrémité du dermatome"
 },
 {
-"mots": ["bradycardie", "ralentissement", "ralentie", "frequence", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte", "bas", "cardiaque", "battement", "cœur"],
+"mots": ["bradycardie", "ralentissement", "ralentie", "frequence", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute", "bas", "cardiaque", "battement", "cœur"],
 "entree": "Bradycardie"
 },
 {
@@ -452,7 +452,7 @@
 "entree": "Crampes"
 },
 {
-"mots": ["crane", "en", "tour"],
+"mots": ["crane", "tour"],
 "entree": "Crâne en tour"
 },
 {
@@ -620,7 +620,7 @@
 "entree": "Distension thoracique"
 },
 {
-"mots": ["doigts", "ou", "orteils", "en", "saucisse", "deformations", "deformes"],
+"mots": ["doigts", "ou", "orteils", "saucisse", "deformations", "deformes"],
 "entree": "Doigts ou orteils en saucisse"
 },
 {
@@ -660,7 +660,7 @@
 "entree": "Douleur du gros orteil"
 },
 {
-"mots": ["douleur", "en", "regard", "tumefaction", "cartilage", "costal", "mal"],
+"mots": ["douleur", "regard", "tumefaction", "cartilage", "costal", "mal"],
 "entree": "Douleur en regard de la tuméfaction du cartilage costal"
 },
 {
@@ -952,7 +952,7 @@
 "entree": "éruption"
 },
 {
-"mots": ["eruption", "malaire", "en", "aile", "papillon", "(", "vespertilio", ")", "ou", "en", "loup", "(", "lupus", ")"],
+"mots": ["eruption", "malaire", "aile", "papillon", "(", "vespertilio", ")", "ou", "loup", "(", "lupus", ")"],
 "entree": "éruption malaire en aile de papillon (vespertilio), ou en loup (lupus)"
 },
 {
@@ -1040,7 +1040,7 @@
 "entree": "éternument"
 },
 {
-"mots": ["eternument", "en", "salves", "repete", "plusieur"],
+"mots": ["eternument", "salves", "repete", "plusieur"],
 "entree": "éternument en salves"
 },
 {
@@ -1204,7 +1204,7 @@
 "entree": "Hallucinations"
 },
 {
-"mots": ["hanche", "flechie", "en", "abduction", "rotation", "externe"],
+"mots": ["hanche", "flechie", "abduction", "rotation", "externe"],
 "entree": "Hanche fléchie en abduction et rotation externe"
 },
 {
@@ -1476,7 +1476,7 @@
 "entree": "Lésion cutanée avec bordure perlée et ulcération centrale"
 },
 {
-"mots": ["lesion", "en", "cocarde"],
+"mots": ["lesion", "cocarde"],
 "entree": "Lésion en cocarde"
 },
 {
@@ -1608,7 +1608,7 @@
 "entree": "Méloncolie"
 },
 {
-"mots": ["membre", "inferieur", "en", "abduction-rotation", "externe", "abduction", "rotation"],
+"mots": ["membre", "inferieur", "abduction-rotation", "externe", "abduction", "rotation"],
 "entree": "Membre inférieur en abduction-rotation externe"
 },
 {
@@ -2060,7 +2060,7 @@
 "entree": "Prise de digitaliques"
 },
 {
-"mots": ["prise", "poids", "augmente", "augmentation"],
+"mots": ["prise", "poids", "augmente", "augmentation", "eleve"],
 "entree": "Prise de poids"
 },
 {
@@ -2068,43 +2068,43 @@
 "entree": "Prolapsus hémorroïdaire"
 },
 {
-"mots": ["prurit", "demangeaisons", "peau", "gratte"],
+"mots": ["prurit", "demangeaisons", "peau", "gratte", "grattage"],
 "entree": "Prurit"
 },
 {
-"mots": ["prurit", "eau", "demangeaisons", "gratte"],
+"mots": ["prurit", "eau", "demangeaisons", "gratte", "grattage"],
 "entree": "Prurit à l'eau"
 },
 {
-"mots": ["prurit", "anal", "demangeaisons", "anus", "gratte", "anales"],
+"mots": ["prurit", "anal", "demangeaisons", "grattage", "anus", "gratte", "anales"],
 "entree": "Prurit anal"
 },
 {
-"mots": ["prurit", "conduit", "auditif", "externe", "demangeaisons", "oreils", "grattes"],
+"mots": ["prurit", "grattage", "conduit", "auditif", "externe", "demangeaisons", "oreils", "grattes", "gratte"],
 "entree": "Prurit du conduit auditif externe"
 },
 {
-"mots": ["prurit", "mamelons", "demangeaisons", "grattes", "seins"],
+"mots": ["prurit", "mamelons", "demangeaisons", "grattes", "grattage", "seins"],
 "entree": "Prurit du mamelon"
 },
 {
-"mots": ["prurit", "congestion", "meat", "urinaire", "demangeaisons", "genital", "sexe", "gratte"],
+"mots": ["prurit", "congestion", "meat", "urinaire", "demangeaisons", "genital", "sexe", "gratte", "grattage"],
 "entree": "Prurit et congestion du méat urinaire"
 },
 {
-"mots": ["prurit", "nasale", "demangeaisons", "nez", "gratte"],
+"mots": ["prurit", "nasale", "demangeaisons", "nez", "gratte", "grattage"],
 "entree": "Prurit nasale"
 },
 {
-"mots": ["prurit", "oculaire", "demangeaisons", "oeil", "yeux", "paupieres", "grattes"],
+"mots": ["prurit", "oculaire", "demangeaisons", "oeil", "yeux", "paupieres", "grattes", "grattage"],
 "entree": "Prurit oculaire"
 },
 {
-"mots": ["prurit", "vaginal", "demangeaisons", "genitales", "sexe", "gratte"],
+"mots": ["prurit", "vaginal", "vagin", "demangeaisons", "genitales", "sexe", "gratte", "grattage"],
 "entree": "Prurit vaginal"
 },
 {
-"mots": ["prurit", "vulvaire", "demangeaisons", "genitales", "sexe", "gratte", "vulve"],
+"mots": ["prurit", "vulvaire", "demangeaisons", "genitales", "sexe", "gratte", "vulve", "grattage"],
 "entree": "Prurit vulvaire"
 },
 {
@@ -2232,7 +2232,7 @@
 "entree": "Rétraction de la peau et du mamelon"
 },
 {
-"mots": ["reveil", "douleur", "mise", "en", "tension", "contrariee", "tendon", "incrimine"],
+"mots": ["reveil", "douleur", "mise", "tension", "contrariee", "tendon", "incrimine"],
 "entree": "Réveil de la douleur à la mise en tension contrariée du tendon incriminé"
 },
 {
@@ -2288,7 +2288,7 @@
 "entree": "Saignement du mamelon"
 },
 {
-"mots": ["saignements", "en", "nappe", "hemorragies", "cutanees"],
+"mots": ["saignements", "nappe", "hemorragies", "cutanees"],
 "entree": "Saignements en nappe"
 },
 {
@@ -2564,7 +2564,7 @@
 "entree": "Tétraplégie"
 },
 {
-"mots": ["thorax", "en", "carene"],
+"mots": ["thorax", "carene"],
 "entree": "Thorax en carène"
 },
 {
@@ -2940,7 +2940,7 @@
 "entree": "Pneumothorax"
 },
 {
-"mots": ["thorax", "etroit", "en", "carene", "ou", "en", "pectus", "excavatum"],
+"mots": ["thorax", "etroit", "carene", "ou", "pectus", "excavatum"],
 "entree": "Thorax étroit en carène ou en pectus excavatum"
 },
 {
@@ -3356,11 +3356,11 @@
 "entree": "Coagulation intravasculaire disséminée"
 },
 {
-"mots": ["25-OH", "25","OH","vitamine","vitamine d", "D3", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["25-OH", "25","OH","vitamine","vitamine d", "D3", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "25-OH vitamine D3 >> Valeur basse"
 },
 {
-"mots": ["Acide", "ascorbique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Acide", "ascorbique", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Acide ascorbique plasmatique >> Valeur basse"
 },
 {
@@ -3372,11 +3372,11 @@
 "entree": "ACTH plasmatique >> Hyper-ACTH plasmatique"
 },
 {
-"mots": ["ACTH", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["ACTH", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "ACTH plasmatique >> Valeur basse"
 },
 {
-"mots": ["Activité", "ALA", "déshydrogénase", "globulaire", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Activité", "ALA", "déshydrogénase", "globulaire", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Activité ALA déshydrogénase globulaire >> Valeur basse"
 },
 {
@@ -3384,7 +3384,7 @@
 "entree": "Agglutination au latex de l'antigène cryptococcique (Serum, LCR, urines) >> Résultat positif"
 },
 {
-"mots": ["Albumine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Albumine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Albumine >> Valeur basse"
 },
 {
@@ -3404,7 +3404,7 @@
 "entree": "Alpha-foetoprotéine >> Valeur élevée"
 },
 {
-"mots": ["Alpha-tocophérols", "sérique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Alpha-tocophérols", "sérique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Alpha-tocophérols sérique >> Valeur basse"
 },
 {
@@ -3412,7 +3412,7 @@
 "entree": "Amino-acidurie >> Hyperamino-acidurie"
 },
 {
-"mots": ["Amplitude", "potentiels", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Amplitude", "potentiels", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Amplitude des potentiels >> Valeur basse"
 },
 {
@@ -3576,7 +3576,7 @@
 "entree": "Antigènes toxoplasmique dans le sang >> présents"
 },
 {
-"mots": ["Antithrombine", "III", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Antithrombine", "III", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Antithrombine III >> Valeur basse"
 },
 {
@@ -3660,7 +3660,7 @@
 "entree": "ASP >> niveaux hydroaériques et distension du grêle"
 },
 {
-"mots": ["Astradiol", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Astradiol", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Astradiol >> Valeur basse"
 },
 {
@@ -3700,7 +3700,7 @@
 "entree": "Bêta-HCG >> Valeur élevée"
 },
 {
-"mots": ["Bicarbonates", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Bicarbonates", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Bicarbonates >> Valeur basse"
 },
 {
@@ -3768,7 +3768,7 @@
 "entree": "Biopsie cutanée >> Comédons"
 },
 {
-"mots": ["Biopsie", "cutanée", "Epiderme", "acanthosique", "hyperplasique", "invaginé", "en", "lobules", "piriformes"],
+"mots": ["Biopsie", "cutanée", "Epiderme", "acanthosique", "hyperplasique", "invaginé", "lobules", "piriformes"],
 "entree": "Biopsie cutanée >> Epiderme acanthosique hyperplasique, invaginé en lobules piriformes"
 },
 {
@@ -4184,11 +4184,11 @@
 "entree": "Biopsie vasculaire >> Périartérite noueuse"
 },
 {
-"mots": ["C3", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["C3", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "C3 >> Valeur basse"
 },
 {
-"mots": ["C4", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["C4", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "C4 >> Valeur basse"
 },
 {
@@ -4280,11 +4280,11 @@
 "entree": "Chromosome Philadelphie >> Présent"
 },
 {
-"mots": ["Clairance", "créatinine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Clairance", "créatinine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Clairance de la créatinine >> Valeur basse"
 },
 {
-"mots": ["Cliché", "en", "incidence", "Blondeau", "(nez-menton-plaque)", "Niveau", "liquide", "ou", "opacité", "sinus", "maxillaire", "ou", "sinus", "frontal"],
+"mots": ["Cliché", "incidence", "Blondeau", "(nez-menton-plaque)", "Niveau", "liquide", "ou", "opacité", "sinus", "maxillaire", "ou", "sinus", "frontal"],
 "entree": "Cliché en incidence Blondeau (nez-menton-plaque) >> Niveau liquide ou opacité du sinus maxillaire ou du sinus frontal"
 },
 {
@@ -4376,7 +4376,7 @@
 "entree": "Cortisolémie >> Hypocortisolémie"
 },
 {
-"mots": ["Cortisolémie", "8h", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Cortisolémie", "8h", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Cortisolémie a 8h >> Valeur basse"
 },
 {
@@ -4388,7 +4388,7 @@
 "entree": "CPK >> Valeur élevée"
 },
 {
-"mots": ["Créatininémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Créatininémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Créatininémie >> Valeur basse"
 },
 {
@@ -4476,7 +4476,7 @@
 "entree": "Cultures des prélèvements bronchiques >> Mycobactéries atypiques"
 },
 {
-"mots": ["Cultures", "prélèvements", "d'adénopathies", "Mycobactéries", "atypiques"],
+"mots": ["Cultures", "prélèvements", "d'adénopathies", "adp", "Mycobactéries", "atypiques"],
 "entree": "Cultures des prélèvements d'adénopathies >> Mycobactéries atypiques"
 },
 {
@@ -4488,7 +4488,7 @@
 "entree": "Cultures du sang >> Borrelia"
 },
 {
-"mots": ["Cuprémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Cuprémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Cuprémie >> Valeur basse"
 },
 {
@@ -4536,7 +4536,7 @@
 "entree": "D-dimères >> Valeur élevée"
 },
 {
-"mots": ["Débit", "filtration", "glomérulaire", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Débit", "filtration", "glomérulaire", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Débit de filtration glomérulaire >> Valeur basse"
 },
 {
@@ -4556,7 +4556,7 @@
 "entree": "Dosage ADH >> Résultat négatif"
 },
 {
-"mots": ["Dosage", "PTH", "1-84", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Dosage", "PTH", "1-84", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Dosage de la PTH 1-84 >> Valeur basse"
 },
 {
@@ -4584,7 +4584,7 @@
 "entree": "Dosage des IgE spécifiques et totales >> Résultat positif"
 },
 {
-"mots": ["Dosage", "IgE", "spécifiques", "totales", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Dosage", "IgE", "spécifiques", "totales", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Dosage des IgE spécifiques et totales >> Valeur basse"
 },
 {
@@ -4592,7 +4592,7 @@
 "entree": "Dosage plasmatique de carbamates >> Valeur élevée"
 },
 {
-"mots": ["Dosage", "plasmatique", "l'acide", "folique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Dosage", "plasmatique", "l'acide", "folique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Dosage plasmatique de l'acide folique >> Valeur basse"
 },
 {
@@ -5364,7 +5364,7 @@
 "entree": "Facteur rhumatoïde >> Résultat positif"
 },
 {
-"mots": ["Facteur", "V", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Facteur", "V", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteur V >> Valeur basse"
 },
 {
@@ -5372,7 +5372,7 @@
 "entree": "Facteur V >> Valeur élevée"
 },
 {
-"mots": ["Facteur", "Willebrand", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Facteur", "Willebrand", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteur Willebrand >> Valeur basse"
 },
 {
@@ -5380,11 +5380,11 @@
 "entree": "Facteurs antinucléaires >> Présents"
 },
 {
-"mots": ["Facteurs", "IX", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Facteurs", "IX", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteurs IX >> Valeur basse"
 },
 {
-"mots": ["Facteurs", "VIII", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Facteurs", "VIII", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Facteurs VIII >> Valeur basse"
 },
 {
@@ -5392,7 +5392,7 @@
 "entree": "FAT-Abs >> Résultat positif"
 },
 {
-"mots": ["Fer", "sérique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Fer", "sérique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Fer sérique >> Valeur basse"
 },
 {
@@ -5400,7 +5400,7 @@
 "entree": "Fer sérique >> Valeur élevée"
 },
 {
-"mots": ["Ferritine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Ferritine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Ferritine >> Valeur basse"
 },
 {
@@ -5408,7 +5408,7 @@
 "entree": "Ferritine >> Valeur élevée"
 },
 {
-"mots": ["Fibrinogéne", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Fibrinogéne", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Fibrinogéne >> Valeur basse"
 },
 {
@@ -5468,7 +5468,7 @@
 "entree": "Frottis sanguin >> cellules de Howel-Jolly"
 },
 {
-"mots": ["Frottis", "sanguin", "Hématies", "en", "goutte"],
+"mots": ["Frottis", "sanguin", "Hématies", "goutte"],
 "entree": "Frottis sanguin >> Hématies en goutte"
 },
 {
@@ -5496,7 +5496,7 @@
 "entree": "Frottis sanguin >> Thrombocytose"
 },
 {
-"mots": ["FSH", "LH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["FSH", "LH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "FSH, LH >> Valeur basse"
 },
 {
@@ -5552,7 +5552,7 @@
 "entree": "Gaz du sang >> PH diminué"
 },
 {
-"mots": ["GH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["GH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "GH >> Valeur basse"
 },
 {
@@ -5588,7 +5588,7 @@
 "entree": "Goutte épaisse >> Trypanosomes "
 },
 {
-"mots": ["Haptoglobine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Haptoglobine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Haptoglobine >> Valeur basse"
 },
 {
@@ -5596,7 +5596,7 @@
 "entree": "Hématies ponctuées de granulations basophiles >> > 30%"
 },
 {
-"mots": ["Hématocrite", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Hématocrite", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Hématocrite >> Valeur basse"
 },
 {
@@ -5780,7 +5780,7 @@
 "entree": "IRM cérébrale >> Hématome sous-dural"
 },
 {
-"mots": ["IRM", "cérébrale", "hyposignal", "en", "T1", "hypersignal", "en", "T2"],
+"mots": ["IRM", "cérébrale", "hyposignal", "T1", "hypersignal", "T2"],
 "entree": "IRM cérébrale >> hyposignal en T1 et hypersignal en T2"
 },
 {
@@ -5812,15 +5812,15 @@
 "entree": "IRM cervicale >> dissection carotidienne"
 },
 {
-"mots": ["IRM", "rachis", "disque", "atteint", "en", "hyposignal", "en", "T1", "en", "hypersignal", "en", "T2", "prend", "contraste"],
+"mots": ["IRM", "rachis", "disque", "atteint", "hyposignal", "T1", "hypersignal", "T2", "prend", "contraste"],
 "entree": "IRM du rachis >> disque atteint en hyposignal en T1, en hypersignal en T2 et prend le contraste"
 },
 {
-"mots": ["IRM", "rachis", "plateaux", "vertébraux", "disque", "atteint", "en", "hyposignal", "en", "T1", "en", "hypersignal", "en", "T2", "prennent", "contraste"],
+"mots": ["IRM", "rachis", "plateaux", "vertébraux", "disque", "atteint", "hyposignal", "T1", "hypersignal", "T2", "prennent", "contraste"],
 "entree": "IRM du rachis >> plateaux vertébraux du disque atteint en hyposignal en T1, en hypersignal en T2 et prennent le contraste"
 },
 {
-"mots": ["IRM", "rachis", "lombo-sacré", "Hernie", "discale", "visualisée", "en", "hypersignal", "séquences", "T2"],
+"mots": ["IRM", "rachis", "lombo-sacré", "Hernie", "discale", "visualisée", "hypersignal", "séquences", "T2"],
 "entree": "IRM du rachis lombo-sacré >> Hernie discale visualisée en hypersignal sur les séquences T2"
 },
 {
@@ -5856,7 +5856,7 @@
 "entree": "Kaliémie >> Hyperkaliémie"
 },
 {
-"mots": ["Kaliémie", "Hypokaliémie", "K", "Potassium", "diminution", "bas", "chute", "chutte", "diminue", "faible"],
+"mots": ["Kaliémie", "Hypokaliémie", "K", "Potassium", "diminution", "bas", "chute", "chute", "diminue", "faible"],
 "entree": "Kaliémie >> Hypokaliémie"
 },
 {
@@ -5932,7 +5932,7 @@
 "entree": "Lavement baryté >> mégarectum"
 },
 {
-"mots": ["Lavement", "baryté", "en", "double", "contraste", "Colorectal", "cancer"],
+"mots": ["Lavement", "baryté", "double", "contraste", "Colorectal", "cancer"],
 "entree": "Lavement baryté en double contraste >> Colorectal, cancer"
 },
 {
@@ -6040,7 +6040,7 @@
 "entree": "MNI Test >> Résultat positif"
 },
 {
-"mots": ["Moelle", "osseuse", "érythroblastose", "extrême", "macrophages", "surchargés", "en", "fer"],
+"mots": ["Moelle", "osseuse", "érythroblastose", "extrême", "macrophages", "surchargés", "fer"],
 "entree": "Moelle osseuse >> érythroblastose extrême, macrophages surchargés en fer"
 },
 {
@@ -6096,7 +6096,7 @@
 "entree": "Natrémie >> Hypernatrémie"
 },
 {
-"mots": ["Natrémie", "Hyponatrémie", "sodium", "Na", "diminution", "bas", "chute", "chutte", "diminue", "faible"],
+"mots": ["Natrémie", "Hyponatrémie", "sodium", "Na", "diminution", "bas", "chute", "chute", "diminue", "faible"],
 "entree": "Natrémie >> Hyponatrémie"
 },
 {
@@ -6252,23 +6252,23 @@
 "entree": "Phosphatases acides prostatiques >> Valeur élevée"
 },
 {
-"mots": ["Phosphatases", "alcalines", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Phosphatases", "alcalines", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Phosphatases alcalines >> Valeur basse"
 },
 {
-"mots": ["Phosphatases", "alcalines", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Phosphatases", "alcalines", "Valeur", "elve", "augmente", "augentation", "elevation"],
 "entree": "Phosphatases alcalines >> Valeur élevée"
 },
 {
-"mots": ["Phosphatémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Phosphatémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Phosphatémie >> Valeur basse"
 },
 {
-"mots": ["Phosphorémie", "Hyperphosphorémie"],
+"mots": ["Phosphorémie", "Hyperphosphorémie", "elve", "augmente", "augentation", "elevation"],
 "entree": "Phosphorémie >> Hyperphosphorémie"
 },
 {
-"mots": ["Phosphorémie", "Hypophosphorémie"],
+"mots": ["Phosphorémie", "Hypophosphorémie", "phosphore", "diminution", "bas", "chute", "chute", "diminue", "faible" ],
 "entree": "Phosphorémie >> Hypophosphorémie"
 },
 {
@@ -6336,7 +6336,7 @@
 "entree": "Ponction ganglionaire >> trypanosomes"
 },
 {
-"mots": ["Ponction", "ou", "biopsie", "osseuse", "mise", "en", "culture", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Ponction", "ou", "biopsie", "osseuse", "mise", "culture", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Ponction ou biopsie osseuse avec mise en culture >> Résultat positif"
 },
 {
@@ -6488,7 +6488,7 @@
 "entree": "Progesterone >> Valeur élevée"
 },
 {
-"mots": ["Prolactine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Prolactine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Prolactine >> Valeur basse"
 },
 {
@@ -6548,7 +6548,7 @@
 "entree": "Radiographie articulaire >> Déminéralisation"
 },
 {
-"mots": ["Radiographie", "articulaire", "Déminéralisation", "épiphysaire", "en", "bande"],
+"mots": ["Radiographie", "articulaire", "Déminéralisation", "épiphysaire", "bande"],
 "entree": "Radiographie articulaire >> Déminéralisation épiphysaire en bande"
 },
 {
@@ -6620,23 +6620,23 @@
 "entree": "Radiographie de l'épaule >> Déminéralisation mouchetée de la tête avec un respect de l'interligne gléno-huméral"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Abcès", "pulmonaire"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Abcès", "pulmonaire", "opacité", "aerique"],
 "entree": "Radiographie de thorax >> Abcès pulmonaire"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "hilaires"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "adp", "hilaires"],
 "entree": "Radiographie de thorax >> adénopathies hilaires"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "hilaires", "atteinte", "pulmonaire", "interstitielle"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "adp", "hilaires", "atteinte", "pulmonaire", "interstitielle"],
 "entree": "Radiographie de thorax >> adénopathies hilaires avec atteinte pulmonaire interstitielle"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "hilaires", "isolées"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "adp", "hilaires", "isolées"],
 "entree": "Radiographie de thorax >> adénopathies hilaires isolées"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "médiastinales"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "adénopathies", "adp", "médiastinales"],
 "entree": "Radiographie de thorax >> adénopathies médiastinales"
 },
 {
@@ -6652,7 +6652,7 @@
 "entree": "Radiographie de thorax >> Aspect  rayon de miel"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Aspect", "en", "verre", "dépoli"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Aspect", "verre", "dépoli"],
 "entree": "Radiographie de thorax >> Aspect en verre dépoli"
 },
 {
@@ -6660,7 +6660,7 @@
 "entree": "Radiographie de thorax >> aspect micronodulaire"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Aspergillome", "image", "en", "grelot"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Aspergillome", "image", "grelot"],
 "entree": "Radiographie de thorax >> Aspergillome > image en grelot"
 },
 {
@@ -6676,7 +6676,7 @@
 "entree": "Radiographie de thorax >> Calcifications de la valve aortique"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Calcifications", "en", "coquille", "d'œuf", "adénopathies", "hilaires", "médiastinales"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Calcifications", "coquille", "d'œuf", "adénopathies", "adp", "hilaires", "médiastinales"],
 "entree": "Radiographie de thorax >> Calcifications en coquille d'œuf des adénopathies hilaires et médiastinales"
 },
 {
@@ -6696,11 +6696,11 @@
 "entree": "Radiographie de thorax >> Cavitation des nodules"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Coeur", "en", "sabot"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Coeur", "sabot"],
 "entree": "Radiographie de thorax >> Coeur en sabot"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Cœur", "petit", "vertical", "en", "goutte"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Cœur", "petit", "vertical", "goutte"],
 "entree": "Radiographie de thorax >> Cœur petit, vertical, en goutte"
 },
 {
@@ -6776,7 +6776,7 @@
 "entree": "Radiographie de thorax >> Hyperclarté"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Hypertrophie", "auriculaire", "gauche", "image", "en", "double", "contour"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "Hypertrophie", "auriculaire", "gauche", "image", "double", "contour"],
 "entree": "Radiographie de thorax >> Hypertrophie auriculaire gauche avec image en double contour"
 },
 {
@@ -6800,7 +6800,7 @@
 "entree": "Radiographie de thorax >> Images aréolaires polykystiques"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "images", "en", "rayons", "miel"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "images", "rayons", "miel"],
 "entree": "Radiographie de thorax >> images en rayons de miel"
 },
 {
@@ -6908,7 +6908,7 @@
 "entree": "Radiographie de thorax >> saillie de l'arc moyen gauche"
 },
 {
-"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "silhouette", "cardiaque", "en", "carafe"],
+"mots": ["Radiographie", "thorax", "TLT", "Radio", "face", "silhouette", "cardiaque", "carafe"],
 "entree": "Radiographie de thorax >> silhouette cardiaque en carafe"
 },
 {
@@ -6972,7 +6972,7 @@
 "entree": "Radiographie du rachis cervical face, profil, 3/4 droit et gauche >> Pincement discal et ostéophytes"
 },
 {
-"mots": ["Radiographie", "en", "incidence", "Schüller", "opacification", "cellules", "mastoïdiennes"],
+"mots": ["Radiographie", "incidence", "Schüller", "opacification", "cellules", "mastoïdiennes"],
 "entree": "Radiographie en incidence Schüller >> opacification des cellules mastoïdiennes"
 },
 {
@@ -7112,7 +7112,7 @@
 "entree": "Rénine >> Valeur élevée"
 },
 {
-"mots": ["Réticulocytes", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Réticulocytes", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Réticulocytes >> Valeur basse"
 },
 {
@@ -7120,7 +7120,7 @@
 "entree": "Réticulocytes >> Valeur élevée"
 },
 {
-"mots": ["Rétinol", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Rétinol", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Rétinol >> Valeur basse"
 },
 {
@@ -7136,7 +7136,7 @@
 "entree": "Scanner abdominal >> Abcès profond"
 },
 {
-"mots": ["Scanner", "TDM", "abdominal", "Calcul", "partie", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte", "voie", "biliaire", "principale"],
+"mots": ["Scanner", "TDM", "abdominal", "Calcul", "partie", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute", "voie", "biliaire", "principale"],
 "entree": "Scanner abdominal >> Calcul de la partie basse de la voie biliaire principale"
 },
 {
@@ -7312,15 +7312,15 @@
 "entree": "Scanner thoracique >> Abcès sous-phrénique"
 },
 {
-"mots": ["Scanner", "TDM", "thoracique", "Adénopathies", "atteinte", "interstitielle"],
+"mots": ["Scanner", "TDM", "thoracique", "Adénopathies", "adp", "atteinte", "interstitielle"],
 "entree": "Scanner thoracique >> Adénopathies atteinte interstitielle"
 },
 {
-"mots": ["Scanner", "TDM", "thoracique", "Adénopathies", "médiastinales"],
+"mots": ["Scanner", "TDM", "thoracique", "Adénopathies", "adp", "médiastinales"],
 "entree": "Scanner thoracique >> Adénopathies médiastinales"
 },
 {
-"mots": ["Scanner", "TDM", "thoracique", "Aspect", "poumon", "en", "verre", "dépoli", "phériphérique", "bilatéral", "bases", "sous", "pleural"],
+"mots": ["Scanner", "TDM", "thoracique", "Aspect", "poumon", "verre", "dépoli", "phériphérique", "bilatéral", "bases", "sous", "pleural"],
 "entree": "Scanner thoracique >> Aspect du poumon en verre dépoli, phériphérique, bilatéral, aux bases, sous pleural"
 },
 {
@@ -7496,7 +7496,7 @@
 "entree": "Stimulation nerveuse répétitive >> réponse décrémentielle à 3 Hz"
 },
 {
-"mots": ["T4", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["T4", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "T4 >> Valeur basse"
 },
 {
@@ -7504,7 +7504,7 @@
 "entree": "T4 >> Valeur élevée"
 },
 {
-"mots": ["Taux", "céruloplasmine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Taux", "céruloplasmine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Taux de céruloplasmine >> Valeur basse"
 },
 {
@@ -7512,7 +7512,7 @@
 "entree": "Taux de digitalique >> Valeur élevée"
 },
 {
-"mots": ["Taux", "prothrombine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Taux", "prothrombine", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Taux de prothrombine >> Valeur basse"
 },
 {
@@ -7596,7 +7596,7 @@
 "entree": "Test thérapeutique aux antialdostérones >> Résultat positif"
 },
 {
-"mots": ["Testostérone", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Testostérone", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Testostérone >> Valeur basse"
 },
 {
@@ -7664,7 +7664,7 @@
 "entree": "Troponines >> Valeur élevée"
 },
 {
-"mots": ["TSH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["TSH", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "TSH >> Valeur basse"
 },
 {
@@ -7680,7 +7680,7 @@
 "entree": "Uraturie >> Hyperuraturie"
 },
 {
-"mots": ["Urée", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Urée", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Urée >> Valeur basse"
 },
 {
@@ -7716,7 +7716,7 @@
 "entree": "Urographie intraveineuse >> dilatation, obstacle(s) radiotransparent(s)"
 },
 {
-"mots": ["Urographie", "intraveineuse", "en", "faveur", "l'adénocarcinome", "rein"],
+"mots": ["Urographie", "intraveineuse", "faveur", "l'adénocarcinome", "rein"],
 "entree": "Urographie intraveineuse >> en faveur de l'adénocarcinome du rein"
 },
 {
@@ -7748,7 +7748,7 @@
 "entree": "Viscosité sanguine >> Valeur élevée"
 },
 {
-"mots": ["Vitamine", "B12", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Vitamine", "B12", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Vitamine B12 plasmatique >> Valeur basse"
 },
 {
@@ -7756,11 +7756,11 @@
 "entree": "Vitamine B12 plasmatique >> Valeur élevée"
 },
 {
-"mots": ["Vitamine", "K1", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Vitamine", "K1", "plasmatique", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Vitamine K1 plasmatique >> Valeur basse"
 },
 {
-"mots": ["Vitesse", "conduction", "nerveuse", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Vitesse", "conduction", "nerveuse", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Vitesse de conduction nerveuse >> Valeur basse"
 },
 {
@@ -7772,7 +7772,7 @@
 "entree": "VS >> Accélérée"
 },
 {
-"mots": ["VS", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["VS", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "VS >> Valeur basse"
 },
 {
@@ -7780,7 +7780,7 @@
 "entree": "Western-Blot >> Résultat positif"
 },
 {
-"mots": ["Zincémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chutte"],
+"mots": ["Zincémie", "Valeur", "basse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Zincémie >> Valeur basse"
 }
 ]
