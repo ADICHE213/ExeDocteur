@@ -2241,7 +2241,7 @@
 },
 {
 "diagnostic": "Ovaires polykystiques, syndrome des",
-"symptomes": ["Aménorrhée", "Oligoménorrhée", "Obésité", "Hirsutisme", "Pathologie >> Acné", "Règles irrégulières", "Stérilité", "Hypertension artérielle  ", "Virilisme", "Hypertrophie clitoridienne", "FSH, LH >> Valeur élevée", "Testostérone >> Valeur élevée", "OH-progestérone >> Valeur élevée", "Oestrone et oestradiol >> Valeur élevée", "Androstènedione >> Valeur élevée", "Echographie abdomino-pelvienne >> ovaires polykystiques"],
+"symptomes": ["Aménorrhée", "Oligoménorrhée", "Obésité", "Hirsutisme", "Pathologie >> Acné", "Règles irrégulières", "Stérilité", "Hypertension artérielle  ", "Virilisme", "Hypertrophie clitoridienne", "FSH, LH >> Valeur élevée", "Testostérone >> Valeur élevée", "Progesterone >> Valeur élevée", "Oestrone et oestradiol >> Valeur élevée", "Androstènedione >> Valeur élevée", "Echographie abdomino-pelvienne >> ovaires polykystiques"],
 "frequence": 50,
 "sexe": ["Féminin"],
 "age": ["15-45",">45"]
@@ -2934,7 +2934,7 @@
 },
 {
 "diagnostic": "Testicule, cancer du",
-"symptomes": ["Douleurs scrotales", "Hypertrophie testiculaire", "Adénopathie(s)", "Oedème des membres inférieurs", "Masse abdominale", "Hydrocèle", "Gynécomastie", "Alpha-foetoprotéine >> Valeur élevée", "Gonadotrophine chorionique >> Valeur élevée", "Phosphatase alcaline placentaire >> Valeur élevée", "LDH >> Valeur élevée", "Echocardiographie scrotale >> masse testiculaire, hypoéchogène", "Biopsie du testicule >> Testicule, cancer du"],
+"symptomes": ["Douleurs scrotales", "Hypertrophie testiculaire", "Adénopathie(s)", "Oedème des membres inférieurs", "Masse abdominale", "Hydrocèle", "Gynécomastie", "Alpha-foetoprotéine >> Valeur élevée", "Bêta-HCG >> Valeur élevée", "Phosphatase alcaline placentaire >> Valeur élevée", "LDH >> Valeur élevée", "Echocardiographie scrotale >> masse testiculaire, hypoéchogène", "Biopsie du testicule >> Testicule, cancer du"],
 "frequence": 37,
 "sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
