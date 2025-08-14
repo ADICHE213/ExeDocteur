@@ -596,7 +596,7 @@
 {
 "mots": ["col", "fragile", "muqueuse", "hemorragique", "saignements", "rapports", "sexuels", "contacte"],
 "entree": "Col fragile, muqueuse hémorragique",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -4334,7 +4334,7 @@
 {
 "mots": ["saignement", "hemorragie", "genitale", "vaginale", "vagin", "post", "coital", "apres", "rapports", "sexuels", "saignements", "genital"],
 "entree": "Saignement post-coital",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
