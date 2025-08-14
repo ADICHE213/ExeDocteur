@@ -156,9 +156,10 @@ function envoyerDiagnostic() {
 // Fonction pour afficher les suggestions basées sur les mots-clés, avec filtrage des mots inefficaces
 function montrerSuggestions() {
   if (!isDataLoaded) return;
+  
   const input = document.getElementById("symptomeInput");
 
-  // 🔹 Nettoyer la saisie en supprimant tous les caractères interdits
+  // 🔹 Nettoyer la saisie
   let saisie = sansAccents(input.value.trim().toLowerCase());
   saisie = saisie.replace(/[0-9\/\*\_\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!]/g, ""); 
 
@@ -167,20 +168,36 @@ function montrerSuggestions() {
 
   if (!saisie || symptomesDisponiblesData.length === 0) return;
 
+  // 🔹 Découper en mots et ignorer ceux non pertinents
   let motsSaisie = saisie.split(' ').filter(mot => mot.length > 0 && !motsIgnorer.has(mot));
-
   if (motsSaisie.length === 0) return;
+
+  // 🔹 Récupérer sexe et âge sélectionnés
+  const sexeChoisi = document.getElementById("sexe").value;
+  const ageChoisi = document.getElementById("age").value;
 
   const suggestions = symptomesDisponiblesData
     .filter(item => {
+      // Vérifier les mots-clés
       const motsNormalisesDeSymptome = item.mots.map(m => sansAccents(m.toLowerCase()));
-      return motsSaisie.every(motSaisi => {
-        return motsNormalisesDeSymptome.some(motCles => motCles.includes(motSaisi));
-      });
+      const correspondanceMots = motsSaisie.every(motSaisi =>
+        motsNormalisesDeSymptome.some(motCles => motCles.includes(motSaisi))
+      );
+
+      if (!correspondanceMots) return false;
+
+      // 🔹 Filtrage par sexe
+      if (item.sexe && !item.sexe.includes(sexeChoisi)) return false;
+
+      // 🔹 Filtrage par âge
+      if (ageChoisi !== "Tous" && item.age && !item.age.includes(ageChoisi)) return false;
+
+      return true;
     })
     .map(item => item.entree)
     .filter(s => !symptomesSelectionnes.includes(s));
 
+  // 🔹 Affichage suggestions
   if (suggestions.length > 0) {
     suggestions.forEach(s => {
       const li = document.createElement("li");
@@ -203,6 +220,7 @@ function montrerSuggestions() {
     });
   }
 }
+
 
 
 // Fonction pour charger les données du fichier JSON
@@ -236,4 +254,3 @@ document.getElementById("age").addEventListener("change", () => {
 
 // Événement pour lancer le chargement des données au démarrage de la page
 document.addEventListener('DOMContentLoaded', chargerSymptomes);
-
