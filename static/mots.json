@@ -3702,7 +3702,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["syndrome", "anemique", "anémie"],
+"mots": ["syndrome", "anemique"],
 "entree": "Pathologie >> Syndrome anémique",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
