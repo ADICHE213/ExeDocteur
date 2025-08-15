@@ -122,7 +122,7 @@ function envoyerDiagnostic() {
     if (data.length === 0) {
       html = `
         <div style="padding: 10px; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 6px; color: #856404;">
-          Dans cette version de l’application, aucun diagnostic ne correspond aux entrées sélectionnées. Vous pouvez nous signaler ce cas pour une prochaine mise à jour à l’adresse suivante : tewfik@dr-adiche.com
+          Dans cette version de l’application, aucun diagnostic ne correspond aux entrées sélectionnées. Vous pouvez nous signaler ce cas pour une prochaine mise à jour à l’adresse suivante : <br>tewfik@dr-adiche.com
         </div>
       `;
     } else {
