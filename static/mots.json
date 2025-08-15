@@ -1932,31 +1932,31 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertension", "arterielle", "hypertendue", "hta"],
+"mots": ["hypertension", "arterielle", "hypertendue", "hta", "pression", "augmentée", "élevée", "pic", "poussée", "hypertensif", "hypertensive"],
 "entree": "Hypertension artérielle  ",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertension", "arterielle", "membres", "superieurs"],
+"mots": ["hypertension", "arterielle", "membres", "superieurs", "hypertendue", "hta", "pression", "augmentée", "élevée", "pic", "poussée", "hypertensif", "hypertensive"],
 "entree": "Hypertension artérielle aux membres supérieurs",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertonie"],
+"mots": ["hypertonie", "muscles", "musculaire", "tendus", "tonus", "augmenté", "élevé"],
 "entree": "Hypertonie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertonie", "extrapyramidale"],
+"mots": ["hypertonie", "extrapyramidale", "muscles", "musculaire", "tendus", "tonus", "augmenté", "élevé"],
 "entree": "Hypertonie extrapyramidale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertonie", "oculaire"],
+"mots": ["hypertonie", "oculaire", "tonus", "pression"],
 "entree": "Hypertonie oculaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -1974,85 +1974,85 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertrophie", "clitoridienne", "clitoris"],
+"mots": ["hypertrophie", "clitoridienne", "clitoris", "grand", "volumineux", "augmenté", "volume"],
 "entree": "Hypertrophie clitoridienne",
 "sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertrophie", "crane", "deformations"],
+"mots": ["hypertrophie", "crane", "deformations", "augmenté", "augmentation", "volume", "perimetre", "cranien", "augmenté"],
 "entree": "Hypertrophie du crâne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertrophie", "muscle", "sterno-cleido-mastoidien"],
+"mots": ["hypertrophie", "muscle", "sterno-cleido-mastoidien", "sterno", "cleido", "mastoidien", "augmenté", "augmentation", "volume", "masse"],
 "entree": "Hypertrophie du muscle sterno-cléido-mastoidien",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypertrophie", "parotidienne"],
+"mots": ["hypertrophie", "parotidienne", "augmenté", "augmentation", "volume", "masse", "glande", "parotide"],
 "entree": "Hypertrophie parotidienne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypoacousie", "baisse", "audition", "diminution", "faible", "perte", "diminuee"],
+"mots": ["hypoacousie", "baisse", "audition", "diminution", "faible", "perte", "diminuee", "acuité", "auditive"],
 "entree": "Hypoacousie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypogueusie", "diminution", "perte", "gôut", "gout"],
+"mots": ["hypogueusie", "diminution", "baisse", "perte", "gôut", "gout"],
 "entree": "Hypogueusie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hyposmie", "perte", "diminution", "odorat", "olfaction", "troubles"],
+"mots": ["hyposmie", "perte", "diminution", "basse", "sent", "sentir", "odorat", "olfaction", "troubles"],
 "entree": "Hyposmie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypotension", "arterielle"],
+"mots": ["hypotension", "arterielle", "baisse", "chute", "ta", "diminution", "basse", "diminuée"],
 "entree": "Hypotension",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypotension", "orthostatique", "arterielle"],
+"mots": ["hypotension", "orthostatique", "arterielle", "baisse", "chute", "ta", "diminution", "basse", "diminuée", "changement", "position", "allongé", "debout", "assis"],
 "entree": "Hypotension orthostatique",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypothermie", "froideure", "baisse", "temperature", "peau"],
+"mots": ["hypothermie", "froideure", "froide", "basse", "baisse", "temperature", "peau"],
 "entree": "Hypothermie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hypotonie", "faiblesses", "musculaires"],
+"mots": ["hypotonie", "faiblesses", "tonus", "musculaires", "muscles", "faibles"],
 "entree": "Hypotonie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ictere", "jaunisse", "peau", "jaune", "paleur", "icterique"],
+"mots": ["ictere", "jaunisse", "subictere", "sub-ictere", "sub", "conjonctival", "yeux", "peau", "jaune", "jaunes", "paleur", "icterique"],
 "entree": "Ictère",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["idees", "suicidaires", "tentative", "suicide"],
+"mots": ["idees", "suicidaires", "tentative", "suicide", "autolyse"],
 "entree": "Idées suicidaires",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["impotence", "fonctionnelle", "difficultes", "boujer", "mobiliser", "genou", "coude", "membre", "inferieur", "superieur", "mains", "pieds", "pas", "mal", "boiterie"],
+"mots": ["impotence", "fonctionnelle", "difficultes", "boujer", "mobiliser", "genou", "coude", "membre", "membres", "inferieur", "superieur", "mains", "pieds", "pas", "mal", "boiterie"],
 "entree": "Impotence fonctionnelle",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2064,19 +2064,19 @@
 "age": ["15-45",">45"]
 },
 {
-"mots": ["incontinence", "fecale", "fuites", "matieres", "selles", "pertes", "caca", "anales"],
+"mots": ["incontinence", "fecale", "fuites", "matieres", "selles", "sels", "pertes", "caca", "anales"],
 "entree": "Incontinence fécale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["incontinence", "urinaires", "fuites", "urines" , "urinaires", "urinaire", "pertes", "troubles", "mictionnels"],
+"mots": ["incontinence", "urinaires", "fuites", "urines" , "urinaires", "urinaire", "pertes", "troubles", "mictionnels", "miction"],
 "entree": "Incontinence urinaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["induration", "arteres", "temporales", "indurcies"],
+"mots": ["induration", "arteres", "temporales", "indurcies", "duries", "durcissement"],
 "entree": "Induration des artères temporales",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2088,7 +2088,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["infiltration", "rouge", "douloureuse", "face", "rougeurs"],
+"mots": ["infiltration", "rouge", "douloureuse", "face","vasage", "douleur", "rougeurs"],
 "entree": "Infiltration rouge douloureuse de la face",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2118,25 +2118,25 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["insuffisance", "mitrale"],
+"mots": ["insuffisance", "mitrale", "im"],
 "entree": "Pathologie >> Insuffisance mitrale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["insuffisance", "renale"],
+"mots": ["insuffisance", "renale", "ir"],
 "entree": "Pathologie >> Insuffisance rénale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["interpretation", "delirante"],
+"mots": ["interpretation", "delirante", "délir", "intreprétatif"],
 "entree": "Interprétation délirante",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["intertrigo", "erythemato-squameux", "erythemato", "squameux", "erythematosquameux"],
+"mots": ["intertrigo", "erythemato-squameux", "erythemato", "squameux", "squames", "rougeure", "erythematosquameux", "infection", "plis"],
 "entree": "Intertrigo érythémato-squameux",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2148,13 +2148,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["irritation", "vulvo-vaginale", "vulvovaginale", "vulvovaginale", "vulve", "vagin", "vaginale"],
+"mots": ["irritation", "vulvo-vaginale", "douleur", "rougeure", "vulvovaginale", "vulvovaginale", "vulve", "vagin", "vaginale"],
 "entree": "Irritation vulvo-vaginale",
 "sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["jambe", "rouge", "aiguë", "febrile", "douloureuse", "rougeur", "chaude", "erytheme"],
+"mots": ["jambe", "rouge", "aiguë", "febrile", "douloureuse", "rougeur", "chaude", "erytheme", "douleur", "placard", "erythémateux", "bien", "limité"],
 "entree": "Jambe rouge aiguë fébrile douloureuse",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2166,7 +2166,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["keratoconjonctivite"],
+"mots": ["keratoconjonctivite", "kerato", "conjonctivite"],
 "entree": "Kératoconjonctivite",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2178,7 +2178,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["larmoiement", "ecoulements", "oeil", "yeux", "coules"],
+"mots": ["larmoiement", "ecoulements", "secrétions", "oeil", "yeux", "coules"],
 "entree": "Larmoiement",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2190,7 +2190,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["laryngospasme", "spasme", "larynge"],
+"mots": ["laryngospasme", "spasme", "larynge", "larynx"],
 "entree": "Laryngospasme",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2214,13 +2214,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["lesion", "tumorale", "exophytique", "ou", "ulcerante"],
+"mots": ["lesion", "tumorale", "exophytique", "ulcerante", "ulcérée", "ulcération"],
 "entree": "Lésion tumorale exophytique ou ulcérante",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["lesions", "cutaneomuqueuses", "genitales"],
+"mots": ["lesions", "cutaneomuqueuses", "genitales", "muqueuse", "sexuelle", "sex", "vulve", "gande", "levre", "pénis", "glande"],
 "entree": "Lésions cutanéomuqueuses génitales",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2232,13 +2232,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["lesions", "douloureuses"],
+"mots": ["lesions", "douloureuses", "douleur"],
 "entree": "Lésions douloureuses",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["leucorrhee", "pertes", "vaginales", "ecoulement", "malodorantes", "blanchatres", "verdatres", "grisatres", "blanchatres", "verdatres", "grisatres", "secretions"],
+"mots": ["leucorrhee", "pertes", "vaginales", "sexuelle", "ecoulement", "malodorantes", "blanchatres", "verdatres", "grisatres", "secretions"],
 "entree": "Leucorrhée",
 "sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2250,13 +2250,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["limitation", "ouverture", "buccale", "ouverture", "blocage", "bouche", "bloquee"],
+"mots": ["limitation", "ouverture", "buccale", "ouverture", "limitée", "ouvrir", "blocage", "bouche", "bloquee"],
 "entree": "Limitation de l'ouverture buccale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["lipothymies", "pertes", "conscience", "connaissance", "troubles"],
+"mots": ["lipothymies", "pertes", "conscience", "connaissance", "troubles", "evanouissement", "evanouie"],
 "entree": "Lipothymies",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2268,7 +2268,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["lithiase", "renale", "calcules", "renaux", "reins"],
+"mots": ["lithiase", "renale", "calcules", "renaux", "reins", "coloque nephretique"],
 "entree": "Pathologie >> Lithiase rénale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2292,7 +2292,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["macroglossie", "grosse", "langue"],
+"mots": ["macroglossie", "grosse", "langue", "hypertrophié", "grande", "grosse"],
 "entree": "Macroglossie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2394,7 +2394,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["melena", "selles", "noir", "sang", "sanguin", "sanguine", "serique", "hemorragies", "digestives", "basses", "caca"],
+"mots": ["melena", "selles", "noir", "noiratre", "sang", "hemorragies", "digestives", "basses", "caca"],
 "entree": "Méléna",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2406,7 +2406,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["membre", "inferieur", "abduction-rotation", "externe", "abduction", "rotation"],
+"mots": ["membre", "inferieur", "abduction-rotation","abduction", "rotation", "externe", "abduction", "rotation"],
 "entree": "Membre inférieur en abduction-rotation externe",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2430,19 +2430,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["metrorragies", "hemorragies", "genitale", "vaginales", "pertes", "sang", "sanguin", "sanguine", "serique", "ecoulement", "troubles", "regles", "menstruation", "irregulieres", "saignements"],
+"mots": ["metrorragies", "hemorragies", "genitale", "vaginales", "pertes", "sang", "sanguine", "ecoulement", "troubles", "regles", "menstruation", "irregulieres", "saignements"],
 "entree": "Métrorragies",
 "sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["metrorragies", "3eme", "trimestre", "hemorragies", "genitales", "vaginales", "pertes", "sang", "sanguin", "sanguine", "serique", "ecoulement", "3", "eme"],
+"mots": ["metrorragies", "3eme", "trimestre", "grossesse", "hemorragies", "genitales", "vaginales", "pertes", "sang", "sanguin", "sanguine", "serique", "ecoulement", "3", "eme"],
 "entree": "Métrorragies du 3ème trimestre",
 "sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["microcephalie", "petite", "tete"],
+"mots": ["microcephalie", "petite", "tete", "crane", "petit"],
 "entree": "Microcéphalie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2478,7 +2478,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["myalgies", "douleurs", "musculaires", "courbatures"],
+"mots": ["myalgies", "douleurs", "diffuses", "musculaires", "courbatures"],
 "entree": "Myalgies",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2496,7 +2496,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["myoclonies", "contractions", "musculaires", "involontaires", "incontrôlees", "secousses"],
+"mots": ["myoclonies", "contractions", "secouses", "musculaires", "involontaires", "incontrôlees", "secousses"],
 "entree": "Myoclonies",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2520,7 +2520,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["myxoedeme", "pretibial"],
+"mots": ["myxoedeme", "pretibial", "paupiere"],
 "entree": "Myxoedème prétibial",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2568,7 +2568,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["nodules", "roth"],
+"mots": ["nodules", "roth", "taches"],
 "entree": "Nodules de Roth",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2598,13 +2598,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["notion", "phobie"],
+"mots": ["notion", "phobie", "peure", "excessive"],
 "entree": "Notion de phobie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["notion", "traumatisme", "cranien"],
+"mots": ["notion", "traumatisme", "cranien", "trauma"],
 "entree": "Notion de traumatisme crânien",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2616,25 +2616,25 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["obesite", "poids", "excessif", "gros"],
+"mots": ["obesite", "poids", "excessif", "gros", "prise"],
 "entree": "Obésité",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["obesite", "facio-tronculaire", "faciotronculaire", "facio", "tronculaire", "face"],
+"mots": ["obesite", "facio-tronculaire", "faciotronculaire", "facio", "tronculaire", "face", "tronc"],
 "entree": "Obésité facio-tronculaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["obstruction", "nasale", "nez", "bouche", "leve"],
+"mots": ["obstruction", "nasale", "nez", "bouche"],
 "entree": "Obstruction nasale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["odeur", "acetonique", "haleine", "haleine"],
+"mots": ["odeur", "acetonique", "haleine", "haleine", "acetone"],
 "entree": "Odeur acétonique de l'haleine",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2676,13 +2676,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["oedeme", "verge", "gonflements", "penis"],
+"mots": ["oedeme", "verge", "gonflements", "penis", "tumefaction"],
 "entree": "Oedème de la verge",
 "sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["oedeme", "hemiface", "gonflements", "tumefactions", "moitie"],
+"mots": ["oedeme", "hemiface", "gonflements", "tumefactions", "moitie", "face", "coté"],
 "entree": "Oedème de l'hémiface",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2694,7 +2694,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["oedeme", "mains", "gonflements"],
+"mots": ["oedeme", "mains", "gonflements", "tumefaction"],
 "entree": "Oedème des mains",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2718,7 +2718,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["oedeme", "periorbitaire", "gonflement", "paupieres", "tumefactions", "tumefiees"],
+"mots": ["oedeme", "periorbitaire", "gonflement", "paupieres", "tumefactions", "tumefiees", "peri", "orbitaire"],
 "entree": "Oedème périorbitaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2808,7 +2808,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["otorrhees", "ecoulements", "oreils", "coules", "pus", "coulent", "coule"],
+"mots": ["otorrhees", "ecoulements", "oreils", "coules", "pus", "coulent", "coule", "liquide", "sort"],
 "entree": "Otorrhées",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2832,7 +2832,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["otoscopie", "hyperhemie", "tympan", "rougeure"],
+"mots": ["otoscopie", "hyperhemie", "tympan", "rougeure", "congestif"],
 "entree": "Otoscopie >> Hyperhémie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2856,7 +2856,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["paleur", "cutaneo", "muqueuse", "cutanee"],
+"mots": ["paleur", "cutaneo", "muqueuse", "cutanee", "pale", "peau", "visage"],
 "entree": "Pâleur",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2910,7 +2910,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["paralysie", "oculomotrice", "oeil", "troubles", "visuels", "yeux"],
+"mots": ["paralysie", "oculomotrice", "oeil", "troubles", "visuels", "yeux", "diplopie"],
 "entree": "Paralysie oculomotrice",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2952,7 +2952,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["petite", "taille"],
+"mots": ["petite", "taille", "nain"],
 "entree": "Petite taille",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2988,7 +2988,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["photophobie"],
+"mots": ["photophobie", "lumiere", "supporter"],
 "entree": "Photophobie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3192,19 +3192,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["pyrosis", "brulures", "estomac", "bouche", "thorax", "thoraciques"],
+"mots": ["pyrosis", "brulures", "estomac", "oesophage", "bouche", "thorax", "thoraciques"],
 "entree": "Pyrosis",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["rhumatisme", "articulaire", "aigu", "enfance"],
+"mots": ["rhumatisme", "articulaire", "aigu", "enfance", "raa"],
 "entree": "Pathologie >> Rhumatisme articulaire aigu",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["raccourcissement", "membre", "inferieur"],
+"mots": ["raccourcissement", "membre", "inferieur", "raccoucis"],
 "entree": "Raccourcissement du membre inférieur",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3222,19 +3222,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["raideur", "enraidissement", "mains", "jambes", "epaule"],
+"mots": ["raideur", "enraidissement", "blocage", "membres", "superieurs", "inferieurs", "mains", "jambes", "epaule"],
 "entree": "Raideur",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["raideur", "nuque", "cervicale", "cou", "enraidissement"],
+"mots": ["raideur", "nuque", "blocage", "cervicale", "cou", "enraidissement"],
 "entree": "Raideur de la nuque",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["raideur", "rachidienne", "dos", "rachis", "dorsal", "enraidissement"],
+"mots": ["raideur", "rachidienne", "dos", "rachis", "blocage", "bloqué", "dorsal", "enraidissement"],
 "entree": "Raideur rachidienne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3264,7 +3264,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["rectorragies", "sang", "sanguin", "sanguine", "serique", "selles", "hemorragies", "digestives", "basses", "diarrhee", "glairo", "sanglante", "caca"],
+"mots": ["rectorragies", "sang", "sanguin", "sanguine", "selles", "hemorragies", "digestives", "basses", "diarrhee", "glairo", "sanglante", "caca", "pertes"],
 "entree": "Rectorragies",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3276,7 +3276,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["reflux", "gastro", "oesophagien", "gastrique", "oesophage"],
+"mots": ["reflux", "gastro", "oesophagien", "gastrique", "oesophage", "rgo"],
 "entree": "Pathologie >> Reflux gastro-oesophagien",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3294,7 +3294,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["repli", "soi"],
+"mots": ["repli", "soi", "isolement"],
 "entree": "Repli sur soi",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3330,7 +3330,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["retention", "urinaire", "aigue", "aiguë", "urines" , "urinaires", "urinaire", "uriner", "bloquees", "blocage", "pas", "globe", "vesical", "absence"],
+"mots": ["retention", "urinaire", "aigue", "aiguë", "urines" , "urinaires", "urinaire", "uriner", "bloquees", "blocage", "pas", "globe", "vesical", "absence", "rva", "rv"],
 "entree": "Rétention urinaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3354,7 +3354,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["rhino-pharyngite", "rhinopharyngite"],
+"mots": ["rhino-pharyngite", "rhinopharyngite", "rhino", "pharyngite"],
 "entree": "Rhino-Pharyngite",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3366,7 +3366,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["rigidite", "musculaire"],
+"mots": ["rigidite", "musculaire", "blocage", "raideur", "muscles", "bloqués"],
 "entree": "Rigidité musculaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3414,7 +3414,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["saignements", "hemorragies", "peau", "bouche"],
+"mots": ["saignements", "hemorragies", "peau", "bouche", "sang", "coule"],
 "entree": "Saignement",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3450,13 +3450,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["secheresse", "vaginale", "genitale"],
+"mots": ["secheresse", "vaginale", "genitale", "sec", "muqueuse", "vagin"],
 "entree": "Sécheresse vaginale",
 "sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["selles", "decolorees", "decoloration", "claires", "caca"],
+"mots": ["selles", "decolorees", "decoloration", "claires", "caca", "blanc", "gris", "grisatres"],
 "entree": "Selles décolorées",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3468,13 +3468,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["sensibilite", "hypogastrique", "palpation", "douleurs"],
+"mots": ["sensibilite", "hypogastrique", "palpation", "douleurs", "sensible", "abdominale", "bas", "ventre"],
 "entree": "Sensibilité hypogastrique à la palpation",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["sensibilite", "peri", "ombilicale", "douleurs"],
+"mots": ["sensibilite", "peri", "ombilicale", "douleurs", "ombilic", "sensible", "douleur"],
 "entree": "Sensibilité péri-ombilicale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3612,7 +3612,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["spasme", "contractures", "musculaires"],
+"mots": ["spasme", "contractures", "musculaires", "contractés", "dures"],
 "entree": "Spasme",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3678,7 +3678,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["sueurs", "nocturnes", "sudation", "hypersudation", "abondantes", "hyperhidrose"],
+"mots": ["sueurs", "nocturnes", "sudation", "hypersudation", "abondantes", "hyperhidrose", "nuit"],
 "entree": "Sueurs nocturnes",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3696,13 +3696,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["syncope", "pertes", "connaissance", "conscience", "troubles", "evanouissement", "evanouissement", "evanouie", "evanoui", "evanoui"],
+"mots": ["syncope", "pertes", "brutale", "connaissance", "conscience", "troubles", "evanouissement", "evanouissement", "evanouie", "evanoui", "evanoui"],
 "entree": "Syncope",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["syndrome", "anemique"],
+"mots": ["syndrome", "anemique", "anémie"],
 "entree": "Pathologie >> Syndrome anémique",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3720,7 +3720,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["syndrome", "claude", "bernard-horner"],
+"mots": ["syndrome", "claude", "bernard-horner", "bernard", "horner"],
 "entree": "Pathologie >> Syndrome de Claude Bernard-Horner",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3792,7 +3792,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["synechies", "irido-cristaliniennes"],
+"mots": ["synechies", "irido-cristaliniennes", "irido", "cristaliniennes"],
 "entree": "Synéchies irido-cristaliniennes",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3804,7 +3804,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tachycardie", "acceleration", "rythme", "frequence", "cardiaque", "battements", "cœur"],
+"mots": ["tachycardie", "acceleration", "rythme", "frequence", "cardiaque", "battements", "cœur", "coeur", "elévée", "rapide"],
 "entree": "Tachycardie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3834,7 +3834,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tetraplegie"],
+"mots": ["tetraplegie", "paralysie", "membres", "inferieures"],
 "entree": "Tétraplégie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3852,7 +3852,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["thrombose", "veineuse", "profonde"],
+"mots": ["thrombose", "veineuse", "profonde", "tvp"],
 "entree": "Thrombose veineuse profonde",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3870,7 +3870,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["thromboses", "veineuses", "peripheriques"],
+"mots": ["thromboses", "veineuses", "peripheriques", "superficielle"],
 "entree": "Thromboses veineuses périphériques",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3906,7 +3906,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["toux", "quinteuse"],
+"mots": ["toux", "quinteuse", "tousse", "touser", "touse", "quintes"],
 "entree": "Toux quinteuse",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3918,19 +3918,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tr", "presence", "sang", "sanguin", "sanguine", "serique", "doigtier", "touche", "rectal"],
+"mots": ["tr", "presence", "sang", "doigtier", "touche", "rectal"],
 "entree": "TR >> Présence de sang sur le doigtier",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["traitement", "antibiotique", "recent", "(surtout", "penicilline", "derives)"],
+"mots": ["traitement", "antibiotique", "recent", "surtout", "penicilline"],
 "entree": "Traitement antibiotique récent (surtout pénicilline et dérivés)",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tremblements", "trembles", "tremble", "mains", "pieds", "extremites", "tete", "tete", "doigths"],
+"mots": ["tremblements", "trembles", "tremble", "mains", "pieds", "extremites", "tete", "doigths"],
 "entree": "Tremblements",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3972,7 +3972,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["troubles", "humeur", "humeur"],
+"mots": ["troubles", "humeur"],
 "entree": "Troubles de l'humeur",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4026,13 +4026,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tumefaction", "articulaire"],
+"mots": ["tumefaction", "articulaire", "gonflement", "gonflée", "articulation"],
 "entree": "Tuméfaction articulaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tumefaction", "conduit", "auditif", "externe"],
+"mots": ["tumefaction", "conduit", "auditif", "externe", "oreil"],
 "entree": "Tuméfaction du conduit auditif externe",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4044,19 +4044,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tumefaction", "inflammatoire", "pre-articulaire", "prearticulaire", "pre", "articulaire"],
+"mots": ["tumefaction", "inflammatoire", "pre-articulaire", "prearticulaire", "pre", "articulaire", "gonflement"],
 "entree": "Tuméfaction inflammatoire pré-articulaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tumefaction", "localisee", "region", "parotidienne", "parotide", "glande"],
+"mots": ["tumefaction", "localisee", "region", "parotidienne", "parotide", "glande", "gonflement"],
 "entree": "Tuméfaction localisée à la région parotidienne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["tumefaction", "cartilages", "costaux"],
+"mots": ["tumefaction", "cartilages", "costaux", "gonflement"],
 "entree": "Tuméfaction sur les cartilages costaux",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4104,25 +4104,25 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceration", "buccale"],
+"mots": ["ulceration", "buccale", "bouche", "ulcérée"],
 "entree": "Ulcération buccale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceration", "base", "cils"],
+"mots": ["ulceration", "base", "cils", "ulcérée"],
 "entree": "Ulcération de la base des cils",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceration", "marge", "anale"],
+"mots": ["ulceration", "marge", "anale", "ulcérée", "anus"],
 "entree": "Ulcération de la marge anale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceration", "digitales"],
+"mots": ["ulceration", "digitales", "doigts", "ulcérés"],
 "entree": "Ulcération digitales",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4134,19 +4134,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceration", "indolore", "muqueuse", "buccale"],
+"mots": ["ulceration", "indolore", "muqueuse", "buccale", "ulcérée", "bouche"],
 "entree": "Ulcération indolore de la muqueuse buccale",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulcerations", "genitales", "douloureuses"],
+"mots": ["ulcerations", "genitales", "douloureuses", "sexe", "grande", "petite", "pénis", "verge", "gland", "glande", "ulcérée", "ulcéré"],
 "entree": "Ulcérations génitales douloureuses",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceres", "jambe"],
+"mots": ["ulceres", "jambe", "ulcérée", "ulcere"],
 "entree": "Ulcères de jambe",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4212,7 +4212,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["vertiges", "tete", "tourne", "etourdissements", "etourdissements"],
+"mots": ["vertiges", "tete", "tourne", "etourdissements", "etourdissements", "perte", "equilibre"],
 "entree": "Vertige",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4338,7 +4338,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulcerations", "amygdaliennes", "amygdales"],
+"mots": ["ulcerations", "amygdaliennes", "amygdales", "ulcérés"],
 "entree": "Ulcération amygdalienne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4416,19 +4416,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["insuffisance", "aortique"],
+"mots": ["insuffisance", "aortique", "iao"],
 "entree": "Pathologie >> Insuffisance aortique",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["retrecissement", "aortique"],
+"mots": ["retrecissement", "aortique", "rao"],
 "entree": "Pathologie >> Rétrécissement aortique",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["retrecissement", "pulmonaire"],
+"mots": ["retrecissement", "pulmonaire", "rp"],
 "entree": "Pathologie >> Rétrécissement pulmonaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4440,19 +4440,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["insuffisance", "tricuspide"],
+"mots": ["insuffisance", "tricuspide", "it"],
 "entree": "Pathologie >> Insuffisance tricuspide",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["fond", "œil", "Amas", "pigmentes", "noirs", "long", "vaisseaux"],
+"mots": ["fond", "œil", "oeil", "fo", "Amas", "pigmentes", "noirs", "long", "vaisseaux"],
 "entree": "Fond d'oeil >> Amas pigmentés noirs le long des vaisseaux",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["fond", "œil", "Paleur", "papillaire"],
+"mots": ["fond", "œil", "oeil", "fo", "Paleur", "papillaire"],
 "entree": "Fond d'oeil >> Pâleur papillaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4476,7 +4476,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["apnee"],
+"mots": ["apnee", "arret", "respiration", "respiration", "pauses"],
 "entree": "Apnée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4488,7 +4488,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["aspect", "urines" , "urinaires", "urinaire", "(", "troubles", "hemorragiques", ")"],
+"mots": ["aspect", "urines" , "urinaires", "urinaire", "troubles", "hemorragiques", "rouges"],
 "entree": "Aspect des urines (troubles, hémorragiques)",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4500,7 +4500,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["bradypnee"],
+"mots": ["bradypnee", "ralentissement", "respiration", "respiration"],
 "entree": "Bradypnée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4602,19 +4602,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["fond", "œil", "filaires", "(", "onchocerchose", ")"],
+"mots": ["fond", "œil", "oeil", "fo", "filaires", "onchocerchose"],
 "entree": "Fond d'oeil >> Filaires (Onchocerchose)",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hematomes"],
+"mots": ["hematomes", "collection", "sang", "sanguine", "collecté"],
 "entree": "Hématomes",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["hematospermie", "sang", "sanguin", "sanguine", "serique", "sperme"],
+"mots": ["hematospermie", "sang", "sperme", "rouge", "hematique"],
 "entree": "Hématospermie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4650,19 +4650,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["œdeme", "prepuce"],
+"mots": ["œdeme", "oedeme", "prepuce"],
 "entree": "Oedème du prépuce",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["opacite", "corneenne"],
+"mots": ["opacite", "corneenne", "opaque"],
 "entree": "Opacité cornéenne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["otoscopie", "Bouchon", "cerumen"],
+"mots": ["otoscopie", "Bouchon", "cerumen", "oreil", "bouchés"],
 "entree": "Otoscopie >> Bouchon de cérumen",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -4682,13 +4682,13 @@
 {
 "mots": ["tr", "prostate", "tres", "douloureuse", "tendue"],
 "entree": "TR >> Prostate très douloureuse, tendue",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["prurit", "gland"],
+"mots": ["prurit", "gland", "demangeaisons", "penis", "sexe", "sexuelle"],
 "entree": "Prurit du gland",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -4716,9 +4716,9 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ulceration", "muqueuse", "gland", "ulceree", "lesion"],
+"mots": ["ulceration", "muqueuse", "gland", "sexe", "sexuelle", "penis", "ulceree", "lesion"],
 "entree": "Ulcération de la muqueuse du gland",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -4890,7 +4890,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["pertes", "fœtales", "foetales", "avortements", "repetes", "abrt", "spontanes"],
+"mots": ["pertes", "fœtales", "foetales", "foetales", "avortements", "repetes", "abrt", "spontanes"],
 "entree": "Pertes fœtales",
 "sexe": ["Féminin"],
 "age": ["15-45"]
@@ -4926,19 +4926,19 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["fond", "oeil", "desafferentation", "pupillaire", "(signe", "marcus-gunn)"],
+"mots": ["fond", "oeil", "fo", "desafferentation", "pupillaire", "(signe", "marcus-gunn)"],
 "entree": "Fond d'oeil >> Désafférentation pupillaire (signe de Marcus-Gunn)",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["fond", "oeil", "soulevement", "retine", "neuro-sensorielle"],
+"mots": ["fond", "oeil", "fo", "soulevement", "retine", "neuro-sensorielle"],
 "entree": "Fond d'oeil >> Soulèvement de la rétine neuro-sensorielle",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["fond", "oeil", "dechirures"],
+"mots": ["fond", "oeil", "fo", "dechirures"],
 "entree": "Fond d'oeil >> Déchirures",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -5160,199 +5160,187 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-ADN", "natifs", "Présents"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-ADN", "anti", "ADN", "natifs", "Présents"],
 "entree": "Anticorps anti-ADN natifs >> Présents",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-centromère", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-centromère", "anti", "centromère", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-centromère >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-EBV", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-EBV","anti", "EBV", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-EBV >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-gliadine", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-gliadine","anti", "gliadine", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-gliadine >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-HBC", "Présence"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-HBC", "Présence"],
 "entree": "Anticorps anti-HBC >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-HBe", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-HBe","anti", "HBe", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-HBe >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-HBs", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-HBs","anti", "HBs", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-HBs >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-HD", "Présence"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-HD", "Présence"],
 "entree": "Anticorps anti-HD >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-HSV1", "anti-HSV2", "Réaction", "positive"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-HSV1","anti", "HSV1", "HSV2", "anti-HSV2", "Réaction", "positive"],
 "entree": "Anticorps anti-HSV1 et anti-HSV2 >> Réaction positive",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-LKM1", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-LKM1","anti", "LKM1", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-LKM1 >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-microsomes", "Présence"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-microsomes","anti", "microsomes", "Présence"],
 "entree": "Anticorps anti-microsomes >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-microsomes", "sang", "sanguin", "sanguine", "plasmatique", "serique", "Valeur", "élevée", "augmenté", "augmentation"],
-"entree": "Anticorps anti-microsomes >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
-},
-{
-"mots": ["Anticorps", "antimitochondries", "anti-M2", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "antimitochondries", "anti-M2","anti", "M2", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps antimitochondries anti-M2 >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "antinucléaires", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "antinucléaires", "aan", "ana", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps antinucléaires >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "antiphospholipides", "Présents"],
+"mots": ["Anticorps" , "ac" , "présents" , "antiphospholipides", "Présents"],
 "entree": "Anticorps antiphospholipides >> Présents",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-récepteur", "TSH", "Présence"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-récepteur","anti", "récepteur", "TSH", "Présence"],
 "entree": "Anticorps anti-récepteur de la TSH >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-Scl", "70", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-Scl","anti", "Scl", "70", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-Scl 70 >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-SLA", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-SLA","anti", "SLA", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-SLA >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-thyroglobuline", "Présence"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-thyroglobuline","anti", "thyroglobuline", "Présence", "présent"],
 "entree": "Anticorps anti-thyroglobuline >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "anti-thyroglobuline", "anti", "thyroglobuline", "Ac", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
-"entree": "Anticorps anti-thyroglobuline >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
-},
-{
-"mots": ["Anticorps", "anti-VHC", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-VHC","anti", "VHC", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps anti-VHC >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "dirigés", "contre", "cytoplasme", "polynucléaires", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "dirigés", "contre", "cytoplasme", "polynucléaires", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps dirigés contre le cytoplasme des polynucléaires >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps", "IgG", "anti-toxoplasmique", "sérum", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Anticorps" , "ac" , "présents" , "IgG", "anti-toxoplasmique", "anti", "Toxoplasmose", "toxoplasmique", "sérum", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Anticorps IgG anti-toxoplasmique dans le sérum >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "carcino-embryonnaire", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "élevée", "augmenté", "augmentation"],
+"mots": ["Antigène", "ag", "présent", "carcino-embryonnaire", "carcino", "embryonnaire", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "élevée", "augmenté", "augmentation"],
 "entree": "Antigène carcino-embryonnaire >> Valeur élevée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "HBC", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["Antigène", "ag", "présent", "HBC", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "Antigène HBC >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "HBe", "Présence"],
+"mots": ["Antigène", "ag", "présent", "HBe", "Présence"],
 "entree": "Antigène HBe >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "HBs", "Présence"],
+"mots": ["Antigène", "ag", "présent", "HBs", "Présence"],
 "entree": "Antigène HBs >> Présence",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "HLA", "B27", "présent", "présente"],
+"mots": ["Antigène", "ag", "présent", "HLA", "B27", "présent", "présente"],
 "entree": "Antigène HLA B27 >> Présent",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "HLA", "B5", "présent", "présente"],
+"mots": ["Antigène", "ag", "présent", "HLA", "B5", "présent", "présente"],
 "entree": "Antigène HLA B5 >> Présent",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "HLA", "B51", "présent", "présente"],
+"mots": ["Antigène", "ag", "présent", "HLA", "B51", "présent", "présente"],
 "entree": "Antigène HLA B51 >> Présent",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "P", "24", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "élevée", "augmenté", "augmentation"],
+"mots": ["Antigène", "ag", "présent", "P", "24", "p24", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "élevée", "augmenté", "augmentation"],
 "entree": "Antigène P 24 >> Valeur élevée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigène", "prostatique", "spécifique", "sang", "sanguin", "sanguine", "serique", "plasmatique", "PSA", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Antigène", "ag", "présent", "prostatique", "spécifique", "sang", "sanguin", "sanguine", "serique", "plasmatique", "PSA", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Antigène prostatique spécifique (PSA) >> Valeur élevée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Antigènes", "toxoplasmique", "sang", "sanguin", "sanguine", "serique", "présents"],
+"mots": ["Antigènes", "toxoplasmique", "toxoplasmose", "sang", "sanguin", "sanguine", "serique", "présents"],
 "entree": "Antigènes toxoplasmique dans le sang >> présents",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
