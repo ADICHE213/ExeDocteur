@@ -388,7 +388,19 @@ function exporterPDF() {
     checkPageBreak();
   });
 
-  doc.save(`Diagnostic_${nomPatient.replace(/\s+/g, "_")}.pdf`);
+// -- Pagination --
+const pageCount = doc.internal.getNumberOfPages();
+for (let i = 1; i <= pageCount; i++) {
+  doc.setPage(i);
+  const pageWidth = doc.internal.pageSize.getWidth();
+  const pageHeight = doc.internal.pageSize.getHeight();
+  doc.setFontSize(10);
+  doc.setTextColor(150, 150, 150);
+  doc.text(`Page ${i} / ${pageCount}`, pageWidth / 2, pageHeight - 10, { align: "center" });
+}
+
+// Sauvegarde finale
+doc.save(`Diagnostic_${nomPatient.replace(/\s+/g, "_")}.pdf`);
 }
 
 
