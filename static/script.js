@@ -289,7 +289,7 @@ function exporterPDF() {
     case "0-15": age = "moins de 15 ans"; break;
     case "15-45": age = "entre 15 et 45 ans"; break;
     case ">45": age = "plus de 45 ans"; break;
-    default: age = "non précisée";
+    default: age = "Non précisée";
   }
 
   const entrees = symptomesSelectionnes.length > 0 ? symptomesSelectionnes : ["Aucune"];
