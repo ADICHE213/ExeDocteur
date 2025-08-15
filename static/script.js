@@ -137,7 +137,7 @@ function envoyerDiagnostic() {
         html += `
           <div class="diagnostic-card">
             <div class="diagnostic-title">${diag}</div>
-            <div class="diagnostic-score">           </div>
+            <div class="diagnostic-score">Score : ${score}%</div>
             <div class="link-buttons">
               <a href="${msd}" target="_blank">MSD</a>
               <a href="${wiki}" target="_blank">Wikipédia</a>
