@@ -9132,7 +9132,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Anémie"],
+"mots": ["NFS", "Anémie","hémoglogine", "bas", "chute", "diminué", "faible", "effondrée"],
 "entree": "NFS >> Anémie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
