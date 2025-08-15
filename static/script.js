@@ -298,23 +298,34 @@ function exporterPDF() {
   resultatsElements.forEach(el => diagnostics.push(el.textContent));
   if (diagnostics.length === 0) diagnostics = ["Aucun"];
 
-  // ---- Fonction utilitaire pour vérifier le bas de page ----
   let y = 20;
-  const pageHeight = doc.internal.pageSize.height; // environ 297 pour format A4
+  const pageHeight = doc.internal.pageSize.height;
 
   function checkPageBreak() {
-    if (y > pageHeight - 20) { // marge de 20 mm en bas
+    if (y > pageHeight - 20) {
       doc.addPage();
       y = 20;
     }
   }
 
-  // Titre
+  // Titre principal
   doc.setFont("helvetica", "bold");
   doc.setFontSize(18);
   doc.setTextColor(...bleuMedical);
   doc.text("Rapport Diagnostic - Dr ADICHE", 105, y, { align: "center" });
 
+  // ➕ Ajout date/heure sous le titre
+  const now = new Date();
+  const dateStr = now.toLocaleDateString('fr-FR');
+  const timeStr = now.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' });
+
+  y += 6;
+  doc.setFontSize(11);
+  doc.setFont("helvetica", "normal");
+  doc.setTextColor(0, 0, 0);
+  doc.text(`${dateStr}   ${timeStr}`, 105, y, { align: "center" });
+
+  // Ligne séparation
   y += 5;
   doc.setDrawColor(...grisClair);
   doc.line(10, y, 200, y);
