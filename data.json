@@ -3313,7 +3313,7 @@
 {
 "diagnostic": "Angine",
 "symptomes": ["Mal de gorge", "Fièvre", "Odynophagie", "Amygdalite", "Amygdale(s) hypertrophiée(s) rouge(s)", "Amygdale(s) hypertrophiée(s) blanche(s)", "Ulcération amygdalienne", "Toux", "Dysphonie", "Rhinorrhée", "Coryza", "Rougeur oculaire", "Douleur cervicale", "Nausées", "Vomissements", "Adénopathie(s)", "Douleurs abdominales", "Diarrhée", "éruption", "Macules", "Asthénie", "Splénomégalie", "Pathologie >> Otite", "Pathologie >> Conjonctivite", "NFS >> Hyperleucocytose", "ASLO >> Valeur élevée", "Prélèvement de gorge >> Positif > Streptococcique", "CRP Positive"],
-"frequence": 93,
+"frequence": 97,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
