@@ -159,7 +159,7 @@ function montrerSuggestions() {
   
   const input = document.getElementById("symptomeInput");
 
-  // 🔹 Nettoyer la saisie
+  // Nettoyer la saisie
   let saisie = sansAccents(input.value.trim().toLowerCase());
   saisie = saisie.replace(/[0-9\/\*\_\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!]/g, ""); 
 
@@ -168,11 +168,11 @@ function montrerSuggestions() {
 
   if (!saisie || symptomesDisponiblesData.length === 0) return;
 
-  // 🔹 Découper en mots et ignorer ceux non pertinents
+  // Découper en mots et ignorer ceux non pertinents
   let motsSaisie = saisie.split(' ').filter(mot => mot.length > 0 && !motsIgnorer.has(mot));
   if (motsSaisie.length === 0) return;
 
-  // 🔹 Récupérer sexe et âge sélectionnés
+  // Récupérer sexe et âge sélectionnés
   const sexeChoisi = document.getElementById("sexe").value;
   const ageChoisi = document.getElementById("age").value;
 
@@ -197,7 +197,7 @@ function montrerSuggestions() {
     .map(item => item.entree)
     .filter(s => !symptomesSelectionnes.includes(s));
 
-  // 🔹 Affichage suggestions
+  // Affichage suggestions
   if (suggestions.length > 0) {
     suggestions.forEach(s => {
       const li = document.createElement("li");
@@ -242,7 +242,7 @@ async function chargerSymptomes() {
   }
 }
 
-// 🔹 Réinitialiser les entrées quand on change le sexe ou la tranche d'âge
+// Réinitialiser les entrées quand on change le sexe ou la tranche d'âge
 document.getElementById("sexe").addEventListener("change", () => {
   reinitialiserEntrees();
 });
@@ -251,6 +251,131 @@ document.getElementById("age").addEventListener("change", () => {
   reinitialiserEntrees();
 });
 
+document.getElementById("sexe").addEventListener("change", () => {
+  reinitialiserEntrees();
+  document.getElementById("nomPatient").value = "";
+});
+
+
 
 // Événement pour lancer le chargement des données au démarrage de la page
 document.addEventListener('DOMContentLoaded', chargerSymptomes);
+
+// Mise en majuscule de la première lettre de chaque mot du nom du patient
+document.getElementById("nomPatient").addEventListener("input", function () {
+  this.value = this.value
+    .split(" ")
+    .map(mot => mot.charAt(0).toUpperCase() + mot.slice(1))
+    .join(" ");
+});
+
+function exporterPDF() {
+  if (symptomesSelectionnes.length === 0 && document.getElementById("resultat").innerText.trim() === "") {
+    alert("Aucun diagnostic à exporter.");
+    return;
+  }
+
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+
+  // 🎨 Couleurs
+  const bleuMedical = [0, 102, 204];
+  const grisClair = [200, 200, 200];
+
+  // 📄 Données
+  const nomPatient = document.getElementById("nomPatient").value || "Cas sans nom";
+  const sexe = document.getElementById("sexe").value;
+
+  // Conversion tranche d'âge
+  let age = document.getElementById("age").value;
+  switch (age) {
+    case "<5": age = "moins de 5 ans"; break;
+    case "5-15": age = "entre 5 et 15 ans"; break;
+    case "15-45": age = "entre 15 et 45 ans"; break;
+    case ">45": age = "plus de 45 ans"; break;
+    default: age = "non précisé";
+  }
+
+  const entrees = symptomesSelectionnes.length > 0 ? symptomesSelectionnes : ["Aucune"];
+  const resultatsElements = document.querySelectorAll("#resultat .diagnostic-title");
+  let diagnostics = [];
+  resultatsElements.forEach(el => diagnostics.push(el.textContent));
+  if (diagnostics.length === 0) diagnostics = ["Aucun"];
+
+  let y = 20;
+
+  // 🏷️ Titre principal
+  doc.setFont("helvetica", "bold");
+  doc.setFontSize(18);
+  doc.setTextColor(...bleuMedical);
+  doc.text("Rapport Diagnostic - Dr ADICHE", 105, y, { align: "center" });
+
+  // Ligne de séparation
+  y += 5;
+  doc.setDrawColor(...grisClair);
+  doc.line(10, y, 200, y);
+
+  // 🧍 Infos patient dans encadré
+  y += 10;
+  doc.setFontSize(12);
+  doc.setTextColor(...bleuMedical);
+  doc.setFont("helvetica", "bold");
+  doc.text("Informations du patient", 10, y);
+
+  // Cadre
+  y += 3;
+  doc.setDrawColor(...bleuMedical);
+  doc.rect(10, y, 190, 25);
+
+  // Nom
+  doc.setFont("helvetica", "bold");
+  doc.setTextColor(...bleuMedical);
+  doc.text("Nom :", 12, y + 8);
+  doc.setFont("helvetica", "normal");
+  doc.setTextColor(0, 0, 0);
+  doc.text(nomPatient, 50, y + 8);
+
+  // Sexe
+  doc.setFont("helvetica", "bold");
+  doc.setTextColor(...bleuMedical);
+  doc.text("Sexe :", 12, y + 15);
+  doc.setFont("helvetica", "normal");
+  doc.setTextColor(0, 0, 0);
+  doc.text(sexe, 50, y + 15);
+
+  // Tranche d'âge
+  doc.setFont("helvetica", "bold");
+  doc.setTextColor(...bleuMedical);
+  doc.text("Tranche d'âge :", 12, y + 22);
+  doc.setFont("helvetica", "normal");
+  doc.setTextColor(0, 0, 0);
+  doc.text(age, 50, y + 22); // 🛠 décalage augmenté à 50 pour éviter chevauchement
+
+  // Entrées sélectionnées
+  y += 35;
+  doc.setFont("helvetica", "bold");
+  doc.setTextColor(...bleuMedical);
+  doc.text("Entrées sélectionnées :", 10, y);
+  doc.setFont("helvetica", "normal");
+  doc.setTextColor(0, 0, 0);
+  entrees.forEach(e => {
+    y += 6;
+    doc.text(`• ${e}`, 15, y);
+  });
+
+  // Diagnostics trouvés
+  y += 12;
+  doc.setFont("helvetica", "bold");
+  doc.setTextColor(...bleuMedical);
+  doc.text("Diagnostics trouvés :", 10, y);
+  doc.setFont("helvetica", "normal");
+  doc.setTextColor(0, 0, 0);
+  diagnostics.forEach(d => {
+    y += 6;
+    doc.text(`• ${d}`, 15, y);
+  });
+
+  // Sauvegarde
+  doc.save(`Diagnostic_${nomPatient.replace(/\s+/g, "_")}.pdf`);
+}
+
