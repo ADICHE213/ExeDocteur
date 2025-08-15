@@ -37,7 +37,7 @@
 {
 "diagnostic": "Accident vasculaire cérébral",
 "symptomes": ["Déficit moteur", "Dysarthrie", "Paresthésie", "Hémiparésie", "Hémiplégie", "Aphasie", "Céphalées", "Hypersomnie", "Crises convulsives", "Diplopie", "Vertige", "Tremblements", "Apraxie", "Paralysie faciale", "Pathologie >> Syndrome de Claude Bernard-Horner", "Nausées", "Vomissements", "Pathologie >> Syndrome méningé", "Altération de champ visuel", "Cécité", "Scanner cérébral >> Accident vasculaire cérébral", "IRM cérébrale >> Accident vasculaire cérébral", "Artériographie cérébrale >> Accident vasculaire cérébral", "EEG >> Crise comitiale", "Natrémie >> Hypernatrémie"],
-"frequence": 60,
+"frequence": 73,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
