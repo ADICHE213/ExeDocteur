@@ -289,7 +289,7 @@ function exporterPDF() {
   // Conversion tranche d'âge
   let age = document.getElementById("age").value;
   switch (age) {
-    case "<15": age = "moins de 15 ans"; break;
+    case "0-15": age = "moins de 15 ans"; break;
     case "15-45": age = "entre 15 et 45 ans"; break;
     case ">45": age = "plus de 45 ans"; break;
     default: age = "non précisée";
