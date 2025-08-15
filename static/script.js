@@ -13,7 +13,7 @@ const motsIgnorer = new Set([
     "reprises", "atroce", "térrible", "terrible", "térribles", 
     "terribles", "soir", "sur", "un", "une", "avec", "dans",
     "taux", "valeur", "degre", "degres", "°c", "°C", "forte", "fort", 
-    "sans", "arret"
+    "sans", "arret", "vers", "arrive", "niveau"
 ]);
 
 // Fonction pour normaliser une chaîne de caractères (supprimer les accents)
@@ -278,15 +278,12 @@ function exporterPDF() {
   const { jsPDF } = window.jspdf;
   const doc = new jsPDF();
 
-  // 🎨 Couleurs
   const bleuMedical = [0, 102, 204];
   const grisClair = [200, 200, 200];
 
-  // 📄 Données
   const nomPatient = document.getElementById("nomPatient").value || "Cas sans nom";
   const sexe = document.getElementById("sexe").value;
 
-  // Conversion tranche d'âge
   let age = document.getElementById("age").value;
   switch (age) {
     case "0-15": age = "moins de 15 ans"; break;
@@ -301,80 +298,84 @@ function exporterPDF() {
   resultatsElements.forEach(el => diagnostics.push(el.textContent));
   if (diagnostics.length === 0) diagnostics = ["Aucun"];
 
+  // ---- Fonction utilitaire pour vérifier le bas de page ----
   let y = 20;
+  const pageHeight = doc.internal.pageSize.height; // environ 297 pour format A4
 
-  // 🏷️ Titre principal
+  function checkPageBreak() {
+    if (y > pageHeight - 20) { // marge de 20 mm en bas
+      doc.addPage();
+      y = 20;
+    }
+  }
+
+  // Titre
   doc.setFont("helvetica", "bold");
   doc.setFontSize(18);
   doc.setTextColor(...bleuMedical);
   doc.text("Rapport Diagnostic - Dr ADICHE", 105, y, { align: "center" });
 
-  // Ligne de séparation
   y += 5;
   doc.setDrawColor(...grisClair);
   doc.line(10, y, 200, y);
 
-  // 🧍 Infos patient dans encadré
   y += 10;
   doc.setFontSize(12);
   doc.setTextColor(...bleuMedical);
-  doc.setFont("helvetica", "bold");
   doc.text("Informations du patient", 10, y);
 
-  // Cadre
   y += 3;
   doc.setDrawColor(...bleuMedical);
   doc.rect(10, y, 190, 25);
 
-  // Nom
-  doc.setFont("helvetica", "bold");
-  doc.setTextColor(...bleuMedical);
+  // Nom / Sexe / Age
+  doc.setFont("helvetica", "bold"); doc.setTextColor(...bleuMedical);
   doc.text("Nom :", 12, y + 8);
-  doc.setFont("helvetica", "normal");
-  doc.setTextColor(0, 0, 0);
+  doc.setFont("helvetica", "normal"); doc.setTextColor(0, 0, 0);
   doc.text(nomPatient, 50, y + 8);
 
-  // Sexe
-  doc.setFont("helvetica", "bold");
-  doc.setTextColor(...bleuMedical);
+  doc.setFont("helvetica", "bold"); doc.setTextColor(...bleuMedical);
   doc.text("Sexe :", 12, y + 15);
-  doc.setFont("helvetica", "normal");
-  doc.setTextColor(0, 0, 0);
+  doc.setFont("helvetica", "normal"); doc.setTextColor(0, 0, 0);
   doc.text(sexe, 50, y + 15);
 
-  // Tranche d'âge
-  doc.setFont("helvetica", "bold");
-  doc.setTextColor(...bleuMedical);
+  doc.setFont("helvetica", "bold"); doc.setTextColor(...bleuMedical);
   doc.text("Tranche d'âge :", 12, y + 22);
-  doc.setFont("helvetica", "normal");
-  doc.setTextColor(0, 0, 0);
-  doc.text(age, 50, y + 22); // 🛠 décalage augmenté à 50 pour éviter chevauchement
+  doc.setFont("helvetica", "normal"); doc.setTextColor(0, 0, 0);
+  doc.text(age, 50, y + 22);
 
-  // 📌 Entrées sélectionnées
   y += 35;
+  checkPageBreak();
+
+  // Entrées sélectionnées
   doc.setFont("helvetica", "bold");
   doc.setTextColor(...bleuMedical);
   doc.text("Entrées sélectionnées :", 10, y);
+  y += 6;
   doc.setFont("helvetica", "normal");
   doc.setTextColor(0, 0, 0);
   entrees.forEach(e => {
-    y += 6;
     doc.text(`• ${e}`, 15, y);
+    y += 6;
+    checkPageBreak();
   });
 
-  // 📌 Diagnostics trouvés
-  y += 12;
+  // Diagnostics trouvés
+  y += 4;
+  checkPageBreak();
   doc.setFont("helvetica", "bold");
   doc.setTextColor(...bleuMedical);
   doc.text("Diagnostics trouvés :", 10, y);
+  y += 6;
   doc.setFont("helvetica", "normal");
   doc.setTextColor(0, 0, 0);
   diagnostics.forEach(d => {
-    y += 6;
     doc.text(`• ${d}`, 15, y);
+    y += 6;
+    checkPageBreak();
   });
 
-  // 💾 Sauvegarde
   doc.save(`Diagnostic_${nomPatient.replace(/\s+/g, "_")}.pdf`);
 }
+
 
