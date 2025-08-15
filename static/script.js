@@ -322,7 +322,8 @@ function exporterPDF() {
   y += 6;
   doc.setFontSize(11);
   doc.setFont("helvetica", "normal");
-  doc.setTextColor(0, 0, 0);
+  doc.setTextColor(...bleuMedical);
+  //doc.setTextColor(0, 0, 0);
   doc.text(`${dateStr}   ${timeStr}`, 105, y, { align: "center" });
 
   // Ligne séparation
@@ -333,6 +334,7 @@ function exporterPDF() {
   y += 10;
   doc.setFontSize(12);
   doc.setTextColor(...bleuMedical);
+  doc.setFont("helvetica", "bold"); 
   doc.text("Informations du patient", 10, y);
 
   y += 3;
