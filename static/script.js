@@ -122,7 +122,7 @@ function envoyerDiagnostic() {
     if (data.length === 0) {
       html = `
         <div style="padding: 10px; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 6px; color: #856404;">
-          Aucun diagnostic ne correspond aux entrées sélectionnées.
+          Dans cette version de l’application, aucun diagnostic ne correspond aux entrées sélectionnées. N’hésitez pas à nous signaler ce cas pour une prochaine mise à jour.
         </div>
       `;
     } else {
@@ -159,7 +159,7 @@ function montrerSuggestions() {
   
   const input = document.getElementById("symptomeInput");
 
-  // Nettoyer la saisie
+  // 🔹 Nettoyer la saisie
   let saisie = sansAccents(input.value.trim().toLowerCase());
   saisie = saisie.replace(/[0-9\/\*\_\+\=\.\,\;\:\#\&\@\|\%\>\<\?\!]/g, ""); 
 
@@ -168,11 +168,11 @@ function montrerSuggestions() {
 
   if (!saisie || symptomesDisponiblesData.length === 0) return;
 
-  // Découper en mots et ignorer ceux non pertinents
+  // 🔹 Découper en mots et ignorer ceux non pertinents
   let motsSaisie = saisie.split(' ').filter(mot => mot.length > 0 && !motsIgnorer.has(mot));
   if (motsSaisie.length === 0) return;
 
-  // Récupérer sexe et âge sélectionnés
+  // 🔹 Récupérer sexe et âge sélectionnés
   const sexeChoisi = document.getElementById("sexe").value;
   const ageChoisi = document.getElementById("age").value;
 
@@ -197,7 +197,7 @@ function montrerSuggestions() {
     .map(item => item.entree)
     .filter(s => !symptomesSelectionnes.includes(s));
 
-  // Affichage suggestions
+  // 🔹 Affichage suggestions
   if (suggestions.length > 0) {
     suggestions.forEach(s => {
       const li = document.createElement("li");
@@ -242,7 +242,7 @@ async function chargerSymptomes() {
   }
 }
 
-// Réinitialiser les entrées quand on change le sexe ou la tranche d'âge
+// 🔹 Réinitialiser les entrées quand on change le sexe ou la tranche d'âge
 document.getElementById("sexe").addEventListener("change", () => {
   reinitialiserEntrees();
 });
@@ -261,7 +261,7 @@ document.getElementById("sexe").addEventListener("change", () => {
 // Événement pour lancer le chargement des données au démarrage de la page
 document.addEventListener('DOMContentLoaded', chargerSymptomes);
 
-// Mise en majuscule de la première lettre de chaque mot du nom du patient
+// 🔹 Mise en majuscule de la première lettre de chaque mot du nom du patient
 document.getElementById("nomPatient").addEventListener("input", function () {
   this.value = this.value
     .split(" ")
@@ -351,7 +351,7 @@ function exporterPDF() {
   doc.setTextColor(0, 0, 0);
   doc.text(age, 50, y + 22); // 🛠 décalage augmenté à 50 pour éviter chevauchement
 
-  // Entrées sélectionnées
+  // 📌 Entrées sélectionnées
   y += 35;
   doc.setFont("helvetica", "bold");
   doc.setTextColor(...bleuMedical);
@@ -363,7 +363,7 @@ function exporterPDF() {
     doc.text(`• ${e}`, 15, y);
   });
 
-  // Diagnostics trouvés
+  // 📌 Diagnostics trouvés
   y += 12;
   doc.setFont("helvetica", "bold");
   doc.setTextColor(...bleuMedical);
@@ -375,7 +375,7 @@ function exporterPDF() {
     doc.text(`• ${d}`, 15, y);
   });
 
-  // Sauvegarde
+  // 💾 Sauvegarde
   doc.save(`Diagnostic_${nomPatient.replace(/\s+/g, "_")}.pdf`);
 }
 
