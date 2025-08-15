@@ -981,7 +981,7 @@
 },
 {
 "diagnostic": "Diphtérie",
-"symptomes": ["Pathologie >> Angine", "Angine rouge avec fausse membranes", "Fièvre", "Amygdalite", "Amygdale(s) hypertrophiée(s) rouge(s)", "Adénopathie(s)", "Dyspnée", "Toux", "Troubles de l'accommodation", "Paralysie du voile du palais", "Syndrome hémorragique", "Pathologie >> Insuffisance rénale", "Myocardite", "Coryza", "Prélèvement de gorge sur milieu de L?ffler >> Corynebacterium diphteriae"],
+"symptomes": ["Pathologie >> Angine", "Angine rouge avec fausse membranes", "Fièvre", "Amygdalite", "Amygdale(s) hypertrophiée(s) rouge(s)", "Adénopathie(s)", "Dyspnée", "Toux", "Troubles de l'accommodation", "Paralysie du voile du palais", "Syndrome hémorragique", "Pathologie >> Insuffisance rénale", "Myocardite", "Coryza", "Prélèvement de gorge sur milieu de Loeffler >> Corynebacterium diphteriae"],
 "frequence": 5,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -2401,7 +2401,7 @@
 "age": ["15-45",">45"]
 },
 {
-"diagnostic": "Placenta pr?via",
+"diagnostic": "Placenta praevia",
 "symptomes": ["Métrorragies du 3ème trimestre"],
 "frequence": 15,
 "sexe": ["Féminin"],
@@ -2661,7 +2661,7 @@
 },
 {
 "diagnostic": "Rougeole",
-"symptomes": ["Fièvre", "Catarrhe", "énanthème avec signe de K?plick", "éruption", "Macules", "érythème", "Papules cutanées", "Adénopathie(s)", "Pathologie >> Rhinite", "Toux", "Vomissements", "Anorexie", "Douleurs abdominales", "Diarrhée", "Pathologie >> Pharyngite"],
+"symptomes": ["Fièvre", "Catarrhe", "énanthème avec signe de Koplick", "éruption", "Macules", "érythème", "Papules cutanées", "Adénopathie(s)", "Pathologie >> Rhinite", "Toux", "Vomissements", "Anorexie", "Douleurs abdominales", "Diarrhée", "Pathologie >> Pharyngite"],
 "frequence": 80,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45"]
@@ -3074,7 +3074,7 @@
 },
 {
 "diagnostic": "Tuberculose",
-"symptomes": ["Toux", "Hémoptysie", "Fièvre", "Sueurs nocturnes", "Amaigrissement", "Altération de l'état général", "Adénopathie(s)", "Douleur thoracique", "Hépatomégalie", "Splénomégalie", "IDR a la tuberculine >> Résultat positif", "VS >> Accélérée", "CRP Positive", "Culture sur milieu de L?wenstein >> Résultat positif", "Examen direct de crachats >> bacille de Koch", "Examen direct après tubages gastriques >> bacille de Koch", "Examen direct de produits de fibroscopies bronchiques >> bacille de Koch", "Biopsie ganglionnaire >> granulome avec nécrose caséeuse", "Radiographie de thorax >> Cavernes", "Radiographie de thorax >> Syndrome interstitiel", "Radiographie de thorax >> Miliaire", "Radiographie de thorax >> Infiltrat", "Radiographie de thorax >> épanchement pleural", "Radiographie de thorax >> Pneumothorax", "Radiographie de thorax >> Pyopneumothorax", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "Natrémie >> Hyponatrémie"],
+"symptomes": ["Toux", "Hémoptysie", "Fièvre", "Sueurs nocturnes", "Amaigrissement", "Altération de l'état général", "Adénopathie(s)", "Douleur thoracique", "Hépatomégalie", "Splénomégalie", "IDR a la tuberculine >> Résultat positif", "VS >> Accélérée", "CRP Positive", "Culture sur milieu de Löwenstein >> Résultat positif", "Examen direct de crachats >> bacille de Koch", "Examen direct après tubages gastriques >> bacille de Koch", "Examen direct de produits de fibroscopies bronchiques >> bacille de Koch", "Biopsie ganglionnaire >> granulome avec nécrose caséeuse", "Radiographie de thorax >> Cavernes", "Radiographie de thorax >> Syndrome interstitiel", "Radiographie de thorax >> Miliaire", "Radiographie de thorax >> Infiltrat", "Radiographie de thorax >> épanchement pleural", "Radiographie de thorax >> Pneumothorax", "Radiographie de thorax >> Pyopneumothorax", "Electrophorèse des protéines sériques >> hypergammaglobulinémie", "Natrémie >> Hyponatrémie"],
 "frequence": 85,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -3466,14 +3466,14 @@
 },
 {
 "diagnostic": "Cysticercose",
-"symptomes": ["Exophtalmie", "Strabisme", "Cécité", "Crises convulsives", "Céphalées", "Confusion", "Vertige", "Scanner cérébral >> Kystes (Cysticercose)", "IRM cérébrale >> Kystes (Cysticercose)", "Examen parasitologique des selles >> T?nia solium"],
+"symptomes": ["Exophtalmie", "Strabisme", "Cécité", "Crises convulsives", "Céphalées", "Confusion", "Vertige", "Scanner cérébral >> Kystes (Cysticercose)", "IRM cérébrale >> Kystes (Cysticercose)", "Examen parasitologique des selles >> Taenia solium"],
 "frequence": 38,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"diagnostic": "T?niase",
-"symptomes": ["Anorexie", "Douleurs abdominales", "Nausées", "Diarrhée", "Constipation", "Pathologie >> Urticaire", "Prurit", "Exophtalmie", "Strabisme", "Cécité", "Crises convulsives", "Céphalées", "Confusion", "Vertige", "NFS >> Anémie", "Examen parasitologique des selles >> T?nia solium", "Examen parasitologique des selles >> T?nia saginata", "Examen parasitologique des selles >> Hymenolepis nana", "Scanner cérébral >> Kystes (Cysticercose)", "IRM cérébrale >> Kystes (Cysticercose)", "NFS >> Microcytose"],
+"diagnostic": "Taeniase",
+"symptomes": ["Anorexie", "Douleurs abdominales", "Nausées", "Diarrhée", "Constipation", "Pathologie >> Urticaire", "Prurit", "Exophtalmie", "Strabisme", "Cécité", "Crises convulsives", "Céphalées", "Confusion", "Vertige", "NFS >> Anémie", "Examen parasitologique des selles >> Taenia solium", "Examen parasitologique des selles >> Taenia saginata", "Examen parasitologique des selles >> Hymenolepis nana", "Scanner cérébral >> Kystes (Cysticercose)", "IRM cérébrale >> Kystes (Cysticercose)", "NFS >> Microcytose"],
 "frequence": 48,
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
