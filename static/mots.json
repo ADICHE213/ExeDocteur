@@ -1578,13 +1578,13 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["expectoration", "crachats", "crache"],
+"mots": ["expectoration", "crachats", "crache", "glaires", "glaireuses"],
 "entree": "Expectoration",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["expectoration", "mousseuse", "rose", "saumonee"],
+"mots": ["expectoration", "mousseuse", "rose", "saumonee", "glaires", "glaireuses"],
 "entree": "Expectoration mousseuse rose saumonée ",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -7020,7 +7020,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["ECG", "Ondes", "T", "inversées", "négative"],
+"mots": ["ECG", "Ondes", "T", "inversées", "négatives"],
 "entree": "ECG >> Ondes T inversées",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
