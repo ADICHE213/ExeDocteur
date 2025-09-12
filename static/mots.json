@@ -5804,25 +5804,25 @@
 {
 "mots": ["Biopsie", "l'ovaire", "adénocarcinomes"],
 "entree": "Biopsie de l'ovaire >> adénocarcinomes",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Biopsie", "l'ovaire", "carcinomes", "embryonnaires"],
 "entree": "Biopsie de l'ovaire >> carcinomes embryonnaires",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Biopsie", "l'ovaire", "cystadénocarcinome"],
 "entree": "Biopsie de l'ovaire >> cystadénocarcinome",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Biopsie", "l'ovaire", "dysgerminomes"],
 "entree": "Biopsie de l'ovaire >> dysgerminomes",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -5846,25 +5846,25 @@
 {
 "mots": ["Biopsie", "col", "utérin", "Col", "utérin", "cancer"],
 "entree": "Biopsie du col utérin >> Col utérin, cancer du",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "mamelon", "carcinome", "intracanalaire"],
 "entree": "Biopsie du mamelon >> carcinome intracanalaire",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "mamelon", "Micro-invasion", "l'épiderme", "associée", "grandes", "cellules", "peu", "colorées", "épidermiques"],
 "entree": "Biopsie du mamelon >> Micro-invasion de l'épiderme associée à de grandes cellules peu colorées épidermiques",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "testicule", "Testicule", "cancer"],
 "entree": "Biopsie du testicule >> Testicule, cancer du",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -6008,7 +6008,7 @@
 {
 "mots": ["Biopsie", "mammaire", "Formation", "kystes", "fibroses"],
 "entree": "Biopsie mammaire >> Formation de kystes et de fibroses",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -6164,32 +6164,32 @@
 {
 "mots": ["Biopsie", "prostatique", "Adénocarcinome"],
 "entree": "Biopsie prostatique >> Adénocarcinome",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "prostatique", "épithéliomas", "canaux", "prostatiques"],
 "entree": "Biopsie prostatique >> épithéliomas des canaux prostatiques",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "prostatique", "épithéliomas", "reliquats", "müllériens"],
 "entree": "Biopsie prostatique >> épithéliomas des reliquats müllériens",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "prostatique", "lymphomes"],
 "entree": "Biopsie prostatique >> lymphomes",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "prostatique", "sarcomes"],
 "entree": "Biopsie prostatique >> sarcomes",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "pulmonaire", "granulome", "cellules", "Langerhans"],
@@ -6248,8 +6248,8 @@
 {
 "mots": ["Biopsie", "utérine", "Corps", "utérin", "cancer"],
 "entree": "Biopsie utérine >> Corps utérin, cancer du",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Biopsie", "vasculaire", "Périartérite", "noueuse"],
@@ -6312,7 +6312,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["c-ANCA", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["c-ANCA", "c", "anca", "canca", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "c-ANCA >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -6422,7 +6422,7 @@
 {
 "mots": ["Coelioscopie", "Grossesse", "extra-utérine"],
 "entree": "Coelioscopie >> Grossesse extra-utérine",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -6470,8 +6470,8 @@
 {
 "mots": ["Colposcopie", "biopsies", "directes", "Vagin", "cancer"],
 "entree": "Colposcopie avec biopsies directes >> Vagin, cancer du",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Coproculture", "(Clostridium", "difficile)", "Résultat", "positif", "positive", "présent", "présente"],
@@ -6734,8 +6734,8 @@
 {
 "mots": ["Cystoscopie", "prostate", "augmentée", "volume"],
 "entree": "Cystoscopie >> prostate augmentée de volume",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Cystoscopie", "trabéculations", "vésicales"],
@@ -6999,7 +6999,7 @@
 "mots": ["ECG", "Onde", "Q", "nécrose", "creusée", "profonde"],
 "entree": "ECG >> Onde Q de nécrose",
 "sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"age": ["15-45",">45"]
 },
 {
 "mots": ["ECG", "Onde", "U"],
@@ -7200,9 +7200,9 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Echocardiographie", "scrotale", "masse", "testiculaire", "hypoéchogène"],
-"entree": "Echocardiographie scrotale >> masse testiculaire, hypoéchogène",
-"sexe": ["Masculin","Féminin"],
+"mots": ["Echographie", "scrotale", "masse", "testiculaire", "hypoéchogène"],
+"entree": "Echographie scrotale >> masse testiculaire, hypoéchogène",
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -7268,7 +7268,7 @@
 {
 "mots": ["Echodoppler", "testiculaire", "absence", "ou", "une", "diminution", "flux", "artériel", "cordon", "spermatique"],
 "entree": "Echodoppler testiculaire >> absence ou une diminution du flux artériel dans le cordon spermatique",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -8228,13 +8228,13 @@
 {
 "mots": ["FSH", "LH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "bas", "baisse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "FSH, LH >> Valeur basse",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["FSH", "LH", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "FSH, LH >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -8498,20 +8498,20 @@
 {
 "mots": ["Hystéroscopie", "fibromes", "sous-muqueux"],
 "entree": "Hystéroscopie >> fibromes sous-muqueux",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Hystéroscopie", "Lésion", "bourgeonnante", "cavité"],
 "entree": "Hystéroscopie >> Lésion bourgeonnante dans la cavité",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Hystéroscopie", "Lésion", "d'hyperplasie", "endométriale"],
 "entree": "Hystéroscopie >> Lésion d'hyperplasie endométriale",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Féminin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["IDR", "tuberculine", "Résultat", "positif", "positive", "présent", "présente"],
@@ -9132,145 +9132,145 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Anémie","hémoglogine", "bas", "chute", "diminué", "faible", "effondrée"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Anémie","hémoglogine", "bas", "basse", "chute", "diminué", "diminution", "faible", "effondrement", "effondrée"],
 "entree": "NFS >> Anémie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Eosinophilie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Eosinophilie"],
 "entree": "NFS >> Eosinophilie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Eosinophilopénie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Eosinophilopénie"],
 "entree": "NFS >> Eosinophilopénie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Hémoconcentration"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Hémoconcentration"],
 "entree": "NFS >> Hémoconcentration",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Hyperbasophiles"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Hyperbasophiles"],
 "entree": "NFS >> Hyperbasophiles",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Hyperéosinophilie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Hyperéosinophilie"],
 "entree": "NFS >> Hyperéosinophilie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Hyperleucocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Hyperleucocytose"],
 "entree": "NFS >> Hyperleucocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Hyperlymphocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Hyperlymphocytose"],
 "entree": "NFS >> Hyperlymphocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Hypobasophilie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Hypobasophilie"],
 "entree": "NFS >> Hypobasophilie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Leucocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Leucocytose"],
 "entree": "NFS >> Leucocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Leuconeutropénie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Leuconeutropénie"],
 "entree": "NFS >> Leuconeutropénie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Leucopénie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Leucopénie"],
 "entree": "NFS >> Leucopénie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Lymphocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Lymphocytose"],
 "entree": "NFS >> Lymphocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Lymphopénie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Lymphopénie"],
 "entree": "NFS >> Lymphopénie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Macrocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Macrocytose"],
 "entree": "NFS >> Macrocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Microcytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Microcytose"],
 "entree": "NFS >> Microcytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Monocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Monocytose"],
 "entree": "NFS >> Monocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Myélémie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Myélémie"],
 "entree": "NFS >> Myélémie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Neutropénie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Neutropénie"],
 "entree": "NFS >> Neutropénie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Normocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Normocytose"],
 "entree": "NFS >> Normocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Polyglobulie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Polyglobulie"],
 "entree": "NFS >> Polyglobulie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Taux", "d'hémoglobine", "élevé"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Taux", "valeur", "d'hémoglobine", "hémoglobine", "élevé"],
 "entree": "NFS >> Taux d'hémoglobine élevé",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Thrombocytose"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Thrombocytose"],
 "entree": "NFS >> Thrombocytose",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["NFS", "Thrombopénie"],
+"mots": ["NFS", "FNS" , "numeration", "formule", "sanguine", "Thrombopénie", "taux", "bas", "plaquette", "basse", "diminuée", "effondrée", "effondrement"],
 "entree": "NFS >> Thrombopénie",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -9284,7 +9284,7 @@
 {
 "mots": ["Oestrone", "oestradiol", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Oestrone et oestradiol >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -9294,31 +9294,31 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Osmolalité", "sanguine", "Hypo-osmolalité", "sanguine"],
+"mots": ["Osmolalité", "hypo", "sanguine", "Hypo-osmolalité", "sanguine"],
 "entree": "Osmolalité sanguine >> Hypo-osmolalité sanguine",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Osmolalité", "sang", "sanguin", "sanguine", "serique", "sanguine", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["Osmolalité", "hyperosmolalité", "sang", "sanguin", "sanguine", "serique", "sanguine", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Osmolalité sanguine >> Valeur élevée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Osmolalité", "urinaire", "hyperosmolalité", "urinaire"],
+"mots": ["Osmolalité", "hyperosmolalité", "urinaire", "hyperosmolalité", "urinaire"],
 "entree": "Osmolalité urinaire >> hyperosmolalité urinaire",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["p-ANCA", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["p-ANCA", "p", "anca", "panca", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "p-ANCA >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["PDF", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
+"mots": ["PDF", "produits", "degradation", "febrine", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "PDF >> Valeur élevée",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -9330,7 +9330,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["pHmétie", "oesophagienne", "Résultat", "positif", "positive", "présent", "présente"],
+"mots": ["pHmétie", "oesophagienne", "ph", "oesophage", "acide", "bas", "Résultat", "positif", "positive", "présent", "présente"],
 "entree": "pHmétie oesophagienne >> Résultat positif",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
@@ -9344,7 +9344,7 @@
 {
 "mots": ["Phosphatases", "acides", "prostatiques", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Phosphatases acides prostatiques >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -9614,25 +9614,25 @@
 {
 "mots": ["Prélèvement", "vaginal", "Résultat", "positif", "positive", "présent", "présente", "Candida"],
 "entree": "Prélèvement vaginal >> Résultat positif > Candida",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Prélèvement", "vaginal", "Résultat", "positif", "positive", "présent", "présente", "Gonococcie"],
 "entree": "Prélèvement vaginal >> Résultat positif > Gonococcie",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Prélèvement", "vaginal", "Résultat", "positif", "positive", "présent", "présente", "inclusion", "cytoplasmique", "(Chlamydia)"],
 "entree": "Prélèvement vaginal >> Résultat positif > inclusion cytoplasmique (Chlamydia)",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Prélèvement", "vaginal", "Résultat", "positif", "positive", "présent", "présente", "Trichomonase"],
 "entree": "Prélèvement vaginal >> Résultat positif > Trichomonase",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -9698,7 +9698,7 @@
 {
 "mots": ["Progesterone", "Valeur", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Progesterone >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -11366,13 +11366,13 @@
 {
 "mots": ["Testostérone", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "basse", "bas", "baisse", "diminuée", "diminution", "effondrée", "déficitaire", "déficience", "manque", "chute"],
 "entree": "Testostérone >> Valeur basse",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Masculin"],
 "age": ["0-15","15-45",">45"]
 },
 {
 "mots": ["Testostérone", "testosteronemie", "sang", "sanguin", "sanguine", "serique", "plasmatique", "Valeur", "élevée", "augmenté", "augmentation"],
 "entree": "Testostérone >> Valeur élevée",
-"sexe": ["Masculin","Féminin"],
+"sexe": ["Féminin"],
 "age": ["0-15","15-45",">45"]
 },
 {
@@ -11522,8 +11522,8 @@
 {
 "mots": ["Urographie", "intraveineuse", "Adénome", "prostate"],
 "entree": "Urographie intraveineuse >> Adénome de la prostate",
-"sexe": ["Masculin","Féminin"],
-"age": ["0-15","15-45",">45"]
+"sexe": ["Masculin"],
+"age": ["15-45",">45"]
 },
 {
 "mots": ["Urographie", "intraveineuse", "allongement", "bassinet"],
