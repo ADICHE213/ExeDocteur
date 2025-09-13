@@ -5160,7 +5160,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Anticorps" , "ac" , "présents" , "anti-ADN", "anti", "ADN", "natifs", "Présents"],
+"mots": ["Anticorps" , "ac" , "présents" , "anti-ADN", "anti", "ADN", "DNA", "natifs", "Présents"],
 "entree": "Anticorps anti-ADN natifs >> Présents",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
