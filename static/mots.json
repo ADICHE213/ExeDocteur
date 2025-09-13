@@ -5154,7 +5154,7 @@
 "age": ["0-15","15-45",">45"]
 },
 {
-"mots": ["Angio-IRM", "cervicale", "dissection", "carotidienne"],
+"mots": ["Angio-IRM", "Angio", "IRM", "cervicale", "dissection", "carotidienne"],
 "entree": "Angio-IRM cervicale >> dissection carotidienne",
 "sexe": ["Masculin","Féminin"],
 "age": ["0-15","15-45",">45"]
