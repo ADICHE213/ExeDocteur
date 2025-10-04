@@ -192,9 +192,9 @@
 
 
 
-        <h3>Ajouter une entrée (Symptômes ...)</h3>
+        <h3>Ajouter une entrée (Symptôme ...)</h3>
 
-        <input id="symptomeInput" type="text" placeholder="Tapez une entrée (Symptômes ...)" oninput="montrerSuggestions()">
+        <input id="symptomeInput" type="text" placeholder="Tapez une entrée (Symptôme ...)" oninput="montrerSuggestions()">
 <ul id="suggestions" style="list-style: none; padding: 0; margin-top: -8px;"></ul>
         <datalist id="symptomes">
             {% for s in symptomes %}
@@ -214,6 +214,7 @@
 <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
+
 
 
 
